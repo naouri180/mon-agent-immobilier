@@ -54,15 +54,17 @@ jobs:
         run: npm install --omit=dev --no-audit --no-fund
 
       - name: Recherche de nouvelles annonces
-        if: (github.event_name == 'schedule' && github.event.schedule != '43 5 * * *') || (github.event_name == 'workflow_dispatch' && inputs.mode == 'recherche')
+        id: search
+        if: (github.event_name == 'schedule' && github.event.schedule != '43 5 * * *') || (github.event_name == 'workflow_dispatch' && inputs.mode == 'recherche') || (github.event_name == 'push' && contains(github.event.head_commit.message, '[recherche]'))
         run: node agent/run.js
 
       - name: Résumé quotidien
-        if: (github.event_name == 'schedule' && github.event.schedule == '43 5 * * *') || (github.event_name == 'workflow_dispatch' && inputs.mode == 'resume')
+        id: digest
+        if: (github.event_name == 'schedule' && github.event.schedule == '43 5 * * *') || (github.event_name == 'workflow_dispatch' && inputs.mode == 'resume') || (github.event_name == 'push' && contains(github.event.head_commit.message, '[resume]'))
         run: node agent/run.js --digest
 
       - name: Enregistrer les résultats (base de données)
-        if: github.event_name != 'push'
+        if: steps.search.outcome == 'success'
         run: |
           git config user.name "mon-agent-immobilier[bot]"
           git config user.email "agent@users.noreply.github.com"
