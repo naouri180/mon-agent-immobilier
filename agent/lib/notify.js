@@ -12,14 +12,14 @@ export function buildMessages(events, { appUrl }) {
   const msgs = [];
   for (const l of events.hot) {
     msgs.push({
-      title: `Nouvelle opportunité : ${l.quartier || 'Bayonne'} (${String(l._score).replace(".", ",")}/10)`,
+      title: `Nouvelle opportunité : ${l.city && l.city !== 'Bayonne' ? l.city : (l.quartier || 'Bayonne')} (${String(l._score).replace(".", ",")}/10)`,
       body: `${lineFor(l)}\n${l.title || ''}`, url: l.url, tags: ['house', 'sparkles'], priority: 4
     });
   }
   for (const { listing: l, change } of events.drops) {
     const pct = Math.round((change.diff / change.from) * 1000) / 10;
     msgs.push({
-      title: `Baisse de prix ${pct} % : ${l.quartier || 'Bayonne'}`,
+      title: `Baisse de prix ${pct} % : ${l.city && l.city !== 'Bayonne' ? l.city : (l.quartier || 'Bayonne')}`,
       body: `${fmt(change.from)} € → ${fmt(change.to)} €\n${lineFor(l)}`, url: l.url, tags: ['chart_with_downwards_trend'], priority: 4
     });
   }
@@ -32,7 +32,7 @@ export function buildDigest(listings, { appUrl, sinceHours = 24 }) {
   const fresh = listings.filter(l => new Date(l.firstSeen).getTime() >= since - 86400e3 / 2);
   const lines = [
     `${top.length} bien(s) correspondent à vos critères. Les meilleurs :`,
-    ...top.map((l, i) => `${i + 1}. ${lineFor(l)}${l.quartier ? ' · ' + l.quartier : ''}\n   ${l.url}`),
+    ...top.map((l, i) => `${i + 1}. ${lineFor(l)}${l.city && l.city !== 'Bayonne' ? ' · ' + l.city : (l.quartier ? ' · ' + l.quartier : '')}\n   ${l.url}`),
     '',
     fresh.length ? `${fresh.length} nouvelle(s) annonce(s) depuis hier.` : 'Pas de nouvelle annonce depuis hier.',
     appUrl ? `\nOuvrir l'application : ${appUrl}` : ''

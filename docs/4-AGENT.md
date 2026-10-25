@@ -16,6 +16,10 @@ Tous les réglages de l'agent sont dans `agent/config.json`. Pour le modifier : 
 
 Les informations lues automatiquement sont marquées « Fiche lue automatiquement : à vérifier » : vérifiez toujours sur l'annonce d'origine avant une visite.
 
+## Périmètre : 30 km autour de Bayonne
+
+`collect.radiusKm` fixe le rayon (à vol d'oiseau depuis le centre de Bayonne) des annonces enregistrées ; `criteria.radiusKm` le rayon pris en compte pour « Correspond » et les alertes. Les communes connues, leur code postal et leur position sont dans `agent/lib/communes.js` : celles marquées `true` ont leurs pages de résultats consultées sur chaque site (Anglet, Biarritz, Boucau, Tarnos, Bidart, Saint-Jean-de-Luz, Hendaye, Ustaritz, Cambo-les-Bains, Capbreton, Hossegor, Ondres, Labenne, Seignosse…). Une annonce dont la commune n'est pas reconnue est écartée. Le prix au m² est toujours comparé à la référence de Bayonne (`refPriceM2`) : une annonce à Biarritz ou Saint-Jean-de-Luz, plus chers, aura donc une note « prix » plus basse.
+
 ## Respect des sites
 
 - L'agent s'identifie (`MonAgentImmobilier/1.0`), lit `robots.txt` avant toute page et n'ouvre jamais une page interdite.

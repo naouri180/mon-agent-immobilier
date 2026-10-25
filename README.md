@@ -1,6 +1,6 @@
 # Mon Agent Immobilier
 
-Application personnelle (PWA installable sur iPhone) + agent automatique qui recherche, vérifie, note et suit les appartements à vendre à Bayonne, et vous alerte sur votre téléphone.
+Application personnelle (PWA installable sur iPhone) + agent automatique qui recherche, vérifie, note et suit les appartements à vendre à Bayonne et dans un rayon de 30 km, et vous alerte sur votre téléphone.
 
 Tout fonctionne **gratuitement** avec un compte GitHub : GitHub Pages héberge l'application, GitHub Actions fait tourner l'agent 3 fois par jour, et la base de données est un fichier JSON enregistré dans le dépôt à chaque passage.
 

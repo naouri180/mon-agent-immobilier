@@ -3,6 +3,8 @@
 // pour fonctionner sur plusieurs sites sans dépendre d'une mise en page précise.
 // Règle : une information introuvable reste null, jamais devinée.
 
+import { findCommune, distanceKm } from './communes.js';
+
 const QUARTIERS = [
   'Habas La Plaine', 'Polo Beyris', 'Grand Bayonne', 'Petit Bayonne', 'Hauts de Bayonne', 'Saint-Esprit', 'Saint Esprit',
   'Saint-Léon', 'Saint Léon', 'Saint-Étienne', 'Saint Etienne', 'Saint-Bernard', 'Saint-André', 'Saint-Frédéric',
@@ -214,8 +216,8 @@ export function extractListing(html, url) {
   const titleSold = /\bvendu\b(?!\s*(?:lou|meubl|avec|en |libre|occup))/i.test(title + ' ' + h1);
   const sold = titleSold || soldRe.test(desc) || soldRe.test(main.slice(0, 2000));
 
-  const where = (url + ' ' + top + ' ' + main.slice(0, 4000)).toLowerCase();
-  const quartier = QUARTIERS.find(q => new RegExp(`\\b${q.replace(/[-\s]/g, '[-\\s]')}\\b`, 'i').test(main.slice(0, 6000))) || null;
+  const commune = findCommune({ url, title: title + ' ' + h1, text: main });
+  const quartier = commune?.name !== 'Bayonne' ? null : QUARTIERS.find(q => new RegExp(`\\b${q.replace(/[-\s]/g, '[-\\s]')}\\b`, 'i').test(main.slice(0, 6000))) || null;
   const isApartment = /appartement|\bT[1-6]\b|\bF[1-6]\b|studio|duplex/i.test(top + ' ' + url);
 
   return {
@@ -229,7 +231,9 @@ export function extractListing(html, url) {
     exterior: extM ? extM[0].trim().replace(/\s+/g, ' ') : null,
     condition: findCondition(main), year: toNum(yearM?.[1]), procedure,
     quartier: quartier ? quartier.replace(/^Arroussets$/, 'Arrousets').replace('Saint Esprit', 'Saint-Esprit').replace('Saint Léon', 'Saint-Léon') : null,
-    city: /bayonne|64100/.test(where) ? 'Bayonne' : null,
+    city: commune?.name ?? null,
+    postalCode: commune?.cp ?? null,
+    distanceKm: commune ? distanceKm(commune) : null,
     isApartment, sold
   };
 }

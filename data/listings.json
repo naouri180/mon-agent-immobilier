@@ -49,7 +49,9 @@
           "date": "2026-10-25",
           "price": 325000
         }
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "foncia-00788511",
@@ -96,7 +98,9 @@
           "date": "2026-10-25",
           "price": 240000
         }
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "capifrance-117218",
@@ -142,7 +146,9 @@
           "date": "2026-10-25",
           "price": 225000
         }
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "foncia-00828770",
@@ -187,7 +193,9 @@
           "date": "2026-10-25",
           "price": 249000
         }
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "foncia-00752272",
@@ -232,7 +240,9 @@
           "date": "2026-10-25",
           "price": 299000
         }
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "etreproprio-26275766",
@@ -277,7 +287,9 @@
           "date": "2026-10-25",
           "price": 259000
         }
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "foncia-00514020",
@@ -321,7 +333,9 @@
           "date": "2026-10-25",
           "price": 249000
         }
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "fnaim-53014705",
@@ -366,7 +380,9 @@
           "date": "2026-10-25",
           "price": 320000
         }
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1296646474",
@@ -413,7 +429,9 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1295357419",
@@ -459,7 +477,9 @@
       "weaknesses": [
         "DPE non trouvé dans l’annonce",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1291824696",
@@ -507,7 +527,9 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1296548385",
@@ -552,7 +574,9 @@
       ],
       "weaknesses": [
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1294682927",
@@ -599,7 +623,9 @@
       "weaknesses": [
         "Parking non confirmé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1296566870",
@@ -646,7 +672,9 @@
         "Procédure en cours dans la copropriété",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1296630650",
@@ -694,7 +722,9 @@
         "Parking non confirmé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1289547977",
@@ -741,7 +771,9 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1294491145",
@@ -788,7 +820,9 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1296614111",
@@ -834,7 +868,9 @@
       "weaknesses": [
         "Procédure en cours dans la copropriété",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1296286791",
@@ -882,7 +918,9 @@
         "Parking non confirmé",
         "Procédure en cours dans la copropriété",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1292446049",
@@ -931,7 +969,9 @@
         "Procédure en cours dans la copropriété",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1296360616",
@@ -979,7 +1019,9 @@
         "Parking non confirmé",
         "Procédure en cours dans la copropriété",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1296319932",
@@ -1024,7 +1066,9 @@
       ],
       "weaknesses": [
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1292565141",
@@ -1075,7 +1119,9 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1290929451",
@@ -1121,7 +1167,9 @@
       "weaknesses": [
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1295470967",
@@ -1167,7 +1215,9 @@
       "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1294979065",
@@ -1214,7 +1264,9 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1294905656",
@@ -1260,7 +1312,9 @@
       "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "paruvendu-1296213682",
@@ -1307,7 +1361,9 @@
         "Charges élevées",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "fnaim-64100",
@@ -1354,7 +1410,9 @@
       "weaknesses": [
         "Parking non confirmé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "fnaim-64100-29",
@@ -1402,7 +1460,9 @@
         "Parking non confirmé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     },
     {
       "id": "fnaim-64100-30",
@@ -1449,7 +1509,9 @@
       "weaknesses": [
         "Parking non confirmé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "postalCode": "64100",
+      "distanceKm": 0
     }
   ]
 }

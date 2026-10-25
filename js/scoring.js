@@ -3,6 +3,7 @@
 
 export const DEFAULT_CRITERIA = {
   city: 'Bayonne',
+  radiusKm: 30,            // rayon autour de Bayonne (km, à vol d'oiseau)
   surfaceMin: 50,
   surfaceMax: 70,
   dpeAllowed: ['A', 'B', 'C'],
@@ -81,7 +82,8 @@ export function unmetCriteria(l, criteria = DEFAULT_CRITERIA) {
   const c = { ...DEFAULT_CRITERIA, ...criteria };
   const miss = [];
   if (l.status && l.status !== 'active') miss.push('plus en vente');
-  if (c.city && l.city && l.city.toLowerCase() !== c.city.toLowerCase()) miss.push('hors ' + c.city);
+  if (c.radiusKm != null && l.distanceKm != null && l.distanceKm > c.radiusKm) miss.push(`à ${Math.round(l.distanceKm)} km`);
+  else if (c.radiusKm == null && c.city && l.city && l.city.toLowerCase() !== c.city.toLowerCase()) miss.push('hors ' + c.city);
   if (!l.surface) miss.push('surface inconnue');
   else if (l.surface < c.surfaceMin || l.surface > c.surfaceMax) miss.push('surface hors fourchette');
   const dpe = (l.dpe || '').toUpperCase();

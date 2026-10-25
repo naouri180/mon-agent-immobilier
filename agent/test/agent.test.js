@@ -177,3 +177,38 @@ test('extraction : fiche FNAIM (titre doublement encodé, menus ignorés)', () =
   assert.equal(l.parking.type, 'inconnu', 'aucune nature de parking dans la fiche');
   assert.equal(l.floor, '1er étage');
 });
+
+test('périmètre 30 km : commune reconnue, distance calculée, Bayonne cité comme simple repère', async () => {
+  const { findCommune, distanceKm, communesWithin } = await import('../lib/communes.js');
+  const anglet = findCommune({ url: 'https://www.paruvendu.fr/immobilier/vente/appartement/1290000000A1KIVHAP000',
+    title: 'Annonce vente appartement 3 pièces de 62m2 à Anglet (64600)', text: 'À 5 minutes de Bayonne, proche des plages.' });
+  assert.equal(anglet.name, 'Anglet');
+  assert.ok(distanceKm(anglet) > 2 && distanceKm(anglet) < 6);
+  assert.equal(findCommune({ url: 'https://www.fnaim.fr/annonce-immobiliere/53000001/17-acheter-appartement-saint-jean-de-luz-64500.htm' }).name, 'Saint-Jean-de-Luz');
+  assert.equal(findCommune({ title: 'T3 à Saint Pierre d\'Irube' }).name, "Saint-Pierre-d'Irube");
+  assert.equal(findCommune({ title: 'Appartement Capbreton 40130' }).name, 'Capbreton');
+  const hendaye = findCommune({ title: 'Hendaye (64700)' });
+  assert.ok(distanceKm(hendaye) <= 30 && distanceKm(hendaye) > 25);
+  assert.ok(communesWithin(30).length > 30);
+  assert.equal(findCommune({ title: 'Appartement à Pau (64000)' }), null);
+});
+
+test('périmètre : critère de distance dans la notation et le tri de l’agent', async () => {
+  const base = { price: 250000, surface: 60, dpe: 'B', parking: { count: 1, type: 'souterrain' }, condition: 'bon', status: 'active' };
+  assert.equal(isPerfectMatch({ ...base, city: 'Hendaye', distanceKm: 28.3 }, { ...DEFAULT_CRITERIA, radiusKm: 30 }), true);
+  assert.equal(isPerfectMatch({ ...base, city: 'Hendaye', distanceKm: 28.3 }, { ...DEFAULT_CRITERIA, radiusKm: 15 }), false);
+
+  const page = city => `<html><head><title>Appartement 3 pièces 60 m² à vendre - 250000 € - ${city}</title></head><body><h1>T3 60 m²</h1><p>2 chambres. Place de parking en sous-sol. DPE : B (90 kWh/m² an)</p></body></html>`;
+  const pages = {
+    'https://www.paruvendu.fr/immobilier/vente/appartement/anglet-64600/': '<a href="/immobilier/vente/appartement/1111111111A1KIVHAP000">a</a><a href="/immobilier/vente/appartement/2222222222A1KIVHAP000">b</a>',
+    'https://www.paruvendu.fr/immobilier/vente/appartement/1111111111A1KIVHAP000': page('Anglet (64600)'),
+    'https://www.paruvendu.fr/immobilier/vente/appartement/2222222222A1KIVHAP000': page('Seignosse (40510)')
+  };
+  const http = { get: async url => pages[url] ? { ok: true, status: 200, url, html: pages[url] } : { ok: false, status: 404, url, reason: 'HTTP 404' } };
+  const config = JSON.parse(readFileSync(new URL('../config.json', import.meta.url), 'utf8'));
+  config.watchUrls = []; config.sources = config.sources.filter(s => s.id === 'paruvendu');
+  config.collect.radiusKm = 20;
+  const out = await runAgent({ config, data: { listings: [] }, ignored: {}, http, today: '2026-10-26', nowIso: '2026-10-26T06:00:00Z' });
+  assert.deepEqual(out.data.listings.map(l => l.city), ['Anglet']);
+  assert.match(Object.values(out.ignored)[0].reason, /Seignosse à \d/);
+});

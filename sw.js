@@ -1,6 +1,6 @@
 // Service worker : l'interface s'ouvre même hors connexion,
 // et les données (data/*.json) sont toujours redemandées au réseau en priorité.
-const VERSION = 'mai-v1';
+const VERSION = 'mai-v2';
 const SHELL = [
   './', 'index.html', 'css/app.css', 'js/app.js', 'js/store.js', 'js/scoring.js',
   'manifest.webmanifest', 'icons/icon-192.png', 'icons/apple-touch-icon.png'

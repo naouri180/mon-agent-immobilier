@@ -3,71 +3,77 @@
     "city": "Bayonne",
     "surfaceMin": 50,
     "surfaceMax": 70,
-    "dpeAllowed": ["A", "B", "C"],
+    "dpeAllowed": [
+      "A",
+      "B",
+      "C"
+    ],
     "parkingMin": 1,
     "parkingMax": 2,
     "priceMax": null,
     "bedroomsMin": null,
     "excludeWorks": true,
     "refPriceM2": 4300,
-    "alertScore": 7.5
+    "alertScore": 7.5,
+    "radiusKm": 30
   },
-
   "collect": {
-    "comment": "L'agent enregistre un peu plus large que vos critères pour que vous puissiez les élargir dans l'application.",
+    "comment": "L'agent enregistre un peu plus large que vos critères (surface) pour que vous puissiez les élargir dans l'application. radiusKm = rayon autour de Bayonne.",
+    "radiusKm": 30,
     "surfaceMin": 40,
-    "surfaceMax": 85,
-    "requireCity": "bayonne"
+    "surfaceMax": 85
   },
-
   "notifications": {
     "enabled": true,
     "newListing": true,
     "priceDrop": true,
     "dailyDigest": true,
-    "channels": { "ntfy": true, "email": true }
+    "channels": {
+      "ntfy": true,
+      "email": true
+    }
   },
-
   "limits": {
-    "maxDetailPagesPerRun": 40,
+    "maxDetailPagesPerRun": 80,
     "maxRechecksPerRun": 30,
     "delayBetweenRequestsMs": 2500,
     "timeoutMs": 20000
   },
-
   "userAgent": "MonAgentImmobilier/1.0 (+usage personnel; respecte robots.txt)",
-
   "sources": [
     {
       "id": "foncia",
       "name": "Foncia",
       "enabled": true,
-      "searchUrls": ["https://fr.foncia.com/achat/bayonne-64100/appartement"],
-      "linkPattern": "^https://fr\\.foncia\\.com/achat/bayonne-64100/appartement/\\d+\\.htm$"
+      "searchUrls": [],
+      "linkPattern": "^https://fr\\.foncia\\.com/achat/[a-z0-9-]+-\\d{5}/appartement/\\d+\\.htm$",
+      "searchTemplate": "https://fr.foncia.com/achat/{slug}-{cp}/appartement"
     },
     {
       "id": "paruvendu",
       "name": "ParuVendu",
       "enabled": true,
-      "searchUrls": ["https://www.paruvendu.fr/immobilier/vente/appartement/bayonne-64100/"],
-      "linkPattern": "^https://www\\.paruvendu\\.fr/immobilier/vente/appartement/\\d+A1KIVHAP000$"
+      "searchUrls": [],
+      "linkPattern": "^https://www\\.paruvendu\\.fr/immobilier/vente/appartement/\\d+A1KIVHAP000$",
+      "searchTemplate": "https://www.paruvendu.fr/immobilier/vente/appartement/{slug}-{cp}/"
     },
     {
       "id": "fnaim",
       "name": "FNAIM",
       "enabled": true,
-      "searchUrls": ["https://www.fnaim.fr/liste-annonces-immobilieres/17-acheter-appartement-bayonne-64100.htm"],
-      "linkPattern": "^https://www\\.fnaim\\.fr/annonce-immobiliere/\\d+/17-acheter-appartement-bayonne-64100\\.htm$"
+      "searchUrls": [],
+      "linkPattern": "^https://www\\.fnaim\\.fr/annonce-immobiliere/\\d+/17-acheter-appartement-[a-z0-9-]+\\.htm$",
+      "searchTemplate": "https://www.fnaim.fr/liste-annonces-immobilieres/17-acheter-appartement-{slug}-{cp}.htm"
     },
     {
       "id": "capifrance",
       "name": "Capifrance",
       "enabled": true,
-      "searchUrls": ["https://www.capifrance.fr/fr/immobilier/vente/appartement/bayonne_64"],
-      "linkPattern": "^https://www\\.capifrance\\.fr/fr/immobilier/vente/appartement/bayonne/[a-z0-9-]+/\\d+$"
+      "searchUrls": [],
+      "linkPattern": "^https://www\\.capifrance\\.fr/fr/immobilier/vente/appartement/[a-z0-9-]+/[a-z0-9-]+/\\d+$",
+      "searchTemplate": "https://www.capifrance.fr/fr/immobilier/vente/appartement/{slug}_{dep}"
     }
   ],
-
   "watchUrls": [
     "https://www.etreproprio.com/immobilier-26275766-vente-appartement-62-m-a-bayonne-bayonne"
   ]

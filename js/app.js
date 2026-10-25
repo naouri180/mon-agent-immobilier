@@ -62,6 +62,10 @@ function dpeBadge(l) {
   const d = (l.dpe || '').toUpperCase();
   return d ? `<span class="dpe dpe-${d}" title="DPE ${d}">${d}</span>` : `<span class="dpe dpe-x" title="DPE inconnu">?</span>`;
 }
+function placeChip(l) {
+  if (l.city && l.city !== 'Bayonne') return `<span class="chip">${esc(l.city)}${l.distanceKm != null ? ` · ${fmtNum(l.distanceKm, 0)} km` : ''}</span>`;
+  return l.quartier ? `<span class="chip">${esc(l.quartier)}</span>` : (l.city ? '<span class="chip">Bayonne</span>' : '');
+}
 function parkingText(p) {
   if (!p || p.count == null) return 'Parking ?';
   if (!p.count) return 'Sans parking';
@@ -92,7 +96,7 @@ function card(l) {
       ${dpeBadge(l)}
       <span class="chip">${esc(parkingText(l.parking))}</span>
       <span class="chip">${l.bedrooms ?? '?'} ch.</span>
-      ${l.quartier ? `<span class="chip">${esc(l.quartier)}</span>` : ''}
+      ${placeChip(l)}
     </div>
     ${tags.length ? `<div class="meta">${tags.join('')}</div>` : ''}
     <div class="card-foot">
@@ -150,6 +154,8 @@ function applyFilters(list) {
     if (f.surfaceMax && (l.surface ?? 999) > f.surfaceMax) return false;
     if (f.dpe?.length && !f.dpe.includes((l.dpe || '').toUpperCase())) return false;
     if (f.quartier && l.quartier !== f.quartier) return false;
+    if (f.commune && l.city !== f.commune) return false;
+    if (f.radiusKm != null && (l.distanceKm ?? 0) > f.radiusKm) return false;
     if (f.parkingMin && (l.parking?.count ?? 0) < f.parkingMin) return false;
     if (f.parkingClosed && !['box', 'garage', 'souterrain'].includes(l.parking?.type)) return false;
     if (f.bedroomsMin && (l.bedrooms ?? 0) < f.bedroomsMin) return false;
@@ -159,7 +165,7 @@ function applyFilters(list) {
 }
 const filterCount = () => {
   const f = store.filters; let n = 0;
-  for (const k of ['priceMax', 'surfaceMin', 'surfaceMax', 'quartier', 'parkingMin', 'parkingClosed', 'bedroomsMin']) if (f[k]) n++;
+  for (const k of ['priceMax', 'surfaceMin', 'surfaceMax', 'quartier', 'commune', 'radiusKm', 'parkingMin', 'parkingClosed', 'bedroomsMin']) if (f[k]) n++;
   if (f.dpe?.length) n++; if (f.condition?.length) n++;
   return n;
 };
@@ -248,7 +254,10 @@ function renderSettings() {
         <div class="field"><label for="c-bed">Chambres min</label><input id="c-bed" type="number" inputmode="numeric" placeholder="Indifférent" value="${c.bedroomsMin ?? ''}"></div>
       </div>
       <div class="row2">
+        <div class="field"><label for="c-radius">Rayon autour de Bayonne (km)</label><input id="c-radius" type="number" inputmode="numeric" min="0" max="60" value="${c.radiusKm ?? ''}"></div>
         <div class="field"><label for="c-ref">Prix de référence (€/m²)</label><input id="c-ref" type="number" inputmode="numeric" value="${c.refPriceM2}"></div>
+      </div>
+      <div class="row2">
         <div class="field"><label for="c-alert">Note « très intéressant »</label><input id="c-alert" type="number" step="0.5" min="0" max="10" value="${c.alertScore}"></div>
       </div>
       <label class="switch"><span>Exclure les biens avec gros travaux</span><input type="checkbox" id="c-works" ${c.excludeWorks ? 'checked' : ''}></label>
@@ -329,7 +338,9 @@ function openDetail(id) {
     ['Parking', parkingText(l.parking)], ['Étage', `${l.floor ?? '—'}${l.elevator === true ? ' · ascenseur' : l.elevator === false ? ' · sans ascenseur' : ''}`],
     ['Charges', l.charges ? fmtEur(l.charges) + '/an' : 'Non communiqué'], ['Taxe foncière', l.taxeFonciere ? fmtEur(l.taxeFonciere) : 'Non communiqué'],
     ['État', CONDITION_LABELS[l.condition] || 'Non précisé'], ['Construction', l.year ?? '—'],
-    ['Extérieur', l.exterior || '—'], ['Quartier', l.quartier || 'Non précisé'],
+    ['Extérieur', l.exterior || '—'],
+    ['Commune', l.city ? `${l.city}${l.postalCode ? ` (${l.postalCode})` : ''}${l.distanceKm ? ` · ${fmtNum(l.distanceKm, 0)} km de Bayonne` : ''}` : 'Non reconnue'],
+    ['Quartier', l.quartier || 'Non précisé'],
     ['Détecté le', fmtDate(l.firstSeen)], ['Vérifié le', fmtDate(l.lastChecked)]
   ];
   const sheet = $('#sheet');
@@ -375,6 +386,7 @@ function closeSheet() {
 function openFilters() {
   const f = store.filters;
   const quartiers = [...new Set(state.listings.map(l => l.quartier).filter(Boolean))].sort();
+  const communes = [...new Set(state.listings.map(l => l.city).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'fr'));
   const conds = Object.entries(CONDITION_LABELS);
   const sheet = $('#sheet');
   sheet.innerHTML = `
@@ -387,7 +399,11 @@ function openFilters() {
         <div class="field"><label for="f-smax">Surface max</label><input id="f-smax" type="number" inputmode="numeric" value="${f.surfaceMax ?? ''}"></div>
       </div>
       <div class="field"><span>DPE</span><div class="pills" id="f-dpe">${['A', 'B', 'C', 'D', 'E'].map(d => `<button type="button" class="pill ${(f.dpe || []).includes(d) ? 'on' : ''}" data-v="${d}">${d}</button>`).join('')}</div></div>
-      <div class="field"><label for="f-q">Quartier</label><select id="f-q"><option value="">Tous</option>${quartiers.map(q => `<option ${f.quartier === q ? 'selected' : ''}>${esc(q)}</option>`).join('')}</select></div>
+      <div class="row2">
+        <div class="field"><label for="f-commune">Commune</label><select id="f-commune"><option value="">Toutes</option>${communes.map(q => `<option ${f.commune === q ? 'selected' : ''}>${esc(q)}</option>`).join('')}</select></div>
+        <div class="field"><label for="f-radius">Distance max (km)</label><input id="f-radius" type="number" inputmode="numeric" min="0" placeholder="Toutes" value="${f.radiusKm ?? ''}"></div>
+      </div>
+      <div class="field"><label for="f-q">Quartier de Bayonne</label><select id="f-q"><option value="">Tous</option>${quartiers.map(q => `<option ${f.quartier === q ? 'selected' : ''}>${esc(q)}</option>`).join('')}</select></div>
       <div class="row2">
         <div class="field"><label for="f-park">Places de parking min</label><input id="f-park" type="number" inputmode="numeric" min="0" value="${f.parkingMin ?? ''}"></div>
         <div class="field"><label for="f-bed">Chambres min</label><input id="f-bed" type="number" inputmode="numeric" min="0" value="${f.bedroomsMin ?? ''}"></div>
@@ -407,7 +423,7 @@ function openFilters() {
     store.setFilters({
       priceMax: num('#f-price'), surfaceMin: num('#f-smin'), surfaceMax: num('#f-smax'),
       dpe: [...sheet.querySelectorAll('#f-dpe .on')].map(b => b.dataset.v),
-      quartier: $('#f-q').value || null, parkingMin: num('#f-park'), bedroomsMin: num('#f-bed'),
+      quartier: $('#f-q').value || null, commune: $('#f-commune').value || null, radiusKm: num('#f-radius'), parkingMin: num('#f-park'), bedroomsMin: num('#f-bed'),
       parkingClosed: $('#f-closed').checked,
       condition: [...sheet.querySelectorAll('#f-cond .on')].map(b => b.dataset.v)
     });
@@ -419,6 +435,8 @@ function openFilters() {
 const TITLES = { dashboard: 'Tableau de bord', list: 'Annonces', favorites: 'Favoris', settings: 'Réglages' };
 function render() {
   $('#page-title').textContent = TITLES[state.tab];
+  const r = store.criteria.radiusKm;
+  $('#topbar-eyebrow').textContent = r ? `Bayonne + ${r} km` : 'Bayonne · 64100';
   document.querySelectorAll('.tabbar button').forEach(b => b.classList.toggle('active', b.dataset.tab === state.tab));
   ({ dashboard: renderDashboard, list: renderList, favorites: renderFavorites, settings: renderSettings })[state.tab]();
 }
@@ -459,7 +477,7 @@ view.addEventListener('click', async e => {
   if (e.target.id === 'reset-criteria') { store.resetCriteria(); enrich(); render(); return toast('Critères d’origine rétablis'); }
   if (e.target.id === 'copy-criteria') {
     const c = store.criteria;
-    const txt = JSON.stringify({ surfaceMin: c.surfaceMin, surfaceMax: c.surfaceMax, dpeAllowed: c.dpeAllowed, parkingMin: c.parkingMin, parkingMax: c.parkingMax, priceMax: c.priceMax, bedroomsMin: c.bedroomsMin, excludeWorks: c.excludeWorks, refPriceM2: c.refPriceM2, alertScore: c.alertScore }, null, 2);
+    const txt = JSON.stringify({ radiusKm: c.radiusKm, surfaceMin: c.surfaceMin, surfaceMax: c.surfaceMax, dpeAllowed: c.dpeAllowed, parkingMin: c.parkingMin, parkingMax: c.parkingMax, priceMax: c.priceMax, bedroomsMin: c.bedroomsMin, excludeWorks: c.excludeWorks, refPriceM2: c.refPriceM2, alertScore: c.alertScore }, null, 2);
     try { await navigator.clipboard.writeText(`"criteria": ${txt}`); toast('Critères copiés : collez-les dans config.json'); }
     catch { prompt('Copiez ce texte :', txt); }
     return;
@@ -497,7 +515,7 @@ view.addEventListener('submit', e => {
     surfaceMin: num('#c-smin', DEFAULT_CRITERIA.surfaceMin), surfaceMax: num('#c-smax', DEFAULT_CRITERIA.surfaceMax),
     dpeAllowed: [...document.querySelectorAll('#c-dpe .on')].map(b => b.dataset.dpe),
     parkingMin: num('#c-pmin', 0), parkingMax: num('#c-pmax', null), priceMax: num('#c-price', null),
-    bedroomsMin: num('#c-bed', null), refPriceM2: num('#c-ref', DEFAULT_CRITERIA.refPriceM2),
+    bedroomsMin: num('#c-bed', null), radiusKm: num('#c-radius', null), refPriceM2: num('#c-ref', DEFAULT_CRITERIA.refPriceM2),
     alertScore: num('#c-alert', DEFAULT_CRITERIA.alertScore), excludeWorks: $('#c-works').checked
   });
   enrich(); render(); toast('Critères enregistrés');

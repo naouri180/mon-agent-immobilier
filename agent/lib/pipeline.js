@@ -3,6 +3,18 @@
 import { extractListing, extractLinks } from './extract.js';
 import { canonicalUrl, makeId, looksDuplicate, recordPrice } from './db.js';
 import { scoreBreakdown, unmetCriteria, pricePerM2 } from '../../js/scoring.js';
+import { communesWithin } from './communes.js';
+
+/** Pages de résultats à lire pour une source : adresses fixes + modèle appliqué à chaque commune du périmètre. */
+export function searchUrlsFor(src, radiusKm) {
+  const urls = [...(src.searchUrls || [])];
+  if (src.searchTemplate) {
+    for (const c of communesWithin(radiusKm ?? 0).filter(c => c.search)) {
+      urls.push(src.searchTemplate.replaceAll('{slug}', c.slug).replaceAll('{cp}', c.cp).replaceAll('{dep}', c.cp.slice(0, 2)));
+    }
+  }
+  return [...new Set(urls)];
+}
 
 const RETRY_IGNORED_AFTER_DAYS = 30;
 const FILLABLE = ['rooms', 'bedrooms', 'dpe', 'dpeKwh', 'ges', 'gesKg', 'floor', 'elevator', 'charges', 'taxeFonciere', 'exterior', 'year', 'quartier', 'surfaceCarrez'];
@@ -46,16 +58,21 @@ export async function runAgent({ config, data, ignored = {}, http, today, nowIso
   const candidates = [];
   for (const src of config.sources || []) {
     if (!src.enabled) { sourcesReport.push({ name: src.name, result: 'désactivée' }); continue; }
-    let found = 0, problem = '';
-    for (const su of src.searchUrls || []) {
+    let found = 0, problem = '', failed = 0;
+    for (const su of searchUrlsFor(src, collect.radiusKm)) {
       const res = await http.get(su);
       stats.pagesFetched++;
-      if (!res.ok) { problem = res.reason; continue; }
+      if (!res.ok) {
+        problem = res.reason; failed++;
+        // Le site refuse l'agent ou l'interdit : inutile d'insister sur ses autres pages.
+        if (res.status === 403 || res.status === 429 || /robots/.test(res.reason)) break;
+        continue;
+      }
       const links = extractLinks(res.html, res.url || su, src.linkPattern);
       found += links.length;
       for (const u of links) candidates.push({ url: u, source: src.name });
     }
-    sourcesReport.push({ name: src.name, result: problem && !found ? `bloquée : ${problem}` : `${found} annonce(s) listée(s)` });
+    sourcesReport.push({ name: src.name, result: problem && !found ? `bloquée : ${problem}` : `${found} annonce(s) listée(s)${failed ? ` (${failed} page(s) sans réponse)` : ''}` });
     log(`${src.name} : ${found} lien(s)${problem ? ' (' + problem + ')' : ''}`);
   }
   for (const u of config.watchUrls || []) candidates.push({ url: u, source: 'Suivi manuel' });
@@ -82,7 +99,8 @@ export async function runAgent({ config, data, ignored = {}, http, today, nowIso
     const ex = extractListing(res.html, c.url);
     let reject = null;
     if (!ex.isApartment) reject = 'pas un appartement';
-    else if (collect.requireCity && ex.city?.toLowerCase() !== collect.requireCity) reject = 'hors secteur';
+    else if (!ex.city) reject = 'commune non reconnue';
+    else if (collect.radiusKm != null && ex.distanceKm > collect.radiusKm) reject = `${ex.city} à ${ex.distanceKm} km`;
     else if (ex.sold) reject = 'déjà vendu / sous compromis';
     else if (!ex.price) reject = 'prix introuvable';
     else if (ex.surface && (ex.surface < (collect.surfaceMin ?? 0) || ex.surface > (collect.surfaceMax ?? 1e9))) reject = `surface ${ex.surface} m² hors collecte`;
