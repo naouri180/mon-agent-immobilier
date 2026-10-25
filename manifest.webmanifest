@@ -1,0 +1,17 @@
+{
+  "name": "Mon Agent Immobilier",
+  "short_name": "Mon Agent Immo",
+  "description": "Appartements à vendre à Bayonne, notés et suivis par votre agent personnel.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F1E9",
+  "theme_color": "#F6F1E9",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

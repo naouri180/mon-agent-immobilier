@@ -1,0 +1,89 @@
+# Planificateur de l'agent + publication de l'application sur GitHub Pages.
+# Horaires en UTC : 5h17, 10h17, 15h17 UTC = 6h17, 11h17, 16h17 à Paris en hiver (7h17, 12h17, 17h17 en été).
+# GitHub peut décaler un passage planifié de quelques minutes à une heure en cas de forte charge.
+name: Agent immobilier
+
+on:
+  schedule:
+    - cron: '17 5,10,15 * * *'   # recherches
+    - cron: '43 5 * * *'         # résumé quotidien
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Que faire ?'
+        type: choice
+        options: [recherche, resume, publier]
+        default: recherche
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: agent-immobilier
+  cancel-in-progress: false
+
+jobs:
+  agent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    env:
+      NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+      NTFY_TOKEN: ${{ secrets.NTFY_TOKEN }}
+      NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+      SMTP_HOST: ${{ secrets.SMTP_HOST }}
+      SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASS: ${{ secrets.SMTP_PASS }}
+      MAIL_TO: ${{ secrets.MAIL_TO }}
+      APP_URL: ${{ vars.APP_URL }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Installer les dépendances
+        run: npm install --omit=dev --no-audit --no-fund
+
+      - name: Recherche de nouvelles annonces
+        if: (github.event_name == 'schedule' && github.event.schedule != '43 5 * * *') || (github.event_name == 'workflow_dispatch' && inputs.mode == 'recherche')
+        run: node agent/run.js
+
+      - name: Résumé quotidien
+        if: (github.event_name == 'schedule' && github.event.schedule == '43 5 * * *') || (github.event_name == 'workflow_dispatch' && inputs.mode == 'resume')
+        run: node agent/run.js --digest
+
+      - name: Enregistrer les résultats (base de données)
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "mon-agent-immobilier[bot]"
+          git config user.email "agent@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Aucun changement à enregistrer."
+          else
+            git commit -m "Agent : mise à jour des annonces $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+
+      - name: Préparer le site
+        run: |
+          mkdir -p _site
+          cp -r index.html manifest.webmanifest sw.js css js icons data _site/
+          rm -f _site/data/ignored.json
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4
