@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T10:44:27.908Z",
+  "updatedAt": "2026-10-25T15:44:44.968Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -482,7 +482,8 @@
       "distanceKm": 0,
       "altUrls": [
         "https://www.paruvendu.fr/immobilier/vente/appartement/1288806970A1KIVHAP000",
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1292073443A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1292073443A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268611A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -2251,10 +2252,12 @@
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ],
       "altUrls": [
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1289584736A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1289584736A1KIVHAP000",
+        "https://www.fnaim.fr/annonce-immobiliere/52992080/17-acheter-appartement-anglet-64600.htm"
       ],
       "duplicates": [
-        "paruvendu.fr"
+        "paruvendu.fr",
+        "fnaim.fr"
       ]
     },
     {
@@ -2547,6 +2550,12 @@
       ],
       "weaknesses": [
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1296527701A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -3192,6 +3201,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1291064374A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -3490,6 +3505,12 @@
         "Charges élevées",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1296527700A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -4079,6 +4100,13 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293514600A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1291064375A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -4329,6 +4357,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1296128239A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -5285,6 +5319,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1296484449A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -7999,6 +8039,3790 @@
       "weaknesses": [
         "Parking non confirmé",
         "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296664321",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296664321A1KIVHAP000",
+      "title": "Annonce t2 avec grande terrasse - résidence de sion, biarritz, vente 2 pièces de particulier Pyrénées-Atlantiques - ParuVendu.fr ref WI178104691",
+      "price": 479000,
+      "surface": 53,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 230,
+      "ges": "D",
+      "gesKg": 35,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": "1er étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Annonce t2 avec grande terrasse - résidence de sion, biarritz, vente 2 pièce",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 479000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296664418",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296664418A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 57m2 à Urrugne (64122) - ParuVendu.fr ref 992791561003",
+      "price": 258000,
+      "surface": 57,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 198,
+      "ges": "D",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "garage",
+        "detail": "garage + parking extérieur + terrasse telle une maisonnette urrugn"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 350,
+      "taxeFonciere": null,
+      "exterior": "ge + parking extérieur + terrasse telle une maisonnette Urrugne",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Urrugne",
+      "postalCode": "64122",
+      "distanceKm": 23.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 258000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296453084",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296453084A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 47m2 à Ondres (40440) - ParuVendu.fr ref 992791374562",
+      "price": 240000,
+      "surface": 47,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 246,
+      "ges": "B",
+      "gesKg": 9,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 720,
+      "taxeFonciere": null,
+      "exterior": "Jardin / Terrain",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Ondres",
+      "postalCode": "40440",
+      "distanceKm": 8.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 240000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294322868",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294322868A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 46m2 à Ondres (40440) - ParuVendu.fr ref 992789660483",
+      "price": 189000,
+      "surface": 46,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 114,
+      "ges": "C",
+      "gesKg": 23,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "rez-de-jardin",
+      "elevator": null,
+      "charges": 541,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ondres",
+      "postalCode": "40440",
+      "distanceKm": 8.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 189000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294665888",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294665888A1KIVHAP000",
+      "title": "Annonce t2 traversant 50m2 avec 2 terrasses a 1,5 km de l",
+      "price": 225000,
+      "surface": 50,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 150,
+      "ges": "C",
+      "gesKg": 20,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "1er et dernier étage",
+      "elevator": false,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "2 traversant 50m2 avec 2 terrasses a 1,5 km de l'océan, vente 2 pièces de parti",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ondres",
+      "postalCode": "40440",
+      "distanceKm": 8.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 225000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294665881",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294665881A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 84m2 à Ondres (40440) - ParuVendu.fr ref 992789901334",
+      "price": 420000,
+      "surface": 84,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 77,
+      "ges": "C",
+      "gesKg": 14,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 1400,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Ondres",
+      "postalCode": "40440",
+      "distanceKm": 8.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 420000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296660248",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296660248A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 49m2 à Labenne (40530) - ParuVendu.fr ref 992791557650",
+      "price": 227000,
+      "surface": 49,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 137,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": 924,
+      "taxeFonciere": 560,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Labenne",
+      "postalCode": "40530",
+      "distanceKm": 12,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 227000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295823528",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295823528A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 60m2 à Saint-martin-de-seignanx (40390) - ParuVendu.fr ref 992790846008",
+      "price": 242000,
+      "surface": 60,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 264,
+      "ges": "B",
+      "gesKg": 8,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "exterieur",
+        "detail": "2 places de stationnement extérieures"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 100,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Martin-de-Seignanx",
+      "postalCode": "40390",
+      "distanceKm": 9.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 242000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1287869311A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
+      ]
+    },
+    {
+      "id": "paruvendu-1292143689",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1292143689A1KIVHAP000",
+      "title": "Annonce t2 en bon état, au calme, entre bayonne et capbreton, vente 2 pièces de particulier Landes - ParuVendu.fr ref WI177404564",
+      "price": 180000,
+      "surface": 44,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 150,
+      "ges": "B",
+      "gesKg": 10,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "bon",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Martin-de-Seignanx",
+      "postalCode": "40390",
+      "distanceKm": 9.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 180000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293971082",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293971082A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 67m2 à Saint martin de seignanx (40390) - ParuVendu.fr ref 992789370428",
+      "price": 259800,
+      "surface": 67,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 84,
+      "ges": "C",
+      "gesKg": 16,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "2 parkings et cellier saint martin de seignanx"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": false,
+      "charges": 672,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": 2015,
+      "procedure": false,
+      "quartier": null,
+      "city": "Saint-Martin-de-Seignanx",
+      "postalCode": "40390",
+      "distanceKm": 9.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 259800
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295281553",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295281553A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 85m2 à Saint-martin-de-seignanx (40390) - ParuVendu.fr ref 992790395314",
+      "price": 367500,
+      "surface": 85,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 155,
+      "ges": "D",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "rez-de-jardin",
+      "elevator": null,
+      "charges": 1060,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Saint-Martin-de-Seignanx",
+      "postalCode": "40390",
+      "distanceKm": 9.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 367500
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291326824",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291326824A1KIVHAP000",
+      "title": "Annonce appartement t3 saint martin de seignanx (40), vente 3 pièces de particulier Landes - ParuVendu.fr ref WI177336634",
+      "price": 300000,
+      "surface": 78,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 330,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "1er étage",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Martin-de-Seignanx",
+      "postalCode": "40390",
+      "distanceKm": 9.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 300000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296665713",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296665713A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Capbreton (40130) | 705 000 € | 4 pièces | 85 m² - ParuVendu.fr ref 992791562136",
+      "price": 705000,
+      "surface": 85,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "nt 4 PIÈCES de 85m² + UN BALCON - CAPBRETON Capbreton",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 705000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1290439891",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1290439891A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 71m2 à Capbreton (40130) - ParuVendu.fr ref 992786385735",
+      "price": 425000,
+      "surface": 71,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "A",
+      "dpeKwh": 61,
+      "ges": "A",
+      "gesKg": 2,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "rez-de-jardin",
+      "elevator": true,
+      "charges": 1452,
+      "taxeFonciere": null,
+      "exterior": "Jardin / Terrain",
+      "condition": "inconnu",
+      "year": 2022,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 425000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1289737727",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1289737727A1KIVHAP000",
+      "title": "Annonce f4 ,77 m2 ,3 chambres , ,front de mer, baisse de prix, vente 5 pièces de particulier Landes - ParuVendu.fr ref WI177117828",
+      "price": 1250000,
+      "surface": 77,
+      "surfaceCarrez": null,
+      "rooms": 5,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 150,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "Dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 1250000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295724540",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295724540A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 57m2 à Capbreton (40130) - ParuVendu.fr ref 992790763905",
+      "price": 395000,
+      "surface": 57,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 136,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": null,
+        "type": "souterrain",
+        "detail": "Parking peut-être en option : à vérifier"
+      },
+      "floor": "3e étage",
+      "elevator": true,
+      "charges": 1401,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "excellent",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 395000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295910476",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295910476A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 42m2 à Capbreton (40130) - ParuVendu.fr ref 992790917182",
+      "price": 280000,
+      "surface": 42,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 70,
+      "ges": "C",
+      "gesKg": 13,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "1er étage",
+      "elevator": true,
+      "charges": 1040,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "bon",
+      "year": 2019,
+      "procedure": true,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 280000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293475861A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
+      ]
+    },
+    {
+      "id": "paruvendu-1295608104",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295608104A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 69m2 à Capbreton (40130) - ParuVendu.fr ref 992790665649",
+      "price": 400000,
+      "surface": 69,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 95,
+      "ges": "C",
+      "gesKg": 18,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 296,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 400000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294695205",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294695205A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 43m2 à Capbreton (40130) - ParuVendu.fr ref 992789925800",
+      "price": 295500,
+      "surface": 43,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": null,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 295500
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296617203",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296617203A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 41m2 à Capbreton (40130) - ParuVendu.fr ref 992791520079",
+      "price": 298000,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 1,
+      "dpe": "E",
+      "dpeKwh": 255,
+      "ges": "B",
+      "gesKg": 10,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking capbreton"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 948,
+      "taxeFonciere": 841,
+      "exterior": "Balcon / Terrasse",
+      "condition": "excellent",
+      "year": 1988,
+      "procedure": false,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 298000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296250787",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296250787A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 43m2 à Capbreton (40130) - ParuVendu.fr ref 992791200104",
+      "price": 279500,
+      "surface": 43,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 139,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking et cave capbreton"
+      },
+      "floor": "rez-de-jardin",
+      "elevator": null,
+      "charges": 995,
+      "taxeFonciere": 793,
+      "exterior": "Balcon / Terrasse",
+      "condition": "travaux",
+      "year": 2010,
+      "procedure": false,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 279500
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293683901",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293683901A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 42m2 à Capbreton (40130) - ParuVendu.fr ref 992789182514",
+      "price": 254500,
+      "surface": 42,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 71,
+      "ges": "C",
+      "gesKg": 13,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "2 parkings capbreton"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 1262,
+      "taxeFonciere": 900,
+      "exterior": "Balcon / Terrasse",
+      "condition": "excellent",
+      "year": 2021,
+      "procedure": false,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 254500
+        }
+      ],
+      "weaknesses": [
+        "Charges élevées",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296426660",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296426660A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Capbreton (40130) | 700 000 € | 3 pièces | 75 m² - ParuVendu.fr ref 992791351908",
+      "price": 700000,
+      "surface": 75,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 1,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 700000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296576574",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296576574A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Capbreton (40130) | 629 000 € | 4 pièces | 85 m² - ParuVendu.fr ref 992791483981",
+      "price": 629000,
+      "surface": 85,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "D",
+      "dpeKwh": 196,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 1200,
+      "taxeFonciere": null,
+      "exterior": "RTEMENT T4 DE 85 M² AVEC BALCONS-TERRASSES, CAVE ET PARKING",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 629000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295992883",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295992883A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 43m2 à Capbreton (40130) - ParuVendu.fr ref 992790979969",
+      "price": 270000,
+      "surface": 43,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 76,
+      "ges": "C",
+      "gesKg": 13,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1136,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": 2019,
+      "procedure": true,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 270000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296452733",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296452733A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 68m2 à Capbreton (40130) - ParuVendu.fr ref 992791374343",
+      "price": 499000,
+      "surface": 68,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 173,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 2040,
+      "taxeFonciere": 1055,
+      "exterior": null,
+      "condition": "bon",
+      "year": 2001,
+      "procedure": false,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 499000
+        }
+      ],
+      "weaknesses": [
+        "Charges élevées",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291064376",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291064376A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 84m2 à Capbreton (40130) - ParuVendu.fr ref 992786929099",
+      "price": 540000,
+      "surface": 84,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": null,
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 540000
+        }
+      ],
+      "weaknesses": [
+        "DPE non trouvé dans l’annonce",
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1296315655A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
+      ]
+    },
+    {
+      "id": "paruvendu-1293467696",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293467696A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 62m2 à Capbreton (40130) - ParuVendu.fr ref 992788995633",
+      "price": 347000,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 347000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296023044",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296023044A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 43m2 à Capbreton (40130) - ParuVendu.fr ref 992791005043",
+      "price": 278000,
+      "surface": 43,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": null,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "une place de stationnement en sous-sol est incluse, assurant confort et sécurité au qu"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 278000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1287493992",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1287493992A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 61m2 à Soorts hossegor (40150) - ParuVendu.fr ref 992784126344",
+      "price": 416000,
+      "surface": 61,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "D",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "rez-de-jardin",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "ent Appartement T3 grand jardin à Soorts-Hossegor Soorts hossegor",
+      "condition": "neuf",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 416000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294979089",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294979089A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 75m2 à Soorts hossegor (40150) - ParuVendu.fr ref 992790139318",
+      "price": 565000,
+      "surface": 75,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "D",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "ment Appartement T4 avec terrasse en étage à Soorts-Hossegor Soorts hossegor",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 565000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294979087",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294979087A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 46m2 à Soorts hossegor (40150) - ParuVendu.fr ref 992790139316",
+      "price": 329000,
+      "surface": 46,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "D",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "rez-de-jardin",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "neuf",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 329000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291180392",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291180392A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 55m2 à Soorts-hossegor (40150) - ParuVendu.fr ref 992787022191",
+      "price": 392000,
+      "surface": 55,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": null,
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse",
+      "condition": "neuf",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 392000
+        }
+      ],
+      "weaknesses": [
+        "DPE non trouvé dans l’annonce",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291107650",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291107650A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 69m2 à Soorts-hossegor (40150) - ParuVendu.fr ref 992786970092",
+      "price": 366490,
+      "surface": 69,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 284,
+      "ges": "B",
+      "gesKg": 9,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 988,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": 1970,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 366490
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291989914",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291989914A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Soorts hossegor (40150) | 699 480 € | 3 pièces | 73 m² - ParuVendu.fr ref 992787727290",
+      "price": 699480,
+      "surface": 73,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 174,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 3000,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 699480
+        }
+      ],
+      "weaknesses": [
+        "Charges élevées",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296661543",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296661543A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 79m2 à Saint vincent de tyrosse (40230) - ParuVendu.fr ref 992791558573",
+      "price": 281000,
+      "surface": 79,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - saint-vincent-de tyrosse saint vincent de tyrosse"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "t 4 PIÈCES de 79m² + UNE TERRASSE + PARKING - SAINT-VINCENT-DE TYROSSE Saint v",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Vincent-de-Tyrosse",
+      "postalCode": "40230",
+      "distanceKm": 23,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 281000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296453018",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296453018A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 85m2 à Saint-vincent-de-tyrosse (40230) - ParuVendu.fr ref 992791374519",
+      "price": 262000,
+      "surface": 85,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 162,
+      "ges": "A",
+      "gesKg": 162,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 720,
+      "taxeFonciere": null,
+      "exterior": "Jardin / Terrain",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Saint-Vincent-de-Tyrosse",
+      "postalCode": "40230",
+      "distanceKm": 23,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 262000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295499618",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295499618A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 67m2 à Saint-vincent-de-tyrosse (40230) - ParuVendu.fr ref 992790579427",
+      "price": 260500,
+      "surface": 67,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "B",
+      "dpeKwh": 51,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "box"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 2010,
+      "taxeFonciere": null,
+      "exterior": "Balcon",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Vincent-de-Tyrosse",
+      "postalCode": "40230",
+      "distanceKm": 23,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 260500
+        }
+      ],
+      "weaknesses": [
+        "Charges élevées",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295499588",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295499588A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Saint-vincent-de-tyrosse (40230) - ParuVendu.fr ref 992790579397",
+      "price": 200750,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": null,
+      "dpe": "B",
+      "dpeKwh": 51,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "box"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 1350,
+      "taxeFonciere": null,
+      "exterior": "Balcon",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Vincent-de-Tyrosse",
+      "postalCode": "40230",
+      "distanceKm": 23,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 200750
+        }
+      ],
+      "weaknesses": [
+        "Charges élevées",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295017962",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295017962A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 43m2 à Saint vincent de tyrosse (40230) - ParuVendu.fr ref 992790173376",
+      "price": 187000,
+      "surface": 43,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Vincent-de-Tyrosse",
+      "postalCode": "40230",
+      "distanceKm": 23,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 187000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293268613",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293268613A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 62m2 à St vincent de tyrosse (40230) - ParuVendu.fr ref 992788824765",
+      "price": 220000,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 1,
+      "ges": "A",
+      "gesKg": 1,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": 740,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Vincent-de-Tyrosse",
+      "postalCode": "40230",
+      "distanceKm": 23,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 220000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293268619",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293268619A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 62m2 à St vincent de tyrosse (40230) - ParuVendu.fr ref 992788824771",
+      "price": 238000,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 1,
+      "ges": "A",
+      "gesKg": 1,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": 720,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Vincent-de-Tyrosse",
+      "postalCode": "40230",
+      "distanceKm": 23,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 238000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268627A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
+      ]
+    },
+    {
+      "id": "paruvendu-1293268625",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293268625A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 61m2 à St vincent de tyrosse (40230) - ParuVendu.fr ref 992788824777",
+      "price": 265000,
+      "surface": 61,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 1,
+      "ges": "A",
+      "gesKg": 1,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": 730,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Vincent-de-Tyrosse",
+      "postalCode": "40230",
+      "distanceKm": 23,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 265000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293268631",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293268631A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 62m2 à St vincent de tyrosse (40230) - ParuVendu.fr ref 992788824783",
+      "price": 230000,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 1,
+      "ges": "A",
+      "gesKg": 1,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": 720,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Vincent-de-Tyrosse",
+      "postalCode": "40230",
+      "distanceKm": 23,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 230000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293268604",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293268604A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 50m2 à St vincent de tyrosse (40230) - ParuVendu.fr ref 992788824756",
+      "price": 210000,
+      "surface": 50,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": 1,
+      "ges": "A",
+      "gesKg": 1,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": 580,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Saint-Vincent-de-Tyrosse",
+      "postalCode": "40230",
+      "distanceKm": 23,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 210000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293268610",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293268610A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 42m2 à St vincent de tyrosse (40230) - ParuVendu.fr ref 992788824762",
+      "price": 190000,
+      "surface": 42,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": 1,
+      "ges": "A",
+      "gesKg": 1,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": 580,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Vincent-de-Tyrosse",
+      "postalCode": "40230",
+      "distanceKm": 23,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 190000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293268616",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293268616A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 61m2 à St vincent de tyrosse (40230) - ParuVendu.fr ref 992788824768",
+      "price": 245000,
+      "surface": 61,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 1,
+      "ges": "A",
+      "gesKg": 1,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": 720,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Vincent-de-Tyrosse",
+      "postalCode": "40230",
+      "distanceKm": 23,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 245000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268621A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
+      ]
+    },
+    {
+      "id": "paruvendu-1293268622",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293268622A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 61m2 à St vincent de tyrosse (40230) - ParuVendu.fr ref 992788824774",
+      "price": 215417,
+      "surface": 61,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 1,
+      "ges": "A",
+      "gesKg": 1,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": 710,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Vincent-de-Tyrosse",
+      "postalCode": "40230",
+      "distanceKm": 23,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 215417
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268628A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268617A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
+      ]
+    },
+    {
+      "id": "paruvendu-1293268605",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293268605A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 42m2 à St vincent de tyrosse (40230) - ParuVendu.fr ref 992788824757",
+      "price": 176917,
+      "surface": 42,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": 1,
+      "ges": "A",
+      "gesKg": 1,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": 580,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Vincent-de-Tyrosse",
+      "postalCode": "40230",
+      "distanceKm": 23,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 176917
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268609A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
+      ]
+    },
+    {
+      "id": "paruvendu-1293268615",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293268615A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 61m2 à St vincent de tyrosse (40230) - ParuVendu.fr ref 992788824767",
+      "price": 224583,
+      "surface": 61,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 1,
+      "ges": "A",
+      "gesKg": 1,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": 720,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Vincent-de-Tyrosse",
+      "postalCode": "40230",
+      "distanceKm": 23,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 224583
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1289974297",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1289974297A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 40m2 à Seignosse (40510) - ParuVendu.fr ref 992786000938",
+      "price": 210000,
+      "surface": 40,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 178,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": 3202,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "travaux",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Seignosse",
+      "postalCode": "40510",
+      "distanceKm": 23.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 210000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Charges élevées",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293613799",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293613799A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 42m2 à Seignosse (40510) - ParuVendu.fr ref 992789123437",
+      "price": 215000,
+      "surface": 42,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 227,
+      "ges": "D",
+      "gesKg": 49,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "rez-de-jardin",
+      "elevator": null,
+      "charges": 1495,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "bon",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Seignosse",
+      "postalCode": "40510",
+      "distanceKm": 23.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 215000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Charges élevées",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295018581",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295018581A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 40m2 à Seignosse (40510) - ParuVendu.fr ref 992790173949",
+      "price": 249500,
+      "surface": 40,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 184,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": 1512,
+      "taxeFonciere": 928,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": 1978,
+      "procedure": null,
+      "quartier": null,
+      "city": "Seignosse",
+      "postalCode": "40510",
+      "distanceKm": 23.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 249500
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Charges élevées",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1289767665",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1289767665A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 66m2 à Seignosse (40510) - ParuVendu.fr ref 992785842088",
+      "price": 510000,
+      "surface": 66,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 174,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Seignosse",
+      "postalCode": "40510",
+      "distanceKm": 23.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 510000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64100-216",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52899572/17-acheter-appartement-bayonne-64100.htm",
+      "title": "Achat Appartement 2 pièce(s) 45 m² BAYONNE 64100 180 000 € - fnaim.fr",
+      "price": 180000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 156,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "3ème étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "bon",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 180000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64100-217",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53062836/17-acheter-appartement-bayonne-64100.htm",
+      "title": "Achat Appartement 2 pièce(s) 42 m² BAYONNE 64100 180 000 € - fnaim.fr",
+      "price": 180000,
+      "surface": 42,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 170,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 600,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 180000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53062840/17-acheter-appartement-bayonne-64100.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
+      ]
+    },
+    {
+      "id": "fnaim-64100-218",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52564624/17-acheter-appartement-bayonne-64100.htm",
+      "title": "Achat Appartement 2 pièce(s) 40 m² BAYONNE 64100 180 000 € - fnaim.fr",
+      "price": 180000,
+      "surface": 40,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "B",
+      "dpeKwh": 108,
+      "ges": "C",
+      "gesKg": 19,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "couvert",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": 670,
+      "taxeFonciere": null,
+      "exterior": "séparé, complété par une loggia fermée qui prolonge agréablement le séjour",
+      "condition": "travaux",
+      "year": 2016,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 180000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64100-219",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53222226/17-acheter-appartement-bayonne-64100.htm",
+      "title": "Achat Appartement 3 pièce(s) 52 m² BAYONNE 64100 185 000 € - fnaim.fr",
+      "price": 185000,
+      "surface": 52,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 285,
+      "ges": "C",
+      "gesKg": 11,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "stationnement libre au pied de la résidence"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Balcon",
+      "condition": "excellent",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 185000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53197515/17-acheter-appartement-bayonne-64100.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
+      ]
+    },
+    {
+      "id": "fnaim-64100-220",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53034208/17-acheter-appartement-bayonne-64100.htm",
+      "title": "Achat Appartement 1 pièce(s) 48 m² BAYONNE 64100 186 375 € - fnaim.fr",
+      "price": 186375,
+      "surface": 48,
+      "surfaceCarrez": null,
+      "rooms": 1,
+      "bedrooms": null,
+      "dpe": "C",
+      "dpeKwh": 140,
+      "ges": "A",
+      "gesKg": 4,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "bon",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 186375
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64600",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52907033/17-acheter-appartement-anglet-64600.htm",
+      "title": "Achat Appartement 2 pièce(s) 44 m² ANGLET 64600 145 000 € - fnaim.fr",
+      "price": 145000,
+      "surface": 44,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 183,
+      "ges": "D",
+      "gesKg": 34,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "stationnement est libre dans la résidence"
+      },
+      "floor": "2ème étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "un séjour donnant sur un balcon sans vis à vis",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 145000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64600-222",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53202959/17-acheter-appartement-anglet-64600.htm",
+      "title": "Achat Appartement 2 pièce(s) 41 m² ANGLET 64600 150 000 € - fnaim.fr",
+      "price": 150000,
+      "surface": 41,
+      "surfaceCarrez": 34,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "E",
+      "dpeKwh": 251,
+      "ges": "D",
+      "gesKg": 51,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 150000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64600-223",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52360118/17-acheter-appartement-anglet-64600.htm",
+      "title": "Achat Appartement 2 pièce(s) 52 m² ANGLET 64600 197 000 € - fnaim.fr",
+      "price": 197000,
+      "surface": 52,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 199,
+      "ges": "D",
+      "gesKg": 40,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Balcon",
+      "condition": "bon",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 197000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64600-224",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53096280/17-acheter-appartement-anglet-64600.htm",
+      "title": "Achat Appartement 2 pièce(s) 50 m² ANGLET 64600 210 000 € - fnaim.fr",
+      "price": 210000,
+      "surface": 50,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "F",
+      "dpeKwh": 370,
+      "ges": "F",
+      "gesKg": 80,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Terrasse Ascenseur Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 210000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64600-225",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52981064/17-acheter-appartement-anglet-64600.htm",
+      "title": "Achat Appartement 2 pièce(s) 40 m² ANGLET 64600 219 000 € - fnaim.fr",
+      "price": 219000,
+      "surface": 40,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 75,
+      "ges": "C",
+      "gesKg": 14,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Terrasse Ascenseur Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 219000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64600-226",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53002714/17-acheter-appartement-anglet-64600.htm",
+      "title": "Achat Appartement 3 pièce(s) 64 m² ANGLET 64600 220 000 € - fnaim.fr",
+      "price": 220000,
+      "surface": 64,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 115,
+      "ges": "C",
+      "gesKg": 15,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "6ème et dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 220000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64600-227",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53137708/17-acheter-appartement-anglet-64600.htm",
+      "title": "Achat Appartement 2 pièce(s) 43 m² ANGLET 64600 235 000 € - fnaim.fr",
+      "price": 235000,
+      "surface": 43,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 190,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Terrasse Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 235000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64600-228",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52661914/17-acheter-appartement-anglet-64600.htm",
+      "title": "Achat Appartement 2 pièce(s) 41 m² ANGLET 64600 238 000 € - fnaim.fr",
+      "price": 238000,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": null,
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 238000
+        }
+      ],
+      "weaknesses": [
+        "DPE non trouvé dans l’annonce",
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64600-229",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52218445/17-acheter-appartement-anglet-64600.htm",
+      "title": "Achat Appartement 2 pièce(s) 54 m² ANGLET 64600 248 000 € - fnaim.fr",
+      "price": 248000,
+      "surface": 54,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 136,
+      "ges": "C",
+      "gesKg": 25,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": "1er étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Balcon Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 248000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64600-230",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53076603/17-acheter-appartement-anglet-64600.htm",
+      "title": "Achat Appartement 3 pièce(s) 63 m² ANGLET 64600 250 000 € - fnaim.fr",
+      "price": 250000,
+      "surface": 63,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 218,
+      "ges": "D",
+      "gesKg": 47,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "rez de chaussée",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Terrasse Balcon Ascenseur Parking / Garage",
+      "condition": "bon",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 250000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64600-231",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52978719/17-acheter-appartement-anglet-64600.htm",
+      "title": "Achat Appartement 2 pièce(s) 55 m² ANGLET 64600 252 000 € - fnaim.fr",
+      "price": 252000,
+      "surface": 55,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 145,
+      "ges": "C",
+      "gesKg": 29,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "rez de chaussée",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 252000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64600-232",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53148771/17-acheter-appartement-anglet-64600.htm",
+      "title": "Achat Appartement 2 pièce(s) 40 m² ANGLET 64600 254 400 € - fnaim.fr",
+      "price": 254400,
+      "surface": 40,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 208,
+      "ges": "B",
+      "gesKg": 8,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 528,
+      "taxeFonciere": 829,
+      "exterior": "e vitrage sur une grande terrasse",
+      "condition": "excellent",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 254400
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64600-233",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52924005/17-acheter-appartement-anglet-64600.htm",
+      "title": "Achat Appartement 4 pièce(s) 77 m² ANGLET 64600 260 000 € - fnaim.fr",
+      "price": 260000,
+      "surface": 77,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "D",
+      "dpeKwh": 178,
+      "ges": "D",
+      "gesKg": 36,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "3 chambres Balcon Ascenseur Parking / Garage",
+      "condition": "bon",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 260000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64600-234",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53214407/17-acheter-appartement-anglet-64600.htm",
+      "title": "Achat Appartement 3 pièce(s) 63 m² ANGLET 64600 265 000 € - fnaim.fr",
+      "price": 265000,
+      "surface": 63,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 176,
+      "ges": "D",
+      "gesKg": 38,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "garage",
+        "detail": "parking"
+      },
+      "floor": "3e étage",
+      "elevator": true,
+      "charges": 370,
+      "taxeFonciere": 850,
+      "exterior": "2 chambres Balcon Ascenseur Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 265000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-53197527",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53197527/17-acheter-appartement-pyrenees-atlantiques-64.htm",
+      "title": "Achat Appartement 2 pièce(s) 55 m² 265 000 € - fnaim.fr",
+      "price": 265000,
+      "surface": 55,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 140,
+      "ges": "C",
+      "gesKg": 27,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "stationnement est libre au sein de la copropriété"
+      },
+      "floor": "5ème et dernier étage",
+      "elevator": true,
+      "charges": 1470,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Terrasse",
+      "condition": "travaux",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 265000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-53208834",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53208834/17-acheter-appartement-pyrenees-atlantiques-64.htm",
+      "title": "Achat Appartement 2 pièce(s) 58 m² 275 000 € - fnaim.fr",
+      "price": 275000,
+      "surface": 58,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "E",
+      "dpeKwh": 289,
+      "ges": "E",
+      "gesKg": 63,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "un parking collectif fermé par un portail et réservé aux copropriétair"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1292,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Terrasse Ascenseur",
+      "condition": "rafraichir",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 275000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-53161718",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53161718/17-acheter-appartement-pyrenees-atlantiques-64.htm",
+      "title": "Achat Appartement 2 pièce(s) 43 m² 275 600 € - fnaim.fr",
+      "price": 275600,
+      "surface": 43,
+      "surfaceCarrez": 43.25,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 86,
+      "ges": "C",
+      "gesKg": 15,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 800,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Terrasse Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 275600
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
