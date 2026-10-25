@@ -1,7 +1,32 @@
 {
-  "lastRun": null,
-  "mode": "initial",
-  "message": "Données initiales issues de la recherche du 25/10/2026. L'agent automatique n'a pas encore tourné : il démarre une fois le dépôt GitHub configuré.",
-  "sources": [],
-  "stats": { "fetched": 0, "new": 0, "priceDrops": 0, "removed": 0 }
+  "lastRun": "2026-10-25T07:56:38.537Z",
+  "mode": "search",
+  "message": "21 nouvelle(s) annonce(s), 0 baisse(s) de prix, 0 retirée(s). 0 annonce(s) revérifiée(s), 2 source(s) bloquée(s).",
+  "sources": [
+    {
+      "name": "Foncia",
+      "result": "bloquée : accès refusé par le site"
+    },
+    {
+      "name": "ParuVendu",
+      "result": "30 annonce(s) listée(s)"
+    },
+    {
+      "name": "FNAIM",
+      "result": "24 annonce(s) listée(s)"
+    },
+    {
+      "name": "Capifrance",
+      "result": "bloquée : accès refusé par le site"
+    }
+  ],
+  "stats": {
+    "pagesFetched": 44,
+    "new": 21,
+    "priceDrops": 0,
+    "removed": 0,
+    "duplicates": 0,
+    "rejected": 19,
+    "rechecked": 0
+  }
 }
