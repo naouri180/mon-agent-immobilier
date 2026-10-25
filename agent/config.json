@@ -34,7 +34,7 @@
     }
   },
   "limits": {
-    "maxDetailPagesPerRun": 80,
+    "maxDetailPagesPerRun": 150,
     "maxRechecksPerRun": 30,
     "delayBetweenRequestsMs": 2500,
     "timeoutMs": 20000
