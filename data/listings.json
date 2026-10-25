@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T08:00:23.420Z",
+  "updatedAt": "2026-10-25T08:10:09.333Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -479,7 +479,13 @@
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ],
       "postalCode": "64100",
-      "distanceKm": 0
+      "distanceKm": 0,
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1288806970A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
+      ]
     },
     {
       "id": "paruvendu-1291824696",
@@ -1512,6 +1518,2419 @@
       ],
       "postalCode": "64100",
       "distanceKm": 0
+    },
+    {
+      "id": "paruvendu-1296645781",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296645781A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 44m2 à Anglet (64600) - ParuVendu.fr ref 992791545232",
+      "price": 335000,
+      "surface": 44,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": null,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "un box et des prestations soignées"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 335000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295465720",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295465720A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 50m2 à Anglet (64600) - ParuVendu.fr ref 992790549601",
+      "price": 318000,
+      "surface": 50,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 171,
+      "ges": "D",
+      "gesKg": 34,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "stationnement privatif et accès facile aux commerces et plages à proximit"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": 65,
+      "taxeFonciere": null,
+      "exterior": "2 d'environ 50 m² avec 2 balcons à Anglet Anglet",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 318000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294629491",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294629491A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 55m2 à Anglet (64600) - ParuVendu.fr ref 992789870697",
+      "price": 240000,
+      "surface": 55,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "E",
+      "dpeKwh": 314,
+      "ges": "E",
+      "gesKg": 68,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": 750,
+      "taxeFonciere": null,
+      "exterior": "nt Beau T2 de 55 m² avec terrasse, lumineux et entièrement rénové à ANGLET (64",
+      "condition": "excellent",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 240000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1292879395",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1292879395A1KIVHAP000",
+      "title": "Annonce vente appartement 5 pièces de 84m2 à Anglet (64600) - ParuVendu.fr ref 992788494997",
+      "price": 290000,
+      "surface": 84,
+      "surfaceCarrez": null,
+      "rooms": 5,
+      "bedrooms": 4,
+      "dpe": "G",
+      "dpeKwh": 436,
+      "ges": "D",
+      "gesKg": 39,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "travaux",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 290000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293860923",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293860923A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 54m2 à Anglet (64600) - ParuVendu.fr ref 992789333733",
+      "price": 230000,
+      "surface": 54,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 207,
+      "ges": "B",
+      "gesKg": 8,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking anglet"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 981,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 230000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295915359",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295915359A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 44m2 à Anglet (64600) - ParuVendu.fr ref 992790921228",
+      "price": 360000,
+      "surface": 44,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "B",
+      "dpeKwh": 109,
+      "ges": "A",
+      "gesKg": 3,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 900,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 360000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1289454501",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1289454501A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Anglet (64600) | 499 000 € | 3 pièces | 75 m² - ParuVendu.fr ref 992785613664",
+      "price": 499000,
+      "surface": 75,
+      "surfaceCarrez": 51,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 152,
+      "ges": "D",
+      "gesKg": 30,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking + cave anglet"
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": 1063,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": 1991,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 499000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296614018",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296614018A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 58m2 à Anglet (64600) - ParuVendu.fr ref 992791517174",
+      "price": 345000,
+      "surface": 58,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 97,
+      "ges": "C",
+      "gesKg": 18,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 940,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 345000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294951396",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294951396A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 62m2 à Anglet (64600) - ParuVendu.fr ref 992790115462",
+      "price": 295000,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 164,
+      "ges": "D",
+      "gesKg": 35,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 1260,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 295000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296524123",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296524123A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 63m2 à Anglet (64600) - ParuVendu.fr ref 992791436247",
+      "price": 430000,
+      "surface": 63,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "D",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 430000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295115557",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295115557A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 80m2 à Anglet (64600) - ParuVendu.fr ref 992790252780",
+      "price": 449000,
+      "surface": 80,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 126,
+      "ges": "A",
+      "gesKg": 4,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "souterrain",
+        "detail": "2 parkings anglet"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1204,
+      "taxeFonciere": null,
+      "exterior": "glet proche 5 Cantons T4 terrasse 2 parkings Anglet",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 449000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1290854941",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1290854941A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 80m2 à Anglet (64600) - ParuVendu.fr ref 992786751202",
+      "price": 330000,
+      "surface": 80,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 117,
+      "ges": "C",
+      "gesKg": 24,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": "2e étage",
+      "elevator": true,
+      "charges": 1332,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "rafraichir",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 330000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295432562",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295432562A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 63m2 à Anglet (64600) - ParuVendu.fr ref 992790520875",
+      "price": 357000,
+      "surface": 63,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 80,
+      "ges": "C",
+      "gesKg": 15,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 912,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "excellent",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 357000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296061082",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296061082A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 80m2 à Anglet (64600) - ParuVendu.fr ref 992791037938",
+      "price": 360000,
+      "surface": 80,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "D",
+      "dpeKwh": 173,
+      "ges": "D",
+      "gesKg": 36,
+      "dpeDerived": false,
+      "parking": {
+        "count": 3,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "1er étage sur 2",
+      "elevator": null,
+      "charges": 1400,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "travaux",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 360000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295697019",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295697019A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 68m2 à Anglet (64600) - ParuVendu.fr ref 992790741971",
+      "price": 220000,
+      "surface": 68,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 171,
+      "ges": "D",
+      "gesKg": 37,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "2e étage",
+      "elevator": true,
+      "charges": 5877,
+      "taxeFonciere": 1150,
+      "exterior": "Balcon / Terrasse",
+      "condition": "rafraichir",
+      "year": 1972,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 220000
+        }
+      ],
+      "weaknesses": [
+        "Charges élevées",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1289584736A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
+      ]
+    },
+    {
+      "id": "paruvendu-1296532056",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296532056A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 52m2 à Anglet (64600) - ParuVendu.fr ref 992791443570",
+      "price": 160000,
+      "surface": 52,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "F",
+      "dpeKwh": 398,
+      "ges": "F",
+      "gesKg": 86,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "Dernier étage",
+      "elevator": true,
+      "charges": 4173,
+      "taxeFonciere": 949,
+      "exterior": "Balcon / Terrasse",
+      "condition": "rafraichir",
+      "year": 1975,
+      "procedure": true,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 160000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Charges élevées",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1286599732",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1286599732A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 41m2 à Anglet (64600) - ParuVendu.fr ref 992783313104",
+      "price": 245000,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 64,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking pri anglet"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "portes de Biarritz avec terrasse et parking pri Anglet",
+      "condition": "excellent",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 245000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1286330967",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1286330967A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 85m2 à Anglet (64600) - ParuVendu.fr ref 992783245615",
+      "price": 670000,
+      "surface": 85,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "double box inclus"
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 670000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296524120",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296524120A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 48m2 à Anglet (64600) - ParuVendu.fr ref 992791436244",
+      "price": 305000,
+      "surface": 48,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "D",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 305000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296092813",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296092813A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 62m2 à Anglet (64600) - ParuVendu.fr ref 992791065735",
+      "price": 470000,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 470000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1288056592",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1288056592A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 61m2 à Anglet (64600) - ParuVendu.fr ref 992784553177",
+      "price": 230000,
+      "surface": 61,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 213,
+      "ges": "D",
+      "gesKg": 43,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "place de parking sous sol à anglet anglet"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 927,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "travaux",
+      "year": 1978,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 230000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293248098",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293248098A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 62m2 à Anglet (64600) - ParuVendu.fr ref 992788806972",
+      "price": 255000,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 49,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking + cave anglet"
+      },
+      "floor": "3ème étage",
+      "elevator": true,
+      "charges": 880,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": 2017,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 255000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295466320",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295466320A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Biarritz (64200) | 980 000 € | 3 pièces | 80 m² - ParuVendu.fr ref 992789781118",
+      "price": 980000,
+      "surface": 80,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 119,
+      "ges": "C",
+      "gesKg": 22,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "2e étage",
+      "elevator": true,
+      "charges": 1836,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "travaux",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 980000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293305264",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293305264A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Biarritz (64200) | 590 000 € | 3 pièces | 80 m² - ParuVendu.fr ref 992788856668",
+      "price": 590000,
+      "surface": 80,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 161,
+      "ges": "D",
+      "gesKg": 34,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 780,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "excellent",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 590000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296069786",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296069786A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 44m2 à Biarritz (64200) - ParuVendu.fr ref 992791045581",
+      "price": 309000,
+      "surface": 44,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 165,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 720,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 309000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1286024543",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1286024543A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 77m2 à Biarritz (64200) - ParuVendu.fr ref 992783011271",
+      "price": 495000,
+      "surface": 77,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 117,
+      "ges": "C",
+      "gesKg": 25,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": 2200,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 495000
+        }
+      ],
+      "weaknesses": [
+        "Charges élevées",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293753133",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293753133A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 48m2 à Biarritz (64200) - ParuVendu.fr ref 992789243781",
+      "price": 350000,
+      "surface": 48,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 75,
+      "ges": "C",
+      "gesKg": 14,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "garage - proche centre-ville biarritz"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 816,
+      "taxeFonciere": 925,
+      "exterior": "ente Appartement T2 avec terrasse et garage - Proche centre-ville Biarritz",
+      "condition": "inconnu",
+      "year": 2015,
+      "procedure": false,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 350000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294697748",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294697748A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Biarritz (64200) | 720 000 € | 3 pièces | 61 m² - ParuVendu.fr ref 992789928047",
+      "price": 720000,
+      "surface": 61,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 123,
+      "ges": "C",
+      "gesKg": 25,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 1440,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 720000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295846083",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295846083A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces à Biarritz (64200) - ParuVendu.fr ref 992790864846",
+      "price": 872000,
+      "surface": 80,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 51,
+      "ges": "D",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "ment T3 neuf 80m² avec 2 terrasses - Biarritz Côte des Basques, 500 m de la pla",
+      "condition": "neuf",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 872000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295846084",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295846084A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces à Biarritz (64200) - ParuVendu.fr ref 992790864847",
+      "price": 699000,
+      "surface": 65,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 51,
+      "ges": "D",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "ement T3 neuf 65 m² avec loggia - Biarritz Côte des Basques, 500 m de la pla",
+      "condition": "neuf",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 699000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1292757238",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1292757238A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Biarritz (64200) | 899 000 € | 3 pièces | 83 m² - ParuVendu.fr ref 992788388301",
+      "price": 899000,
+      "surface": 83,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 226,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "un box fermé complètent ce bien"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "ppartement BIARRITZ - T3 TERRASSE VUE OCEAN Biarritz",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 899000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291055905",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291055905A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 44m2 à Biarritz (64200) - ParuVendu.fr ref 992786921413",
+      "price": 515000,
+      "surface": 44,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": null,
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 515000
+        }
+      ],
+      "weaknesses": [
+        "DPE non trouvé dans l’annonce",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295574505",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295574505A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 84m2 à Biarritz (64200) - ParuVendu.fr ref 992790637902",
+      "price": 560000,
+      "surface": 84,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 142,
+      "ges": "C",
+      "gesKg": 29,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "box biarritz"
+      },
+      "floor": "Dernier étage",
+      "elevator": true,
+      "charges": 5460,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "travaux",
+      "year": 2020,
+      "procedure": false,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 560000
+        }
+      ],
+      "weaknesses": [
+        "Charges élevées",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1288079576",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1288079576A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 42m2 à Biarritz (64200) - ParuVendu.fr ref 992784570172",
+      "price": 299900,
+      "surface": 42,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "E",
+      "dpeKwh": 316,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "1er étage",
+      "elevator": true,
+      "charges": 839,
+      "taxeFonciere": null,
+      "exterior": "Biarritz centre, T2 avec balcon Biarritz",
+      "condition": "inconnu",
+      "year": 1976,
+      "procedure": false,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 299900
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1292607314",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1292607314A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Biarritz (64200) | 1 050 000 € | 3 pièces | 68 m² - ParuVendu.fr ref 992788266316",
+      "price": 1050000,
+      "surface": 68,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 99,
+      "ges": "C",
+      "gesKg": 18,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 4200,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 1050000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Charges élevées",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293826041",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293826041A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 47m2 à Biarritz (64200) - ParuVendu.fr ref 992789303722",
+      "price": 230000,
+      "surface": 47,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "F",
+      "dpeKwh": 414,
+      "ges": "C",
+      "gesKg": 14,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": 401,
+      "exterior": "Jardin / Terrain",
+      "condition": "rafraichir",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 230000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296281896",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296281896A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 46m2 à Biarritz (64200) - ParuVendu.fr ref 992791227231",
+      "price": 449000,
+      "surface": 46,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 175,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": 608,
+      "exterior": "Jardin / Terrain",
+      "condition": "excellent",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 449000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295383820",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295383820A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 42m2 à Biarritz (64200) - ParuVendu.fr ref 992790477553",
+      "price": 245000,
+      "surface": 42,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 216,
+      "ges": "B",
+      "gesKg": 8,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 245000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296220163",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296220163A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 50m2 à Boucau (64340) - ParuVendu.fr ref 992791174224",
+      "price": 143000,
+      "surface": 50,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "G",
+      "dpeKwh": 430,
+      "ges": "C",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Boucau",
+      "postalCode": "64340",
+      "distanceKm": 3.6,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 143000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295988839",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295988839A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 42m2 à Boucau (64340) - ParuVendu.fr ref 992790976402",
+      "price": 189000,
+      "surface": 42,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 107,
+      "ges": "C",
+      "gesKg": 20,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "place de parking sous-terrain boucau"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1210,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Boucau",
+      "postalCode": "64340",
+      "distanceKm": 3.6,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 189000
+        }
+      ],
+      "weaknesses": [
+        "Charges élevées",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294238001",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294238001A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 64m2 à Boucau (64340) - ParuVendu.fr ref 992789588015",
+      "price": 210000,
+      "surface": 64,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 172,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "1er étage",
+      "elevator": null,
+      "charges": 150,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Boucau",
+      "postalCode": "64340",
+      "distanceKm": 3.6,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 210000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1287692042",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1287692042A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 45m2 à Boucau (64340) - ParuVendu.fr ref 992784280110",
+      "price": 199000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 289,
+      "ges": "E",
+      "gesKg": 62,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 573,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Boucau",
+      "postalCode": "64340",
+      "distanceKm": 3.6,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 199000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295281333",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295281333A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 56m2 à Boucau (64340) - ParuVendu.fr ref 992790395094",
+      "price": 259000,
+      "surface": 56,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 71,
+      "ges": "C",
+      "gesKg": 13,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 720,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "bon",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Boucau",
+      "postalCode": "64340",
+      "distanceKm": 3.6,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 259000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291090698",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291090698A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Boucau (64340) - ParuVendu.fr ref 992786954397",
+      "price": 185000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 102,
+      "ges": "C",
+      "gesKg": 20,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 571,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Boucau",
+      "postalCode": "64340",
+      "distanceKm": 3.6,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 185000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296314718",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296314718A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 68m2 à Tarnos (40220) - ParuVendu.fr ref 992791255944",
+      "price": 280000,
+      "surface": 68,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 170,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 1200,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Tarnos",
+      "postalCode": "40220",
+      "distanceKm": 5.5,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 280000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295432953",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295432953A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 82m2 à Tarnos (40220) - ParuVendu.fr ref 992790521262",
+      "price": 319000,
+      "surface": 82,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "D",
+      "dpeKwh": 229,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "garage",
+        "detail": "parking"
+      },
+      "floor": "1er étage",
+      "elevator": null,
+      "charges": 420,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "travaux",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Tarnos",
+      "postalCode": "40220",
+      "distanceKm": 5.5,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 319000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1292072982",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1292072982A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 70m2 à Saint-pierre-d",
+      "price": 238500,
+      "surface": 70,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 173,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": 1136,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Saint-Pierre-d'Irube",
+      "postalCode": "64990",
+      "distanceKm": 2.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 238500
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1286493678",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1286493678A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 67m2 à Mouguerre (64990) - ParuVendu.fr ref 992783388652",
+      "price": 250000,
+      "surface": 67,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 146,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "Dernier étage",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": 210,
+      "exterior": "uguerre - Dernier étage, terrasse de 20 m2 & superbe vue montagne Mouguerre",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Mouguerre",
+      "postalCode": "64990",
+      "distanceKm": 5.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 250000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295846086",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295846086A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces à Bidart (64210) - ParuVendu.fr ref 992790864849",
+      "price": 530000,
+      "surface": 61,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 51,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking bidart"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "ement T3 neuf 61 m² avec jardin privatif 115 m² - Bidart village, 8 min des",
+      "condition": "neuf",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 530000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
     }
   ]
 }
