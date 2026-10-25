@@ -1,7 +1,7 @@
 {
-  "lastRun": "2026-10-25T07:56:38.537Z",
+  "lastRun": "2026-10-25T08:00:23.420Z",
   "mode": "search",
-  "message": "21 nouvelle(s) annonce(s), 0 baisse(s) de prix, 0 retirée(s). 0 annonce(s) revérifiée(s), 2 source(s) bloquée(s).",
+  "message": "23 nouvelle(s) annonce(s), 0 baisse(s) de prix, 0 retirée(s). 0 annonce(s) revérifiée(s), 2 source(s) bloquée(s).",
   "sources": [
     {
       "name": "Foncia",
@@ -22,11 +22,11 @@
   ],
   "stats": {
     "pagesFetched": 44,
-    "new": 21,
+    "new": 23,
     "priceDrops": 0,
     "removed": 0,
     "duplicates": 0,
-    "rejected": 19,
+    "rejected": 17,
     "rechecked": 0
   }
 }

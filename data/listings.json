@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T07:56:38.537Z",
+  "updatedAt": "2026-10-25T08:00:23.420Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -366,6 +366,1089 @@
           "date": "2026-10-25",
           "price": 320000
         }
+      ]
+    },
+    {
+      "id": "paruvendu-1296646474",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296646474A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 64m2 à Bayonne (64100) - ParuVendu.fr ref 992791545914",
+      "price": 315000,
+      "surface": 64,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 115,
+      "ges": "C",
+      "gesKg": 17,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 1280,
+      "taxeFonciere": null,
+      "exterior": "Terrasse",
+      "condition": "inconnu",
+      "year": 2011,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 315000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295357419",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295357419A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 41m2 à Bayonne (64100) - ParuVendu.fr ref 992790455661",
+      "price": 199000,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 1,
+      "dpe": null,
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "box"
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "travaux",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 199000
+        }
+      ],
+      "weaknesses": [
+        "DPE non trouvé dans l’annonce",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291824696",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291824696A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 40m2 à Bayonne (64100) - ParuVendu.fr ref 992787583537",
+      "price": 225000,
+      "surface": 40,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 79,
+      "ges": "C",
+      "gesKg": 16,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "rez-de-jardin",
+      "elevator": true,
+      "charges": 958,
+      "taxeFonciere": 865,
+      "exterior": "ppartement UHINA T2 avec jardin privatif aux portes du centre historique de",
+      "condition": "inconnu",
+      "year": 2021,
+      "procedure": true,
+      "quartier": null,
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 225000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296548385",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296548385A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 1m2 à Bayonne (64100) - ParuVendu.fr ref 992791458479",
+      "price": 303880,
+      "surface": null,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 246,
+      "ges": "E",
+      "gesKg": 54,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": "5ème étage",
+      "elevator": true,
+      "charges": 2640,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "rafraichir",
+      "year": null,
+      "procedure": null,
+      "quartier": "Arènes",
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 303880
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294682927",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294682927A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 80m2 à Bayonne (64100) - ParuVendu.fr ref 992789916792",
+      "price": 320000,
+      "surface": 80,
+      "surfaceCarrez": 78,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "E",
+      "dpeKwh": 264,
+      "ges": "E",
+      "gesKg": 55,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": 1207,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "excellent",
+      "year": null,
+      "procedure": null,
+      "quartier": "Saint-Esprit",
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 320000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296566870",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296566870A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 66m2 à Bayonne (64100) - ParuVendu.fr ref 992791474752",
+      "price": 384900,
+      "surface": 66,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 84,
+      "ges": "C",
+      "gesKg": 16,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "double stationnement bayonne"
+      },
+      "floor": "DERNIER ÉTAGE",
+      "elevator": true,
+      "charges": 1680,
+      "taxeFonciere": 1500,
+      "exterior": "M² AU DERNIER ÉTAGE AVEC TERRASSE EXCEPTIONNELLE DE 103 M² ET DOUBLE STATIONNE",
+      "condition": "excellent",
+      "year": 2015,
+      "procedure": true,
+      "quartier": null,
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 384900
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296630650",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296630650A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 62m2 à Bayonne (64100) - ParuVendu.fr ref 992791532580",
+      "price": 150000,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 194,
+      "ges": "C",
+      "gesKg": 18,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": false,
+      "charges": 1257,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": "Saint-Esprit",
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 150000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1289547977",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1289547977A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 61m2 à Bayonne (64100) - ParuVendu.fr ref 992785679080",
+      "price": 298000,
+      "surface": 61,
+      "surfaceCarrez": 61.68,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 88,
+      "ges": "C",
+      "gesKg": 15,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking/terrasse/ascensseur/cave bayonne"
+      },
+      "floor": "2e étage",
+      "elevator": true,
+      "charges": 1060,
+      "taxeFonciere": null,
+      "exterior": "ent Bayonne T3 - Parking/Terrasse/Ascensseur/Cave Bayonne",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 298000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294491145",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294491145A1KIVHAP000",
+      "title": "Annonce appartement 64 m2 traversant 2 chambres bayonne, vente 3 pièces de particulier Pyrénées-Atlantiques - ParuVendu.fr ref WI177761438",
+      "price": 185000,
+      "surface": 64,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 150,
+      "ges": "B",
+      "gesKg": 10,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "5e étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 185000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296614111",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296614111A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 46m2 à Bayonne (64100) - ParuVendu.fr ref 992791517266",
+      "price": 202000,
+      "surface": 46,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": 58,
+      "ges": "A",
+      "gesKg": 3,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "2e étage",
+      "elevator": true,
+      "charges": 1032,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "travaux",
+      "year": 2023,
+      "procedure": true,
+      "quartier": null,
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 202000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296286791",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296286791A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 73m2 à Bayonne (64100) - ParuVendu.fr ref 992791231760",
+      "price": 339000,
+      "surface": 73,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 142,
+      "ges": "C",
+      "gesKg": 29,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": 1747,
+      "taxeFonciere": null,
+      "exterior": "Jardin / Terrain",
+      "condition": "travaux",
+      "year": null,
+      "procedure": true,
+      "quartier": "Beyris",
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 339000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Procédure en cours dans la copropriété",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1292446049",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1292446049A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 54m2 à Bayonne (64100) - ParuVendu.fr ref 992788125331",
+      "price": 187000,
+      "surface": 54,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 160,
+      "ges": "C",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 793,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 187000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296360616",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296360616A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 49m2 à Bayonne (64100) - ParuVendu.fr ref 992791297275",
+      "price": 210000,
+      "surface": 49,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 177,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": 840,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "bon",
+      "year": null,
+      "procedure": true,
+      "quartier": "Petit Bayonne",
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 210000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Procédure en cours dans la copropriété",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296319932",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296319932A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 68m2 à Bayonne (64100) - ParuVendu.fr ref 992791260592",
+      "price": 275000,
+      "surface": 68,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 240,
+      "ges": "C",
+      "gesKg": 14,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "garage bayonne"
+      },
+      "floor": "1er étage",
+      "elevator": false,
+      "charges": 800,
+      "taxeFonciere": null,
+      "exterior": "rtement BAYONNE -T3 avec balcons et garage Bayonne",
+      "condition": "rafraichir",
+      "year": null,
+      "procedure": false,
+      "quartier": "Saint-Esprit",
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 275000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1292565141",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1292565141A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 41m2 à Bayonne (64100) - ParuVendu.fr ref 992788228479",
+      "price": 256000,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 194,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "2ème étage",
+      "elevator": true,
+      "charges": 1488,
+      "taxeFonciere": 874,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": 1970,
+      "procedure": true,
+      "quartier": null,
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 256000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Procédure en cours dans la copropriété",
+        "Charges élevées",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1290929451",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1290929451A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Bayonne (64100) - ParuVendu.fr ref 992786815012",
+      "price": 235000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": null,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "D",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "neuf",
+      "year": null,
+      "procedure": null,
+      "quartier": "Saint-Esprit",
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 235000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295470967",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295470967A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 74m2 à Bayonne (64100) - ParuVendu.fr ref 992790553766",
+      "price": 376000,
+      "surface": 74,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": "Saint-Esprit",
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 376000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294979065",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294979065A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 48m2 à Bayonne (64100) - ParuVendu.fr ref 992790139294",
+      "price": 255000,
+      "surface": 48,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": "rez-de-jardin",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 255000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294905656",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294905656A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 68m2 à Bayonne (64100) - ParuVendu.fr ref 992790075421",
+      "price": 308900,
+      "surface": 68,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "couvert",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 308900
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296213682",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296213682A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 55m2 à Bayonne (64100) - ParuVendu.fr ref 992791168427",
+      "price": 199500,
+      "surface": 55,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 132,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "couvert",
+        "detail": "parking et cellier bayonne"
+      },
+      "floor": "1er étage",
+      "elevator": true,
+      "charges": 1912,
+      "taxeFonciere": 984,
+      "exterior": "rand T2 de 55,42 m2 avec terrasse couverte, parking et cellier Bayonne",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": "Saint-Esprit",
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 199500
+        }
+      ],
+      "weaknesses": [
+        "Charges élevées",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64100",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52899672/17-acheter-appartement-bayonne-64100.htm",
+      "title": "Achat Appartement 2 pièce(s) 40 m² BAYONNE 64100 163 800 € - fnaim.fr",
+      "price": 163800,
+      "surface": 40,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 158,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "2ème étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "excellent",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 163800
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64100-29",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52895240/17-acheter-appartement-bayonne-64100.htm",
+      "title": "Achat Appartement 2 pièce(s) 44 m² BAYONNE 64100 172 000 € - fnaim.fr",
+      "price": 172000,
+      "surface": 44,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 158,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 172000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64100-30",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52895235/17-acheter-appartement-bayonne-64100.htm",
+      "title": "Achat Appartement 2 pièce(s) 44 m² BAYONNE 64100 176 000 € - fnaim.fr",
+      "price": 176000,
+      "surface": 44,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 156,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "2ème étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "rafraichir",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bayonne",
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 176000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }
   ]
