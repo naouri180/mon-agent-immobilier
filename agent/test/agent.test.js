@@ -94,7 +94,7 @@ test('robots.txt : règles respectées', () => {
 
 test('notation : les biens de la recherche initiale sont classés de façon cohérente', () => {
   const data = JSON.parse(readFileSync(new URL('../../data/listings.json', import.meta.url), 'utf8'));
-  for (const l of data.listings) {
+  for (const l of data.listings.filter(x => x.seed)) {
     const s = score(l, DEFAULT_CRITERIA);
     assert.ok(s >= 0 && s <= 10, `${l.id} : ${s}`);
     assert.ok(isPerfectMatch(l, DEFAULT_CRITERIA), `${l.id} devrait correspondre aux critères`);
@@ -163,4 +163,17 @@ test('agent complet : nouvelle annonce, doublon inter-sites, baisse de prix, ven
   assert.ok(msgs.some(m => m.title.startsWith('Baisse de prix')));
   const digest = buildDigest(out.decorated.filter(l => l.status === 'active'), { appUrl: 'https://moi.github.io/app/' });
   assert.match(digest.body, /correspondent/);
+});
+
+test('extraction : fiche FNAIM (titre doublement encodé, menus ignorés)', () => {
+  const l = extractListing(fx('fnaim-detail.html'), 'https://www.fnaim.fr/annonce-immobiliere/53014705/17-acheter-appartement-bayonne-64100.htm');
+  assert.equal(l.price, 320000);
+  assert.equal(l.surface, 63);
+  assert.equal(l.dpe, 'C');
+  assert.equal(l.ges, 'A');
+  assert.equal(l.bedrooms, 2);
+  assert.equal(l.condition, 'bon', 'les « travaux » du menu ne comptent pas');
+  assert.equal(l.parking.count, 1);
+  assert.equal(l.parking.type, 'inconnu', 'aucune nature de parking dans la fiche');
+  assert.equal(l.floor, '1er étage');
 });

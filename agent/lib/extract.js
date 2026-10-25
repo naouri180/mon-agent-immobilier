@@ -25,7 +25,8 @@ export function decode(s) {
 export function pageText(html) {
   let h = html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, ' ')
     .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, ' ')
-    .replace(/<noscript\b[^>]*>[\s\S]*?<\/noscript>/gi, ' ');
+    .replace(/<noscript\b[^>]*>[\s\S]*?<\/noscript>/gi, ' ')
+    .replace(/<(nav|footer|select|aside|template)\b[^>]*>[\s\S]*?<\/\1>/gi, ' ');
   h = h.replace(/<img\b[^>]*?\balt="([^"]*)"[^>]*>/gi, ' $1 ');
   h = h.replace(/<(br|p|div|li|tr|h[1-6]|section|article|td|th|dd|dt)\b[^>]*>/gi, '\n');
   h = h.replace(/<[^>]+>/g, ' ');
@@ -33,7 +34,12 @@ export function pageText(html) {
 }
 
 /** Coupe la page avant les blocs « biens similaires » qui fausseraient l'extraction. */
-export function mainText(text) {
+export function mainText(text, h1) {
+  // Le contenu utile commence au titre de l'annonce : on ignore menus et bandeaux placés avant.
+  if (h1) {
+    const at = text.indexOf(h1.slice(0, 40));
+    if (at > 0) text = text.slice(at);
+  }
   const cut = text.search(/\n(biens similaires|annonces similaires|ventes similaires|vous aimerez aussi|ces biens peuvent|autres biens|d'autres annonces|nos autres biens|biens à découvrir)/i);
   return cut > 400 ? text.slice(0, cut) : text;
 }
@@ -65,7 +71,7 @@ const toNum = s => {
 
 export function parsePrice(s) {
   if (!s) return null;
-  for (const m of s.matchAll(/(\d{2,3}(?:[\s.]\d{3})+|\d{5,7})(?:[.,]\d{2})?\s*(?:€|euros?|EUR)/gi)) {
+  for (const m of s.matchAll(/(?<![\w²,.])(\d{1,3}(?:[\s.]\d{3})+|\d{5,7})(?:[.,]\d{2})?\s*(?:€|euros?|EUR)/gi)) {
     const n = toNum(m[1]);
     if (n >= 30000 && n <= 3000000) return n;
   }
@@ -120,6 +126,7 @@ function findDpe(t) {
 
 const WORDS = { un: 1, une: 1, deux: 2, double: 2, trois: 3, quatre: 4 };
 function findParking(t) {
+  t = t.replace(/parking\s*\/\s*garage|garage\s*\/\s*parking/gi, 'parking');   // libellé générique des fiches, pas une nature de place
   const lower = t.toLowerCase();
   const optional = /(parking|place|garage|box)[^.\n]{0,40}(en sus|en option|non compris|en supplément|possibilit[ée] d['’]acqu)/i.test(t);
   const re = /(\d|un|une|deux|trois|double)?\s*(?:places? de (?:parking|stationnement)|stationnements?|parkings?|garages?|box(?:es)?|emplacements? de stationnement)\b[^.\n]{0,60}/gi;
@@ -165,11 +172,11 @@ function money(t, labelRe) {
 /** Extrait un objet annonce (partiel) d'une page. */
 export function extractListing(html, url) {
   const text = pageText(html);
-  const main = mainText(text);
   const head = (meta(html, 'og:title') || html.match(/<title[^>]*>([\s\S]*?)<\/title>/i)?.[1] || '').trim();
-  const title = decode(head).replace(/\s+/g, ' ').trim();
+  const title = decode(decode(head)).replace(/\s+/g, ' ').trim();   // certains sites encodent deux fois (&amp;euro;)
   const h1 = decode(html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i)?.[1]?.replace(/<[^>]+>/g, ' ') || '').replace(/\s+/g, ' ').trim();
-  const desc = meta(html, 'og:description') || meta(html, 'description') || '';
+  const main = mainText(text, h1);
+  const desc = decode(meta(html, 'og:description') || meta(html, 'description') || '');
   const top = [title, h1, desc].join('\n');
 
   // Données structurées si présentes
@@ -181,7 +188,7 @@ export function extractListing(html, url) {
     if (!ldRooms && o.numberOfRooms) ldRooms = toNum(o.numberOfRooms?.value ?? o.numberOfRooms);
   }
 
-  const price = ldPrice || parsePrice(top) || parsePrice(main.match(/prix[^\n]{0,80}/i)?.[0]) || parsePrice(main.slice(0, 3000));
+  const price = ldPrice || parsePrice(top) || parsePrice(main.match(/prix[^\n]{0,80}/i)?.[0]) || parsePrice(main.slice(0, 4000));
   const habitable = toNum(main.match(/surface habitable\s*:?\s*(\d{2,3}(?:[.,]\d{1,2})?)/i)?.[1]);
   const carrez = toNum(main.match(/(?:surface\s*)?(?:loi\s*)?carrez\s*:?\s*(\d{2,3}(?:[.,]\d{1,2})?)/i)?.[1]
     ?? main.match(/(\d{2,3}(?:[.,]\d{1,2})?)\s*m²\s*(?:\(\s*)?(?:loi\s*)?carrez/i)?.[1]);
