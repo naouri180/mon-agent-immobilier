@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T08:10:09.333Z",
+  "updatedAt": "2026-10-25T10:44:27.908Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -481,7 +481,8 @@
       "postalCode": "64100",
       "distanceKm": 0,
       "altUrls": [
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1288806970A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1288806970A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1292073443A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -3929,6 +3930,4076 @@
       "weaknesses": [
         "Nature du parking non précisée",
         "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291131037",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291131037A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 85m2 à Bayonne (64100) - ParuVendu.fr ref 992786251479",
+      "price": 385000,
+      "surface": 85,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "D",
+      "dpeKwh": 226,
+      "ges": "D",
+      "gesKg": 48,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "1er étage",
+      "elevator": null,
+      "charges": 1608,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "travaux",
+      "year": null,
+      "procedure": true,
+      "quartier": "Arènes",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 385000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Procédure en cours dans la copropriété",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291131000",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291131000A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 85m2 à Bayonne (64100) - ParuVendu.fr ref 992786251467",
+      "price": 415000,
+      "surface": 85,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "D",
+      "dpeKwh": 226,
+      "ges": "D",
+      "gesKg": 48,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "1er étage",
+      "elevator": null,
+      "charges": 1992,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "travaux",
+      "year": null,
+      "procedure": true,
+      "quartier": "Arènes",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 415000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291132982",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291132982A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 61m2 à Anglet (64600) - ParuVendu.fr ref 992786700269",
+      "price": 345000,
+      "surface": 61,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 139,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1580,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 345000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291134398",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291134398A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 84m2 à Biarritz (64200) - ParuVendu.fr ref 992786802163",
+      "price": 589000,
+      "surface": 84,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 161,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "stationnement libre mais privatif à la résidecne vous assure une place ga"
+      },
+      "floor": "1er étage",
+      "elevator": null,
+      "charges": 1072,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "travaux",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 589000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291099769",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291099769A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Biarritz (64200) | 599 000 € | 4 pièces | 63 m² - ParuVendu.fr ref 992786962949",
+      "price": 599000,
+      "surface": 63,
+      "surfaceCarrez": 74,
+      "rooms": 4,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 106,
+      "ges": "C",
+      "gesKg": 11,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 2280,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "travaux",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 599000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Procédure en cours dans la copropriété",
+        "Charges élevées",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291068675",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291068675A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 48m2 à Biarritz (64200) - ParuVendu.fr ref 992786933274",
+      "price": 262000,
+      "surface": 48,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 259,
+      "ges": "B",
+      "gesKg": 9,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": 1072,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 262000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295724492",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295724492A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 72m2 à Bidart (64210) - ParuVendu.fr ref 992790763857",
+      "price": 435000,
+      "surface": 72,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "une place de stationnement privative complète ce bien, idéal pour vivre à l'année ou p"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 435000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294742345",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294742345A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 70m2 à Bidart (64210) - ParuVendu.fr ref 992789966991",
+      "price": 499000,
+      "surface": 70,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 3,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 499000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296198087",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296198087A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 80m2 à Bidart (64210) - ParuVendu.fr ref 992791155250",
+      "price": 524999,
+      "surface": 80,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 292,
+      "ges": "E",
+      "gesKg": 64,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "garage en vente à bidart 64210 bidart"
+      },
+      "floor": "1er étage",
+      "elevator": null,
+      "charges": 1872,
+      "taxeFonciere": 1248,
+      "exterior": "ppartement 3 pièces avec terrasse et garage en vente à Bidart 64210 Bidart",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 524999
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294742346",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294742346A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 61m2 à Bidart (64210) - ParuVendu.fr ref 992789966992",
+      "price": 480000,
+      "surface": 61,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 480000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293091203",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293091203A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 85m2 à Bidart (64210) - ParuVendu.fr ref 992788675518",
+      "price": 585000,
+      "surface": 85,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "E",
+      "dpeKwh": 305,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "1er et dernier étage",
+      "elevator": null,
+      "charges": 2320,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 585000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295909844",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295909844A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 77m2 à Bidart (64210) - ParuVendu.fr ref 992790916555",
+      "price": 430000,
+      "surface": 77,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 67,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1908,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "excellent",
+      "year": 2015,
+      "procedure": true,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 430000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294959469",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294959469A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 67m2 à Bidart (64210) - ParuVendu.fr ref 992790122657",
+      "price": 295000,
+      "surface": 67,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 123,
+      "ges": "C",
+      "gesKg": 27,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "place de parking bidart"
+      },
+      "floor": "1er étage",
+      "elevator": null,
+      "charges": 537,
+      "taxeFonciere": null,
+      "exterior": "ppartement Grand T2 avec terrasse et place de parking Bidart",
+      "condition": "excellent",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 295000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1292344474",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1292344474A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 67m2 à Bidart (64210) - ParuVendu.fr ref 992788044722",
+      "price": 566000,
+      "surface": 67,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "E",
+      "dpeKwh": 326,
+      "ges": "C",
+      "gesKg": 13,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "1er et dernier étage",
+      "elevator": null,
+      "charges": 330,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 566000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296659487",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296659487A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 70m2 à Bidart (64210) - ParuVendu.fr ref 992791557366",
+      "price": 435000,
+      "surface": 70,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "stationnement bidart"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "ppartement 3 pièces avec terrasse et stationnement Bidart",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 435000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293020908",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293020908A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 63m2 à Guethary (64210) - ParuVendu.fr ref 992788612481",
+      "price": 559000,
+      "surface": 63,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 135,
+      "ges": "D",
+      "gesKg": 27,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 150,
+      "taxeFonciere": 614,
+      "exterior": "entièrement rénové avec terrasse Guethary",
+      "condition": "excellent",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Guéthary",
+      "postalCode": "64210",
+      "distanceKm": 13.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 559000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291206457",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291206457A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Guéthary (64210) | 829 000 € | 3 pièces | 74 m² - ParuVendu.fr ref 992787045476",
+      "price": 829000,
+      "surface": 74,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 202,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 467,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Guéthary",
+      "postalCode": "64210",
+      "distanceKm": 13.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 829000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294199085",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294199085A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 66m2 à Saint-jean-de-luz (64500) - ParuVendu.fr ref 992789554217",
+      "price": 339000,
+      "surface": 66,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "F",
+      "dpeKwh": 358,
+      "ges": "C",
+      "gesKg": 17,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "Rez-de-chaussée",
+      "elevator": null,
+      "charges": 300,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 339000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294581872",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294581872A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 62m2 à Saint jean de luz (64500) - ParuVendu.fr ref 992789843439",
+      "price": 490000,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 234,
+      "ges": "B",
+      "gesKg": 9,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": 850,
+      "taxeFonciere": 719,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 490000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1291616400A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
+      ]
+    },
+    {
+      "id": "paruvendu-1296452796",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296452796A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 50m2 à Saint jean de luz (64500) - ParuVendu.fr ref 992791374394",
+      "price": 424000,
+      "surface": 50,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 307,
+      "ges": "B",
+      "gesKg": 9,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "2eme étage",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 424000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294581876",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294581876A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 70m2 à Saint jean de luz (64500) - ParuVendu.fr ref 992789843441",
+      "price": 450000,
+      "surface": 70,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 114,
+      "ges": "C",
+      "gesKg": 26,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1200,
+      "taxeFonciere": 965,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": 1968,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 450000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294703299",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294703299A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Saint jean de luz (64500) | 579 000 € | 4 pièces | 80 m² - ParuVendu.fr ref 992789933418",
+      "price": 579000,
+      "surface": 80,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "E",
+      "dpeKwh": 284,
+      "ges": "E",
+      "gesKg": 50,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": false,
+      "charges": 1400,
+      "taxeFonciere": null,
+      "exterior": "Balcon",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 579000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1287060854",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1287060854A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Saint jean de luz (64500) | 785 000 € | 3 pièces | 76 m² - ParuVendu.fr ref 992783784825",
+      "price": 785000,
+      "surface": 76,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "B",
+      "dpeKwh": 144,
+      "ges": "A",
+      "gesKg": 4,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "couvert",
+        "detail": "parking"
+      },
+      "floor": "1er étage",
+      "elevator": false,
+      "charges": 1200,
+      "taxeFonciere": null,
+      "exterior": "Balcon",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 785000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291959840",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291959840A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 76m2 à Saint jean de luz (64500) - ParuVendu.fr ref 992787702380",
+      "price": 380000,
+      "surface": 76,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "E",
+      "dpeKwh": 263,
+      "ges": "B",
+      "gesKg": 10,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": 1450,
+      "taxeFonciere": 681,
+      "exterior": null,
+      "condition": "travaux",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 380000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295453851",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295453851A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 52m2 à Saint jean de luz (64500) - ParuVendu.fr ref 992790538304",
+      "price": 368000,
+      "surface": 52,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 106,
+      "ges": "C",
+      "gesKg": 20,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": 1344,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 368000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1292258436",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1292258436A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 73m2 à Saint-jean-de-luz (64500) - ParuVendu.fr ref 992787969499",
+      "price": 417000,
+      "surface": 73,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 214,
+      "ges": "D",
+      "gesKg": 46,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": 1560,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 417000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296252480",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296252480A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 63m2 à Saint-jean-de-luz (64500) - ParuVendu.fr ref 992791201451",
+      "price": 365000,
+      "surface": 63,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": null,
+      "dpe": null,
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 1800,
+      "taxeFonciere": null,
+      "exterior": "e T3 /T4 traversant avec terrasse et doublé balcons Saint-jean-de-luz",
+      "condition": "inconnu",
+      "year": 1970,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 365000
+        }
+      ],
+      "weaknesses": [
+        "DPE non trouvé dans l’annonce",
+        "Parking non confirmé",
+        "Charges élevées",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295927380",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295927380A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 41m2 à Saint-jean-de-luz (64500) - ParuVendu.fr ref 992790928561",
+      "price": 187000,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 247,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": 950,
+      "taxeFonciere": 671,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": 2010,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 187000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294204009",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294204009A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 42m2 à Saint jean de luz (64500) - ParuVendu.fr ref 992789558465",
+      "price": 245000,
+      "surface": 42,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 76,
+      "ges": "C",
+      "gesKg": 14,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking privatif et ascenseur saint jean de luz"
+      },
+      "floor": "1er et dernier étage",
+      "elevator": true,
+      "charges": 768,
+      "taxeFonciere": null,
+      "exterior": "T2 récemment rénové avec terrasse plein sud, parking privatif et ascenseur Sai",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 245000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1289283835",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1289283835A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 50m2 à Saint jean de luz (64500) - ParuVendu.fr ref 992785483293",
+      "price": 495000,
+      "surface": 50,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 139,
+      "ges": "C",
+      "gesKg": 27,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 144,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 495000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1290628231",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1290628231A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Saint jean de luz (64500) | 745 000 € | 2 pièces | 63 m² - ParuVendu.fr ref 992786551179",
+      "price": 745000,
+      "surface": 63,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 191,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "1er étage",
+      "elevator": true,
+      "charges": 1054,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 745000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296531650",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296531650A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 68m2 à Ciboure (64500) - ParuVendu.fr ref 992791443217",
+      "price": 320000,
+      "surface": 68,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": null,
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "3ème étage sur 5",
+      "elevator": false,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 320000
+        }
+      ],
+      "weaknesses": [
+        "DPE non trouvé dans l’annonce",
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293735950A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
+      ]
+    },
+    {
+      "id": "paruvendu-1294581878",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294581878A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 82m2 à Ciboure (64500) - ParuVendu.fr ref 992789843442",
+      "price": 235000,
+      "surface": 82,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "F",
+      "dpeKwh": 330,
+      "ges": "C",
+      "gesKg": 18,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": 864,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "travaux",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 235000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295731320",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295731320A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 83m2 à Ciboure (64500) - ParuVendu.fr ref 992790770172",
+      "price": 497000,
+      "surface": 83,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "D",
+      "dpeKwh": 228,
+      "ges": "D",
+      "gesKg": 49,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": false,
+      "charges": 1629,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "bon",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 497000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295125910",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295125910A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 41m2 à Ciboure (64500) - ParuVendu.fr ref 992790261982",
+      "price": 314900,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 116,
+      "ges": "A",
+      "gesKg": 4,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 690,
+      "taxeFonciere": 726,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 314900
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291090674",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291090674A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 54m2 à Ciboure (64500) - ParuVendu.fr ref 992786954375",
+      "price": 285000,
+      "surface": 54,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 191,
+      "ges": "D",
+      "gesKg": 40,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 768,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "travaux",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 285000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296060186",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296060186A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Ciboure (64500) | 630 000 € | 5 pièces | 80 m² - ParuVendu.fr ref 992791037138",
+      "price": 630000,
+      "surface": 80,
+      "surfaceCarrez": 80.26,
+      "rooms": 5,
+      "bedrooms": 3,
+      "dpe": "D",
+      "dpeKwh": 156,
+      "ges": "D",
+      "gesKg": 33,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "garage ciboure"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": 1300,
+      "taxeFonciere": 2406,
+      "exterior": "ent 80 m2 à réinventer - balcons, véranda, garage Ciboure",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 630000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1288778838",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1288778838A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 59m2 à Ciboure (64500) - ParuVendu.fr ref 992785107376",
+      "price": 358000,
+      "surface": 59,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 211,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking – socoa ciboure"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 1100,
+      "taxeFonciere": null,
+      "exterior": "ment Appartement T3 avec terrasse, parking – Socoa Ciboure",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 358000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296247242",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296247242A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 47m2 à Ciboure (64500) - ParuVendu.fr ref 992791197024",
+      "price": 357000,
+      "surface": 47,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 217,
+      "ges": "B",
+      "gesKg": 8,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "garage",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 960,
+      "taxeFonciere": null,
+      "exterior": "RE – APPARTEMENT T2 AVEC TERRASSE EXCEPTIONNELLE À CIBOURE Ciboure",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 357000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296133674",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296133674A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 40m2 à Ciboure (64500) - ParuVendu.fr ref 992791102182",
+      "price": 260000,
+      "surface": 40,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "E",
+      "dpeKwh": 313,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "stationnement, cet appartement est proche de toutes commodités (leclerc u"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": 600,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 260000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296092165",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296092165A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 40m2 à Ciboure (64500) - ParuVendu.fr ref 992791065212",
+      "price": 295000,
+      "surface": 40,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 205,
+      "ges": "D",
+      "gesKg": 34,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "e, T3 refait à neuf avec terrasse sur l'Untxin Ciboure",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 295000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1291180226A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
+      ]
+    },
+    {
+      "id": "paruvendu-1293688311",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293688311A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 66m2 à Ciboure (64500) - ParuVendu.fr ref 992789186400",
+      "price": 195000,
+      "surface": 66,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": null,
+      "dpe": "D",
+      "dpeKwh": 217,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 195000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293109797",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293109797A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 46m2 à Ciboure (64500) - ParuVendu.fr ref 992788691965",
+      "price": 389000,
+      "surface": 46,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "E",
+      "dpeKwh": 329,
+      "ges": "C",
+      "gesKg": 11,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": 1012,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 389000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296221731",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296221731A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 66m2 à Urrugne (64122) - ParuVendu.fr ref 992791175729",
+      "price": 312000,
+      "surface": 66,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 147,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": "1er et dernier étage",
+      "elevator": null,
+      "charges": 1044,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "excellent",
+      "year": 2000,
+      "procedure": null,
+      "quartier": null,
+      "city": "Urrugne",
+      "postalCode": "64122",
+      "distanceKm": 23.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 312000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1289312026",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1289312026A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 47m2 à Urrugne (64122) - ParuVendu.fr ref 992785505821",
+      "price": 198000,
+      "surface": 47,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 175,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "rez de chaussée",
+      "elevator": null,
+      "charges": 900,
+      "taxeFonciere": 500,
+      "exterior": "Balcon / Terrasse",
+      "condition": "travaux",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Urrugne",
+      "postalCode": "64122",
+      "distanceKm": 23.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 198000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295275622",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295275622A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 60m2 à Urrugne (64122) - ParuVendu.fr ref 992790389773",
+      "price": 230000,
+      "surface": 60,
+      "surfaceCarrez": 61,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 279,
+      "ges": "E",
+      "gesKg": 61,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "dernier étage",
+      "elevator": false,
+      "charges": 852,
+      "taxeFonciere": 862,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Urrugne",
+      "postalCode": "64122",
+      "distanceKm": 23.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 230000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1288530401",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1288530401A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 66m2 à Urrugne (64122) - ParuVendu.fr ref 992784921010",
+      "price": 322000,
+      "surface": 66,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 147,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": "1er étage",
+      "elevator": null,
+      "charges": 1044,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "excellent",
+      "year": 2000,
+      "procedure": null,
+      "quartier": null,
+      "city": "Urrugne",
+      "postalCode": "64122",
+      "distanceKm": 23.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 322000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1288341359",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1288341359A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces à Hendaye (64700) - ParuVendu.fr ref 992784772681",
+      "price": 235000,
+      "surface": null,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 306,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": 1248,
+      "taxeFonciere": 726,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": 1966,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 235000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295574778",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295574778A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 73m2 à Hendaye (64700) - ParuVendu.fr ref 992790638084",
+      "price": 499000,
+      "surface": 73,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 145,
+      "ges": "D",
+      "gesKg": 28,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 2016,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 499000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296560127",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296560127A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 50m2 à Hendaye (64700) - ParuVendu.fr ref 992791468684",
+      "price": 228800,
+      "surface": 50,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "G",
+      "dpeKwh": 481,
+      "ges": "C",
+      "gesKg": 14,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "1er et dernier étage",
+      "elevator": false,
+      "charges": 1080,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 228800
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296528278",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296528278A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 66m2 à Hendaye (64700) - ParuVendu.fr ref 992791440069",
+      "price": 287000,
+      "surface": 66,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 183,
+      "ges": "D",
+      "gesKg": 11,
+      "dpeDerived": false,
+      "parking": {
+        "count": null,
+        "type": "garage",
+        "detail": "Parking peut-être en option : à vérifier"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 399,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 287000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296476567",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296476567A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 70m2 à Hendaye (64700) - ParuVendu.fr ref 992791394787",
+      "price": 259900,
+      "surface": 70,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "G",
+      "dpeKwh": 467,
+      "ges": "G",
+      "gesKg": 102,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 259900
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294341508",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294341508A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 71m2 à Hendaye (64700) - ParuVendu.fr ref 992789677256",
+      "price": 220500,
+      "surface": 71,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "E",
+      "dpeKwh": 252,
+      "ges": "E",
+      "gesKg": 55,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": false,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "uisine indépendante avec loggia, il offre un véritable potentiel d'aménageme",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 220500
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296361815",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296361815A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Hendaye (64700) - ParuVendu.fr ref 992791298280",
+      "price": 175000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": null,
+      "dpe": "D",
+      "dpeKwh": 223,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 639,
+      "taxeFonciere": null,
+      "exterior": "ente Appartement T2 avec balcon, proche gare et commerces Hendaye",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 175000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296310791",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296310791A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 42m2 à Hendaye (64700) - ParuVendu.fr ref 992791252746",
+      "price": 159000,
+      "surface": 42,
+      "surfaceCarrez": 42.46,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 239,
+      "ges": "D",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 159000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296178346",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296178346A1KIVHAP000",
+      "title": "Annonce appartement a hendaye, vente 2 pièces de particulier Pyrénées-Atlantiques - ParuVendu.fr ref WI178045103",
+      "price": 182000,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 150,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": null,
+        "type": "inconnu",
+        "detail": "Parking proposé en option"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 182000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293740906",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293740906A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 41m2 à Hendaye (64700) - ParuVendu.fr ref 992789232510",
+      "price": 175000,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 206,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": null,
+        "type": "garage",
+        "detail": "Parking peut-être en option : à vérifier"
+      },
+      "floor": "dernier étage",
+      "elevator": false,
+      "charges": 855,
+      "taxeFonciere": null,
+      "exterior": "le 2 pièce(s) 41 m2 avec balcon Hendaye",
+      "condition": "bon",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 175000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295793208",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295793208A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 58m2 à Hendaye (64700) - ParuVendu.fr ref 992790820388",
+      "price": 178500,
+      "surface": 58,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 203,
+      "ges": "C",
+      "gesKg": 14,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "stationnements sont libres et gratuits dans la résidence et tout autour"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 1000,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "bon",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 178500
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1289650840",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1289650840A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 70m2 à Hendaye (64700) - ParuVendu.fr ref 992785755462",
+      "price": 267750,
+      "surface": 70,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "E",
+      "dpeKwh": 240,
+      "ges": "E",
+      "gesKg": 52,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "1er étage",
+      "elevator": false,
+      "charges": 684,
+      "taxeFonciere": 941,
+      "exterior": "re, il bénéficie de deux terrasses offrant de belles vues dégagées sur les mont",
+      "condition": "rafraichir",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 267750
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295611866",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295611866A1KIVHAP000",
+      "title": "Annonce hendaye : appartement t3 traversant et lumineux, vente 3 pièces de particulier Pyrénées-Atlantiques - ParuVendu.fr ref WI177969945",
+      "price": 178000,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 230,
+      "ges": "D",
+      "gesKg": 35,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "2ème étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 178000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295162705",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295162705A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 65m2 à Hendaye (64700) - ParuVendu.fr ref 992790290596",
+      "price": 295000,
+      "surface": 65,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 98,
+      "ges": "C",
+      "gesKg": 19,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 1408,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": 2017,
+      "procedure": true,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 295000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295525728",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295525728A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 42m2 à Hendaye (64700) - ParuVendu.fr ref 992790601077",
+      "price": 175000,
+      "surface": 42,
+      "surfaceCarrez": 42.52,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 160,
+      "ges": "D",
+      "gesKg": 34,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 2757,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "excellent",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 175000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Charges élevées",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295465721",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295465721A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 45m2 à Ustaritz (64480) - ParuVendu.fr ref 992790549602",
+      "price": 165000,
+      "surface": 45,
+      "surfaceCarrez": 44.89,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 154,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "stationnements autour de la résidence -dpe c un appartement lumineux et fo"
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": 926,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "rafraichir",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Ustaritz",
+      "postalCode": "64480",
+      "distanceKm": 10.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 165000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294315528",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294315528A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Ustaritz (64480) - ParuVendu.fr ref 992789653694",
+      "price": 210000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 227,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 900,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ustaritz",
+      "postalCode": "64480",
+      "distanceKm": 10.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 210000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293388659",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293388659A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 44m2 à Ustaritz (64480) - ParuVendu.fr ref 992788926360",
+      "price": 194000,
+      "surface": 44,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 137,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking à ustaritz ustaritz"
+      },
+      "floor": "rez-de-jardin",
+      "elevator": true,
+      "charges": 656,
+      "taxeFonciere": 559,
+      "exterior": "ement Appartement T2 PMR jardin, cave, ascenseur & parking à Ustaritz Ustari",
+      "condition": "bon",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Ustaritz",
+      "postalCode": "64480",
+      "distanceKm": 10.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 194000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1289274059",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1289274059A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 42m2 à Ustaritz (64480) - ParuVendu.fr ref 992785476418",
+      "price": 179000,
+      "surface": 42,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 75,
+      "ges": "C",
+      "gesKg": 13,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 636,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ustaritz",
+      "postalCode": "64480",
+      "distanceKm": 10.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 179000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293669004",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293669004A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 60m2 à Ustaritz (64480) - ParuVendu.fr ref 992789170173",
+      "price": 299000,
+      "surface": 60,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 73,
+      "ges": "C",
+      "gesKg": 13,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "souterrain",
+        "detail": "1 parking sous sol + 1 parking aérien ustaritz"
+      },
+      "floor": "1er et dernier étage",
+      "elevator": true,
+      "charges": 1412,
+      "taxeFonciere": null,
+      "exterior": "rès beau T3 en duplex et balcon+ 1 parking sous sol + 1 parking aérien Ustar",
+      "condition": "excellent",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ustaritz",
+      "postalCode": "64480",
+      "distanceKm": 10.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 299000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294636006",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294636006A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 53m2 à Ustaritz (64480) - ParuVendu.fr ref 992789876838",
+      "price": 245000,
+      "surface": 53,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "B",
+      "dpeKwh": 108,
+      "ges": "A",
+      "gesKg": 4,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": 300,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Ustaritz",
+      "postalCode": "64480",
+      "distanceKm": 10.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 245000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293066555",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293066555A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 67m2 à Ustaritz (64480) - ParuVendu.fr ref 992788652938",
+      "price": 279000,
+      "surface": 67,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 79,
+      "ges": "C",
+      "gesKg": 15,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 1844,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "travaux",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Ustaritz",
+      "postalCode": "64480",
+      "distanceKm": 10.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 279000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296451767",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296451767A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 60m2 à Cambo les bains (64250) - ParuVendu.fr ref 992791373433",
+      "price": 210394,
+      "surface": 60,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "B",
+      "dpeKwh": 90,
+      "ges": "B",
+      "gesKg": 10,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "2ème étage",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": 214,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Cambo-les-Bains",
+      "postalCode": "64250",
+      "distanceKm": 16,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 210394
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1292598005",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1292598005A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 64m2 à Cambo les bains (64250) - ParuVendu.fr ref 992788257553",
+      "price": 298000,
+      "surface": 64,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 172,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": 900,
+      "taxeFonciere": null,
+      "exterior": "partement T3 rénové avec jardin privatif, grand balcon et vue nature au cent",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Cambo-les-Bains",
+      "postalCode": "64250",
+      "distanceKm": 16,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 298000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296532058",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296532058A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 75m2 à Cambo les bains (64250) - ParuVendu.fr ref 992791443572",
+      "price": 295000,
+      "surface": 75,
+      "surfaceCarrez": 75.31,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 102,
+      "ges": "C",
+      "gesKg": 20,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "box"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": 1200,
+      "taxeFonciere": null,
+      "exterior": "ambo-les-Bains - T3 avec terrasse au coeur du centre-ville Cambo les bains",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Cambo-les-Bains",
+      "postalCode": "64250",
+      "distanceKm": 16,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 295000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291003338",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291003338A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 63m2 à Cambo les bains (64250) - ParuVendu.fr ref 992786873937",
+      "price": 185000,
+      "surface": 63,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 186,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": 367,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Cambo-les-Bains",
+      "postalCode": "64250",
+      "distanceKm": 16,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 185000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295424967",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295424967A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 80m2 à Cambo les bains (64250) - ParuVendu.fr ref 992790513848",
+      "price": 215000,
+      "surface": 80,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "D",
+      "dpeKwh": 199,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "1er étage",
+      "elevator": null,
+      "charges": 400,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "rafraichir",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Cambo-les-Bains",
+      "postalCode": "64250",
+      "distanceKm": 16,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 215000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294036603",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294036603A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 66m2 à Cambo-les-bains (64250) - ParuVendu.fr ref 992789416994",
+      "price": 205000,
+      "surface": 66,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "E",
+      "dpeKwh": 299,
+      "ges": "C",
+      "gesKg": 11,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1300,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "rafraichir",
+      "year": 1970,
+      "procedure": null,
+      "quartier": null,
+      "city": "Cambo-les-Bains",
+      "postalCode": "64250",
+      "distanceKm": 16,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 205000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291868290",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291868290A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 46m2 à Cambo-les-bains (64250) - ParuVendu.fr ref 992787622005",
+      "price": 188000,
+      "surface": 46,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 164,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 720,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Cambo-les-Bains",
+      "postalCode": "64250",
+      "distanceKm": 16,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 188000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294005897",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294005897A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 49m2 à Cambo les bains (64250) - ParuVendu.fr ref 992789389712",
+      "price": 250000,
+      "surface": 49,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 97,
+      "ges": "C",
+      "gesKg": 19,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "box"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": 900,
+      "taxeFonciere": null,
+      "exterior": "Charmant T2 de 49m2 avec terrasse Cambo les bains",
+      "condition": "inconnu",
+      "year": 2017,
+      "procedure": false,
+      "quartier": null,
+      "city": "Cambo-les-Bains",
+      "postalCode": "64250",
+      "distanceKm": 16,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 250000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293598042",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293598042A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 48m2 à Cambo les bains (64250) - ParuVendu.fr ref 992789109403",
+      "price": 189000,
+      "surface": 48,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 182,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "2ème étage sur 3",
+      "elevator": true,
+      "charges": 1628,
+      "taxeFonciere": null,
+      "exterior": "partement T2 rénové avec balcon - Centre ville à pied Cambo les bains",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Cambo-les-Bains",
+      "postalCode": "64250",
+      "distanceKm": 16,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 189000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Charges élevées",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296430123",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296430123A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 67m2 à Hasparren (64240) - ParuVendu.fr ref 992791354840",
+      "price": 229000,
+      "surface": 67,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 79,
+      "ges": "C",
+      "gesKg": 15,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hasparren",
+      "postalCode": "64240",
+      "distanceKm": 18.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 229000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296383694",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296383694A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 63m2 à Hasparren (64240) - ParuVendu.fr ref 992791316674",
+      "price": 180000,
+      "surface": 63,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 180,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking hasparren"
+      },
+      "floor": "rez de chaussée",
+      "elevator": null,
+      "charges": 650,
+      "taxeFonciere": null,
+      "exterior": "Hasparren, grand T2 avec jardin- terrasse et parking Hasparren",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hasparren",
+      "postalCode": "64240",
+      "distanceKm": 18.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 180000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295275747",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295275747A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 48m2 à Hasparren (64240) - ParuVendu.fr ref 992790389894",
+      "price": 135000,
+      "surface": 48,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 111,
+      "ges": "A",
+      "gesKg": 4,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "stationnement est également associé au bien"
+      },
+      "floor": null,
+      "elevator": false,
+      "charges": 690,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "bon",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hasparren",
+      "postalCode": "64240",
+      "distanceKm": 18.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 135000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294354746",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294354746A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 75m2 à Hasparren (64240) - ParuVendu.fr ref 992789688628",
+      "price": 179000,
+      "surface": 75,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "E",
+      "dpeKwh": 274,
+      "ges": "B",
+      "gesKg": 10,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": 1920,
+      "taxeFonciere": null,
+      "exterior": "Jardin / Terrain",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Hasparren",
+      "postalCode": "64240",
+      "distanceKm": 18.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "lastChecked": "2026-10-25",
+      "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 179000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }
