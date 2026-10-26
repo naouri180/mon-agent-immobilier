@@ -1,7 +1,7 @@
 {
-  "lastRun": "2026-10-25T15:44:44.968Z",
+  "lastRun": "2026-10-26T05:49:06.216Z",
   "mode": "search",
-  "message": "76 nouvelle(s) annonce(s), 0 baisse(s) de prix, 0 retirée(s). 0 annonce(s) revérifiée(s), 2 source(s) bloquée(s).",
+  "message": "47 nouvelle(s) annonce(s), 0 baisse(s) de prix, 0 retirée(s). 24 annonce(s) revérifiée(s), 2 source(s) bloquée(s).",
   "sources": [
     {
       "name": "Foncia",
@@ -21,16 +21,16 @@
     }
   ],
   "stats": {
-    "pagesFetched": 198,
-    "new": 76,
+    "pagesFetched": 228,
+    "new": 47,
     "priceDrops": 0,
     "removed": 0,
-    "duplicates": 19,
-    "rejected": 55,
-    "rechecked": 0
+    "duplicates": 26,
+    "rejected": 77,
+    "rechecked": 24
   },
   "notifications": [
-    "ntfy : 4/4 envoyée(s)",
+    "ntfy : 2/2 envoyée(s)",
     "e-mail non configuré (secrets SMTP absents)"
   ]
 }

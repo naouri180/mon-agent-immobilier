@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T15:44:44.968Z",
+  "updatedAt": "2026-10-26T05:49:06.216Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -41,8 +41,8 @@
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "publishedOrUpdated": "2026-10-24",
       "priceHistory": [
         {
@@ -100,7 +100,8 @@
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0
+      "distanceKm": 0,
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "capifrance-117218",
@@ -148,7 +149,8 @@
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0
+      "distanceKm": 0,
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00828770",
@@ -195,7 +197,8 @@
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0
+      "distanceKm": 0,
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00752272",
@@ -242,7 +245,8 @@
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0
+      "distanceKm": 0,
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "etreproprio-26275766",
@@ -289,7 +293,8 @@
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0
+      "distanceKm": 0,
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00514020",
@@ -335,7 +340,8 @@
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0
+      "distanceKm": 0,
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "fnaim-53014705",
@@ -373,8 +379,8 @@
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -417,8 +423,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -466,8 +472,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -483,10 +489,12 @@
       "altUrls": [
         "https://www.paruvendu.fr/immobilier/vente/appartement/1288806970A1KIVHAP000",
         "https://www.paruvendu.fr/immobilier/vente/appartement/1292073443A1KIVHAP000",
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268611A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268611A1KIVHAP000",
+        "https://www.fnaim.fr/annonce-immobiliere/52913467/17-acheter-appartement-biarritz-64200.htm"
       ],
       "duplicates": [
-        "paruvendu.fr"
+        "paruvendu.fr",
+        "fnaim.fr"
       ]
     },
     {
@@ -522,8 +530,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -572,8 +580,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -620,8 +628,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -668,8 +676,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -718,8 +726,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -767,8 +775,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -816,8 +824,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -865,8 +873,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -914,8 +922,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -964,8 +972,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1015,8 +1023,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1064,8 +1072,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1112,8 +1120,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1164,8 +1172,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1212,8 +1220,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1260,8 +1268,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1309,8 +1317,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1357,8 +1365,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1407,8 +1415,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1456,8 +1464,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3406,6 +3414,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53220165/17-acheter-appartement-biarritz-64200.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -3611,6 +3625,12 @@
         "Parking non confirmé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/52886340/17-acheter-appartement-boucau-64340.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -3805,6 +3825,12 @@
       "weaknesses": [
         "Procédure en cours dans la copropriété",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53104163/17-acheter-appartement-tarnos-40220.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -5321,7 +5347,8 @@
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ],
       "altUrls": [
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1296484449A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1296484449A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1295125112A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -5373,6 +5400,13 @@
       "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53170368/17-acheter-appartement-ciboure-64500.htm",
+        "https://www.fnaim.fr/annonce-immobiliere/53170401/17-acheter-appartement-ciboure-64500.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -10024,6 +10058,12 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1296670801A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -10073,6 +10113,12 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268612A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -10124,7 +10170,10 @@
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ],
       "altUrls": [
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268627A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268627A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268629A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268635A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268618A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -10226,6 +10275,12 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268632A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -10324,6 +10379,12 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268606A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -10375,7 +10436,9 @@
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ],
       "altUrls": [
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268621A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268621A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268624A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268633A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -10539,6 +10602,12 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268620A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -11393,6 +11462,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1291868336A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -11825,6 +11900,2372 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294987148",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294987148A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 68m2 à Bayonne (64100) - ParuVendu.fr ref 992790147037",
+      "price": 549000,
+      "surface": 68,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 161,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "un box fermé en sous-sol + une place de stationnement privative"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 1907,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 549000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Charges élevées",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294944222",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294944222A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 49m2 à Bayonne (64100) - ParuVendu.fr ref 992790108951",
+      "price": 289000,
+      "surface": 49,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 176,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "rez-de-jardin",
+      "elevator": null,
+      "charges": 760,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": "Arènes",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 289000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295487586",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295487586A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 50m2 à Bayonne (64100) - ParuVendu.fr ref 992790567766",
+      "price": 182700,
+      "surface": 50,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "eau avec WC ainsi qu'une loggia de plus de 6 m²",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 182700
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296660261",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296660261A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 73m2 à Bayonne (64100) - ParuVendu.fr ref 992791557662",
+      "price": 363900,
+      "surface": 73,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 108,
+      "ges": "A",
+      "gesKg": 3,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "box"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": 1392,
+      "taxeFonciere": 1167,
+      "exterior": "Balcon / Terrasse",
+      "condition": "bon",
+      "year": 2006,
+      "procedure": true,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 363900
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295124579",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295124579A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 68m2 à Anglet (64600) - ParuVendu.fr ref 992790260871",
+      "price": 342000,
+      "surface": 68,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 113,
+      "ges": "C",
+      "gesKg": 22,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1108,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "travaux",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 342000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294987384",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294987384A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Biarritz (64200) | 945 000 € | 4 pièces | 81 m² - ParuVendu.fr ref 992790147259",
+      "price": 945000,
+      "surface": 81,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "A",
+      "dpeKwh": 42,
+      "ges": "A",
+      "gesKg": 1,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 1400,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 945000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291139530",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291139530A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 74m2 à Capbreton (40130) - ParuVendu.fr ref 992786700887",
+      "price": 629000,
+      "surface": 74,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 53,
+      "ges": "A",
+      "gesKg": 1,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "neuf",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 629000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293268603",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293268603A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 50m2 à St vincent de tyrosse (40230) - ParuVendu.fr ref 992788824755",
+      "price": 192500,
+      "surface": 50,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": 1,
+      "ges": "A",
+      "gesKg": 1,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": 580,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Vincent-de-Tyrosse",
+      "postalCode": "40230",
+      "distanceKm": 23,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 192500
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293268630",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293268630A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 62m2 à St vincent de tyrosse (40230) - ParuVendu.fr ref 992788824782",
+      "price": 210833,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 1,
+      "ges": "A",
+      "gesKg": 1,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": 720,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Vincent-de-Tyrosse",
+      "postalCode": "40230",
+      "distanceKm": 23,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 210833
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64200",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53096268/17-acheter-appartement-biarritz-64200.htm",
+      "title": "Achat Appartement 2 pièce(s) 45 m² BIARRITZ 64200 250 000 € - fnaim.fr",
+      "price": 250000,
+      "surface": 45,
+      "surfaceCarrez": 44,
+      "rooms": 2,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 305,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1320,
+      "taxeFonciere": 780,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 250000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Charges élevées",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64200-248",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53093498/17-acheter-appartement-biarritz-64200.htm",
+      "title": "Achat Appartement 3 pièce(s) 65 m² BIARRITZ 64200 275 000 € - fnaim.fr",
+      "price": 275000,
+      "surface": 65,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 137,
+      "ges": "C",
+      "gesKg": 26,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "7e et dernier étage",
+      "elevator": true,
+      "charges": 583,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 275000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64200-249",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52322662/17-acheter-appartement-biarritz-64200.htm",
+      "title": "Achat Appartement 2 pièce(s) 43 m² BIARRITZ 64200 296 000 € - fnaim.fr",
+      "price": 296000,
+      "surface": 43,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 93,
+      "ges": "C",
+      "gesKg": 17,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1352,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Terrasse Ascenseur Parking / Garage",
+      "condition": "excellent",
+      "year": 2017,
+      "procedure": false,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 296000
+        }
+      ],
+      "weaknesses": [
+        "Charges élevées",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64340",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53134345/17-acheter-appartement-boucau-64340.htm",
+      "title": "Achat Appartement 2 pièce(s) 43 m² BOUCAU 64340 197 000 € - fnaim.fr",
+      "price": 197000,
+      "surface": 43,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 170,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "rolonge par une agréable terrasse bénéficiant d'une vue dégagée sur un espace",
+      "condition": "inconnu",
+      "year": 2005,
+      "procedure": false,
+      "quartier": null,
+      "city": "Boucau",
+      "postalCode": "64340",
+      "distanceKm": 3.6,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 197000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-52828429",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52828429/17-acheter-appartement-pyrenees-atlantiques-64.htm",
+      "title": "Achat Appartement 3 pièce(s) 73 m² 225 800 € - fnaim.fr",
+      "price": 225800,
+      "surface": 73,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 250,
+      "ges": "B",
+      "gesKg": 8,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Terrasse Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Tarnos",
+      "postalCode": "40220",
+      "distanceKm": 5.5,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 225800
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40220",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53173914/17-acheter-appartement-tarnos-40220.htm",
+      "title": "Achat Appartement 2 pièce(s) 46 m² TARNOS 40220 80 000 € - fnaim.fr",
+      "price": 80000,
+      "surface": 46,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "G",
+      "dpeKwh": 477,
+      "ges": "C",
+      "gesKg": 19,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "rafraichir",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Tarnos",
+      "postalCode": "40220",
+      "distanceKm": 5.5,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 80000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40220-253",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53170315/17-acheter-appartement-tarnos-40220.htm",
+      "title": "Achat Appartement 2 pièce(s) 41 m² TARNOS 40220 175 000 € - fnaim.fr",
+      "price": 175000,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 163,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "rez-de-jardin",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "nt T2 au calme en rez-de-jardin comprenant une entrée avec placard, une pièc",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Tarnos",
+      "postalCode": "40220",
+      "distanceKm": 5.5,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 175000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53170398/17-acheter-appartement-tarnos-40220.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
+      ]
+    },
+    {
+      "id": "fnaim-40220-254",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52988111/17-acheter-appartement-tarnos-40220.htm",
+      "title": "Achat Appartement 2 pièce(s) 50 m² TARNOS 40220 245 000 € - fnaim.fr",
+      "price": 245000,
+      "surface": 50,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 136,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Terrasse Balcon Ascenseur Parking / Garage",
+      "condition": "excellent",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Tarnos",
+      "postalCode": "40220",
+      "distanceKm": 5.5,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 245000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-53132137",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53132137/17-acheter-appartement-landes-40.htm",
+      "title": "Achat Appartement 4 pièce(s) 72 m² 258 100 € - fnaim.fr",
+      "price": 258100,
+      "surface": 72,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "D",
+      "dpeKwh": 200,
+      "ges": "D",
+      "gesKg": 43,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 699,
+      "taxeFonciere": null,
+      "exterior": "3 chambres Balcon Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Tarnos",
+      "postalCode": "40220",
+      "distanceKm": 5.5,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 258100
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40220-256",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53061615/17-acheter-appartement-tarnos-40220.htm",
+      "title": "Achat Appartement 3 pièce(s) 80 m² TARNOS 40220 268 000 € - fnaim.fr",
+      "price": 268000,
+      "surface": 80,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 161,
+      "ges": "C",
+      "gesKg": 25,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Tarnos",
+      "postalCode": "40220",
+      "distanceKm": 5.5,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 268000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53083412/17-acheter-appartement-tarnos-40220.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
+      ]
+    },
+    {
+      "id": "fnaim-53149934",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53149934/17-acheter-appartement-pyrenees-atlantiques-64.htm",
+      "title": "Achat Appartement 2 pièce(s) 41 m² 180 000 € - fnaim.fr",
+      "price": 180000,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 135,
+      "ges": "A",
+      "gesKg": 4,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "garage",
+        "detail": "garage d'environ 18 m² et un bout de verdure viennent compléter le"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Une terrasse privative d'environ 8 m² ainsi qu'un espace",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": "Belharra",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 180000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64210",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53208220/17-acheter-appartement-bidart-64210.htm",
+      "title": "Achat Appartement 3 pièce(s) 54 m² BIDART 64210 221 000 € - fnaim.fr",
+      "price": 221000,
+      "surface": 54,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 248,
+      "ges": "B",
+      "gesKg": 9,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "2e et dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Terrasse Balcon Ascenseur Parking / Garage",
+      "condition": "excellent",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 221000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64210-259",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53105560/17-acheter-appartement-bidart-64210.htm",
+      "title": "Achat Appartement 2 pièce(s) 43 m² BIDART 64210 260 000 € - fnaim.fr",
+      "price": 260000,
+      "surface": 43,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": null,
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Balcon Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 260000
+        }
+      ],
+      "weaknesses": [
+        "DPE non trouvé dans l’annonce",
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64210-260",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53197482/17-acheter-appartement-bidart-64210.htm",
+      "title": "Achat Appartement 3 pièce(s) 50 m² BIDART 64210 345 000 € - fnaim.fr",
+      "price": 345000,
+      "surface": 50,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 190,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Balcon Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 345000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53197517/17-acheter-appartement-bidart-64210.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
+      ]
+    },
+    {
+      "id": "fnaim-64210-261",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53075890/17-acheter-appartement-bidart-64210.htm",
+      "title": "Achat Appartement 3 pièce(s) 63 m² BIDART 64210 375 000 € - fnaim.fr",
+      "price": 375000,
+      "surface": 63,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": null,
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Balcon Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 375000
+        }
+      ],
+      "weaknesses": [
+        "DPE non trouvé dans l’annonce",
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64210-262",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53118636/17-acheter-appartement-bidart-64210.htm",
+      "title": "Achat Appartement 3 pièce(s) 64 m² BIDART 64210 399 000 € - fnaim.fr",
+      "price": 399000,
+      "surface": 64,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 94,
+      "ges": "C",
+      "gesKg": 18,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Terrasse Parking / Garage",
+      "condition": "excellent",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 399000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64210-263",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52943683/17-acheter-appartement-bidart-64210.htm",
+      "title": "Achat Appartement 4 pièce(s) 76 m² BIDART 64210 449 000 € - fnaim.fr",
+      "price": 449000,
+      "surface": 76,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "D",
+      "dpeKwh": 212,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "ent d'environ 76 m² avec terrasse et jardinet, local à vélo et 2 places de par",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 449000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64210-264",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52849856/17-acheter-appartement-bidart-64210.htm",
+      "title": "Achat Appartement 3 pièce(s) 64 m² BIDART 64210 530 000 € - fnaim.fr",
+      "price": 530000,
+      "surface": 64,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": null,
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Balcon",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 530000
+        }
+      ],
+      "weaknesses": [
+        "DPE non trouvé dans l’annonce",
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64210-265",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53167597/17-acheter-appartement-bidart-64210.htm",
+      "title": "Achat Appartement 3 pièce(s) 84 m² BIDART 64210 575 000 € - fnaim.fr",
+      "price": 575000,
+      "surface": 84,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 122,
+      "ges": "C",
+      "gesKg": 24,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "ux donnant accès à trois balcons (superficie totale : près de 27 m2), véritab",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 575000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-53133285",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53133285/17-acheter-appartement-pyrenees-atlantiques-64.htm",
+      "title": "Achat Appartement 3 pièce(s) 78 m² 580 000 € - fnaim.fr",
+      "price": 580000,
+      "surface": 78,
+      "surfaceCarrez": 27.3,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 214,
+      "ges": "B",
+      "gesKg": 8,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 700,
+      "taxeFonciere": null,
+      "exterior": "également d'une agréable terrasse d'environ 16,25 m², véritable atout en plein",
+      "condition": "travaux",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 580000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64210-267",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53071184/17-acheter-appartement-bidart-64210.htm",
+      "title": "Achat Appartement 3 pièce(s) 76 m² BIDART 64210 682 000 € - fnaim.fr",
+      "price": 682000,
+      "surface": 76,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 178,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1661,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Terrasse Ascenseur Parking / Garage",
+      "condition": "travaux",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 682000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64210-268",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52849878/17-acheter-appartement-bidart-64210.htm",
+      "title": "Achat Appartement 3 pièce(s) 84 m² BIDART 64210 795 000 € - fnaim.fr",
+      "price": 795000,
+      "surface": 84,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": null,
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Balcon",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 795000
+        }
+      ],
+      "weaknesses": [
+        "DPE non trouvé dans l’annonce",
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64210-269",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52575354/17-acheter-appartement-guethary-64210.htm",
+      "title": "Achat Appartement 2 pièce(s) 44 m² GUETHARY 64210 213 000 € - fnaim.fr",
+      "price": 213000,
+      "surface": 44,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "E",
+      "dpeKwh": 290,
+      "ges": "E",
+      "gesKg": 61,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "place de parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "travaux",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Guéthary",
+      "postalCode": "64210",
+      "distanceKm": 13.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 213000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/52997877/17-acheter-appartement-guethary-64210.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
+      ]
+    },
+    {
+      "id": "fnaim-53139079",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53139079/17-acheter-appartement-pyrenees-atlantiques-64.htm",
+      "title": "Achat Appartement 2 pièce(s) 41 m² 475 000 € - fnaim.fr",
+      "price": 475000,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": null,
+      "dpe": "C",
+      "dpeKwh": 82,
+      "ges": "C",
+      "gesKg": 15,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": 840,
+      "taxeFonciere": null,
+      "exterior": "Terrasse Ascenseur Parking / Garage",
+      "condition": "inconnu",
+      "year": 2021,
+      "procedure": false,
+      "quartier": null,
+      "city": "Guéthary",
+      "postalCode": "64210",
+      "distanceKm": 13.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 475000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64210-271",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53162926/17-acheter-appartement-guethary-64210.htm",
+      "title": "Achat Appartement 3 pièce(s) 64 m² GUETHARY 64210 895 000 € - fnaim.fr",
+      "price": 895000,
+      "surface": 64,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 229,
+      "ges": "B",
+      "gesKg": 9,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "le et accueillant, et la terrasse offre une vue magique et imprenable sur la c",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Guéthary",
+      "postalCode": "64210",
+      "distanceKm": 13.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 895000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-53219294",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53219294/17-acheter-appartement-pyrenees-atlantiques-64.htm",
+      "title": "Achat Appartement 3 pièce(s) 48 m² 249 000 € - fnaim.fr",
+      "price": 249000,
+      "surface": 48,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 219,
+      "ges": "B",
+      "gesKg": 8,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 741,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 249000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64500",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52891890/17-acheter-appartement-ciboure-64500.htm",
+      "title": "Achat Appartement 3 pièce(s) 65 m² CIBOURE 64500 290 000 € - fnaim.fr",
+      "price": 290000,
+      "surface": 65,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 159,
+      "ges": "D",
+      "gesKg": 31,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "luminosité et ouvert sur terrasse d' environ 13 m², au même niveau une chambre",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 290000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64500-274",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52997983/17-acheter-appartement-ciboure-64500.htm",
+      "title": "Achat Appartement 4 pièce(s) 83 m² CIBOURE 64500 398 000 € - fnaim.fr",
+      "price": 398000,
+      "surface": 83,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 177,
+      "ges": "D",
+      "gesKg": 38,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "garage",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1600,
+      "taxeFonciere": null,
+      "exterior": "3 chambres Balcon Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 398000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/52921163/17-acheter-appartement-ciboure-64500.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
+      ]
+    },
+    {
+      "id": "fnaim-64500-275",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53184110/17-acheter-appartement-ciboure-64500.htm",
+      "title": "Achat Appartement 4 pièce(s) 62 m² CIBOURE 64500 399 000 € - fnaim.fr",
+      "price": 399000,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "E",
+      "dpeKwh": 321,
+      "ges": "B",
+      "gesKg": 10,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 200,
+      "taxeFonciere": null,
+      "exterior": "is chambres, ainsi qu'un balcon permettant de profiter pleinement des beaux",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 399000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53184445/17-acheter-appartement-ciboure-64500.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
+      ]
+    },
+    {
+      "id": "fnaim-64500-276",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53205615/17-acheter-appartement-ciboure-64500.htm",
+      "title": "Achat Appartement 2 pièce(s) 49 m² CIBOURE 64500 410 000 € - fnaim.fr",
+      "price": 410000,
+      "surface": 49,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 68,
+      "ges": "D",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": "4e étage",
+      "elevator": true,
+      "charges": 1272,
+      "taxeFonciere": 2026,
+      "exterior": "1 chambre Balcon Ascenseur Parking / Garage",
+      "condition": "travaux",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 410000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-53205859",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53205859/17-acheter-appartement-pyrenees-atlantiques-64.htm",
+      "title": "Achat Appartement 3 pièce(s) 68 m² 450 000 € - fnaim.fr",
+      "price": 450000,
+      "surface": 68,
+      "surfaceCarrez": 41.83,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 194,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 450000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64500-278",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53177917/17-acheter-appartement-ciboure-64500.htm",
+      "title": "Achat Appartement 3 pièce(s) 69 m² CIBOURE 64500 470 000 € - fnaim.fr",
+      "price": 470000,
+      "surface": 69,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 143,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "5 ème et dernier étage",
+      "elevator": true,
+      "charges": 90,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Terrasse Ascenseur Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 470000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53177925/17-acheter-appartement-ciboure-64500.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
+      ]
+    },
+    {
+      "id": "fnaim-64500-279",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53181542/17-acheter-appartement-ciboure-64500.htm",
+      "title": "Achat Appartement 3 pièce(s) 84 m² CIBOURE 64500 583 500 € - fnaim.fr",
+      "price": 583500,
+      "surface": 84,
+      "surfaceCarrez": 67.91,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 237,
+      "ges": "D",
+      "gesKg": 38,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "4e et dernier étage",
+      "elevator": true,
+      "charges": 1260,
+      "taxeFonciere": 1148,
+      "exterior": "2 chambres Terrasse Balcon Ascenseur Parking / Garage",
+      "condition": "inconnu",
+      "year": 1975,
+      "procedure": false,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 583500
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64122",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52275028/17-acheter-appartement-urrugne-64122.htm",
+      "title": "Achat Appartement 3 pièce(s) 45 m² URRUGNE 64122 180 000 € - fnaim.fr",
+      "price": 180000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "G",
+      "dpeKwh": 561,
+      "ges": "D",
+      "gesKg": 33,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "travaux",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Urrugne",
+      "postalCode": "64122",
+      "distanceKm": 23.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 180000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64122-281",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53189524/17-acheter-appartement-urrugne-64122.htm",
+      "title": "Achat Appartement 2 pièce(s) 42 m² URRUGNE 64122 190 000 € - fnaim.fr",
+      "price": 190000,
+      "surface": 42,
+      "surfaceCarrez": 42.28,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 69,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": "1er étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Balcon Ascenseur Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Urrugne",
+      "postalCode": "64122",
+      "distanceKm": 23.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 190000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64122-282",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52895347/17-acheter-appartement-urrugne-64122.htm",
+      "title": "Achat Appartement 3 pièce(s) 47 m² URRUGNE 64122 220 000 € - fnaim.fr",
+      "price": 220000,
+      "surface": 47,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 90,
+      "ges": "C",
+      "gesKg": 17,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 412,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Urrugne",
+      "postalCode": "64122",
+      "distanceKm": 23.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 220000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64122-283",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53180817/17-acheter-appartement-urrugne-64122.htm",
+      "title": "Achat Appartement 2 pièce(s) 44 m² URRUGNE 64122 235 000 € - fnaim.fr",
+      "price": 235000,
+      "surface": 44,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": null,
+      "dpe": "D",
+      "dpeKwh": 183,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "un parking privatif pour laisser la voiture, les commodités étant à 5"
+      },
+      "floor": "rez-de-jardin",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "ce T2 de 45 m² en rez-de-jardin est une véritable bulle de vie : un espace j",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Urrugne",
+      "postalCode": "64122",
+      "distanceKm": 23.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 235000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64122-284",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53033804/17-acheter-appartement-urrugne-64122.htm",
+      "title": "Achat Appartement 4 pièce(s) 70 m² URRUGNE 64122 259 000 € - fnaim.fr",
+      "price": 259000,
+      "surface": 70,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "D",
+      "dpeKwh": 214,
+      "ges": "D",
+      "gesKg": 41,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "garage",
+        "detail": "parking"
+      },
+      "floor": "1er étage",
+      "elevator": true,
+      "charges": 1024,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Urrugne",
+      "postalCode": "64122",
+      "distanceKm": 23.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 259000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53033811/17-acheter-appartement-urrugne-64122.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     }
   ]
