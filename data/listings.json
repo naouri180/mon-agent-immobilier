@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T05:49:06.216Z",
+  "updatedAt": "2026-10-26T10:53:23.206Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -294,7 +294,13 @@
       ],
       "postalCode": "64100",
       "distanceKm": 0,
-      "lastCheckProblem": "accès refusé par le site"
+      "lastCheckProblem": "accès refusé par le site",
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/52838491/17-acheter-appartement-ondres-40440.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
+      ]
     },
     {
       "id": "foncia-00514020",
@@ -490,7 +496,9 @@
         "https://www.paruvendu.fr/immobilier/vente/appartement/1288806970A1KIVHAP000",
         "https://www.paruvendu.fr/immobilier/vente/appartement/1292073443A1KIVHAP000",
         "https://www.paruvendu.fr/immobilier/vente/appartement/1293268611A1KIVHAP000",
-        "https://www.fnaim.fr/annonce-immobiliere/52913467/17-acheter-appartement-biarritz-64200.htm"
+        "https://www.fnaim.fr/annonce-immobiliere/52913467/17-acheter-appartement-biarritz-64200.htm",
+        "https://www.fnaim.fr/annonce-immobiliere/53180903/17-acheter-appartement-seignosse-40510.htm",
+        "https://www.fnaim.fr/annonce-immobiliere/53180897/17-acheter-appartement-seignosse-40510.htm"
       ],
       "duplicates": [
         "paruvendu.fr",
@@ -1514,8 +1522,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1564,8 +1572,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1576,6 +1584,13 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1296688371A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1296688393A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -1613,8 +1628,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1665,8 +1680,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1713,8 +1728,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1761,8 +1776,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1809,8 +1824,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1859,8 +1874,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1908,8 +1923,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1957,8 +1972,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2005,8 +2020,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2054,8 +2069,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2103,8 +2118,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2150,8 +2165,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2199,8 +2214,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2247,8 +2262,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2303,8 +2318,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2352,8 +2367,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2400,8 +2415,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2449,8 +2464,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2498,8 +2513,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2548,8 +2563,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2601,8 +2616,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2649,8 +2664,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6858,6 +6873,12 @@
       "weaknesses": [
         "Parking non confirmé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53125393/17-acheter-appartement-hendaye-64700.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -10494,7 +10515,8 @@
       ],
       "altUrls": [
         "https://www.paruvendu.fr/immobilier/vente/appartement/1293268628A1KIVHAP000",
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268617A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268617A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268634A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -12992,6 +13014,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53073304/17-acheter-appartement-capbreton-40130.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -14266,6 +14294,2745 @@
       ],
       "duplicates": [
         "fnaim.fr"
+      ]
+    },
+    {
+      "id": "paruvendu-1290921411",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1290921411A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 46m2 à Anglet (64600) - ParuVendu.fr ref 992786807978",
+      "price": 238500,
+      "surface": 46,
+      "surfaceCarrez": 46.48,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 203,
+      "ges": "E",
+      "gesKg": 47,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 771,
+      "taxeFonciere": null,
+      "exterior": "er étage avec ascenseur, balcon, cave Anglet",
+      "condition": "excellent",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 238500
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1289742561",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1289742561A1KIVHAP000",
+      "title": "Annonce à anglet t4 standing 2sdb 2wc 2parkings grde terrasse cave, vente 4 pièces de particulier Pyrénées-Atlantiques - ParuVendu.fr ref WI177120229",
+      "price": 431000,
+      "surface": 83,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "B",
+      "dpeKwh": 90,
+      "ges": "C",
+      "gesKg": 20,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "2parkings grde terrasse cave, vente 4 pièces de particulier pyrénées-"
+      },
+      "floor": "2ème étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "2sdb 2wc 2parkings grde terrasse cave, vente 4 pièces de particulier Pyrénées",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 431000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1288079574",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1288079574A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 40m2 à Anglet (64600) - ParuVendu.fr ref 992784570170",
+      "price": 222000,
+      "surface": 40,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 64,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 476,
+      "taxeFonciere": 620,
+      "exterior": "artement Anglet, T2 avec terrasse Anglet",
+      "condition": "inconnu",
+      "year": 2023,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 222000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295465714",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295465714A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Biarritz (64200) | 719 000 € | 3 pièces | 67 m² - ParuVendu.fr ref 992790549597",
+      "price": 719000,
+      "surface": 67,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 124,
+      "ges": "A",
+      "gesKg": 4,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1992,
+      "taxeFonciere": 1175,
+      "exterior": "Biarritz centre, T3 avec terrasse Biarritz",
+      "condition": "bon",
+      "year": 2014,
+      "procedure": false,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 719000
+        }
+      ],
+      "weaknesses": [
+        "Charges élevées",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296688394",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296688394A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 51m2 à Soorts hossegor (40150) - ParuVendu.fr ref 992791581633",
+      "price": 392000,
+      "surface": 51,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - soorts-hossegor soorts hossegor"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "t 3 PIÈCES de 51m² + UNE TERRASSE + PARKING - SOORTS-HOSSEGOR Soorts hossegor",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 392000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64122-290",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52736417/17-acheter-appartement-urrugne-64122.htm",
+      "title": "Achat Appartement 3 pièce(s) 65 m² URRUGNE 64122 315 000 € - fnaim.fr",
+      "price": 315000,
+      "surface": 65,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 178,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "deux places de parking privatives"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Balcon",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Urrugne",
+      "postalCode": "64122",
+      "distanceKm": 23.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 315000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-53152261",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53152261/17-acheter-appartement-pyrenees-atlantiques-64.htm",
+      "title": "Achat Appartement 3 pièce(s) 60 m² 329 000 € - fnaim.fr",
+      "price": 329000,
+      "surface": 60,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 22,
+      "ges": "C",
+      "gesKg": 14,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "1er et dernier étage",
+      "elevator": true,
+      "charges": 1200,
+      "taxeFonciere": null,
+      "exterior": "insert prolongé par une terrasse couverte, cuisine ouverte équipée ainsi qu'u",
+      "condition": "excellent",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Urrugne",
+      "postalCode": "64122",
+      "distanceKm": 23.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 329000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64122-292",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53153345/17-acheter-appartement-urrugne-64122.htm",
+      "title": "Achat Appartement 4 pièce(s) 72 m² URRUGNE 64122 383 000 € - fnaim.fr",
+      "price": 383000,
+      "surface": 72,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "D",
+      "dpeKwh": 180,
+      "ges": "D",
+      "gesKg": 39,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "3 chambres Balcon",
+      "condition": "rafraichir",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Urrugne",
+      "postalCode": "64122",
+      "distanceKm": 23.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 383000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53153375/17-acheter-appartement-urrugne-64122.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
+      ]
+    },
+    {
+      "id": "fnaim-64700",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53081599/17-acheter-appartement-hendaye-64700.htm",
+      "title": "Achat Appartement 3 pièce(s) 69 m² HENDAYE 64700 187 250 € - fnaim.fr",
+      "price": 187250,
+      "surface": 69,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 179,
+      "ges": "D",
+      "gesKg": 38,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "une place de parking extérieure privative viennent compléter ce bien"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "uvre directement sur une terrasse ensoleillée exposée plein Sud, un véritable",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 187250
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64700-294",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53188518/17-acheter-appartement-hendaye-64700.htm",
+      "title": "Achat Appartement 3 pièce(s) 49 m² HENDAYE 64700 192 000 € - fnaim.fr",
+      "price": 192000,
+      "surface": 49,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 218,
+      "ges": "B",
+      "gesKg": 8,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 904,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 192000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53188413/17-acheter-appartement-hendaye-64700.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
+      ]
+    },
+    {
+      "id": "fnaim-64700-295",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53102254/17-acheter-appartement-hendaye-64700.htm",
+      "title": "Achat Appartement 2 pièce(s) 41 m² HENDAYE 64700 220 000 € - fnaim.fr",
+      "price": 220000,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 128,
+      "ges": "A",
+      "gesKg": 4,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "onnant sur une spacieuse terrasse d'environ 10 m2, situé en rez-de-chaussée su",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 220000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64700-296",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53050423/17-acheter-appartement-hendaye-64700.htm",
+      "title": "Achat Appartement 2 pièce(s) 44 m² HENDAYE 64700 229 000 € - fnaim.fr",
+      "price": 229000,
+      "surface": 44,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 125,
+      "ges": "C",
+      "gesKg": 26,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "compose d'un salon avec loggia, d'une cuisine donnant sur le salon, d'une c",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 229000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64700-297",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53204734/17-acheter-appartement-hendaye-64700.htm",
+      "title": "Achat Appartement 2 pièce(s) 42 m² HENDAYE 64700 233 200 € - fnaim.fr",
+      "price": 233200,
+      "surface": 42,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 121,
+      "ges": "C",
+      "gesKg": 23,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Atout majeur : une belle terrasse de 7 m², sans vis-à-vis, offrant une vue dég",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 233200
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64700-298",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53100551/17-acheter-appartement-hendaye-64700.htm",
+      "title": "Achat Appartement 3 pièce(s) 55 m² HENDAYE 64700 240 000 € - fnaim.fr",
+      "price": 240000,
+      "surface": 55,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 236,
+      "ges": "B",
+      "gesKg": 9,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "e donnant sur une grande terrasse et jardin, deux chambres, une salle de bains",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 240000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64700-299",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52713454/17-acheter-appartement-hendaye-64700.htm",
+      "title": "Achat Appartement 3 pièce(s) 56 m² HENDAYE 64700 240 000 € - fnaim.fr",
+      "price": 240000,
+      "surface": 56,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 242,
+      "ges": "C",
+      "gesKg": 13,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "une place de parking complète ce bien"
+      },
+      "floor": "rez de chaussée",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 240000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64700-300",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53205550/17-acheter-appartement-hendaye-64700.htm",
+      "title": "Achat Appartement 3 pièce(s) 52 m² HENDAYE 64700 245 000 € - fnaim.fr",
+      "price": 245000,
+      "surface": 52,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 279,
+      "ges": "E",
+      "gesKg": 60,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "place de parking non privative"
+      },
+      "floor": "3ème et dernier étage",
+      "elevator": false,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "un salon donnant sur une terrasse exposé à l'est avec une belle vue dégagée su",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 245000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64700-301",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53167577/17-acheter-appartement-hendaye-64700.htm",
+      "title": "Achat Appartement 3 pièce(s) 43 m² HENDAYE 64700 249 000 € - fnaim.fr",
+      "price": 249000,
+      "surface": 43,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 143,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": 741,
+      "exterior": "t lumineux de 45 m² avec terrasse et jardin privatif de 150 m², bénéficiant d'",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 249000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64700-302",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52816316/17-acheter-appartement-hendaye-64700.htm",
+      "title": "Achat Appartement 3 pièce(s) 55 m² HENDAYE 64700 249 000 € - fnaim.fr",
+      "price": 249000,
+      "surface": 55,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 161,
+      "ges": "D",
+      "gesKg": 31,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 100,
+      "taxeFonciere": null,
+      "exterior": "PPARTEMENT 3 PIÈCES AVEC TERRASSE, CAVE ET STATIONNEMENT",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 249000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64480",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53202859/17-acheter-appartement-ustaritz-64480.htm",
+      "title": "Achat Appartement 2 pièce(s) 40 m² USTARITZ 64480 159 000 € - fnaim.fr",
+      "price": 159000,
+      "surface": 40,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": null,
+      "dpe": "D",
+      "dpeKwh": 233,
+      "ges": "B",
+      "gesKg": 9,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Ustaritz",
+      "postalCode": "64480",
+      "distanceKm": 10.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 159000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53202954/17-acheter-appartement-ustaritz-64480.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
+      ]
+    },
+    {
+      "id": "fnaim-64480-304",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53175121/17-acheter-appartement-ustaritz-64480.htm",
+      "title": "Achat Appartement 2 pièce(s) 47 m² USTARITZ 64480 190 000 € - fnaim.fr",
+      "price": 190000,
+      "surface": 47,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "B",
+      "dpeKwh": 90,
+      "ges": "C",
+      "gesKg": 16,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "garage",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "ccès direct à une grande terrasse exposée plein Sud, sans vis à vis",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Ustaritz",
+      "postalCode": "64480",
+      "distanceKm": 10.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 190000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53175149/17-acheter-appartement-ustaritz-64480.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
+      ]
+    },
+    {
+      "id": "fnaim-53213938",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53213938/17-acheter-appartement-pyrenees-atlantiques-64.htm",
+      "title": "Achat Appartement 2 pièce(s) 41 m² 188 000 € - fnaim.fr",
+      "price": 188000,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 237,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 540,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Terrasse Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Cambo-les-Bains",
+      "postalCode": "64250",
+      "distanceKm": 16,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 188000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64250",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53203065/17-acheter-appartement-cambo-les-bains-64250.htm",
+      "title": "Achat Appartement 3 pièce(s) 52 m² CAMBO LES BAINS 64250 222 000 € - fnaim.fr",
+      "price": 222000,
+      "surface": 52,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 202,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Un beau jardin, un garage fermé et toutes les commodités à",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Cambo-les-Bains",
+      "postalCode": "64250",
+      "distanceKm": 16,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 222000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-52908126",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52908126/17-acheter-appartement-pyrenees-atlantiques-64.htm",
+      "title": "Achat Appartement 2 pièce(s) 51 m² 135 000 € - fnaim.fr",
+      "price": 135000,
+      "surface": 51,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 205,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": 361,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hasparren",
+      "postalCode": "64240",
+      "distanceKm": 18.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 135000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-53117901",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53117901/17-acheter-appartement-pyrenees-atlantiques-64.htm",
+      "title": "Achat Appartement 2 pièce(s) 53 m² 145 000 € - fnaim.fr",
+      "price": 145000,
+      "surface": 53,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 179,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 600,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hasparren",
+      "postalCode": "64240",
+      "distanceKm": 18.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 145000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64240",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52734407/17-acheter-appartement-hasparren-64240.htm",
+      "title": "Achat Appartement 2 pièce(s) 42 m² HASPARREN 64240 145 000 € - fnaim.fr",
+      "price": 145000,
+      "surface": 42,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 176,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "place de parking"
+      },
+      "floor": "2e étage",
+      "elevator": false,
+      "charges": 240,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hasparren",
+      "postalCode": "64240",
+      "distanceKm": 18.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 145000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-52803303",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52803303/17-acheter-appartement-pyrenees-atlantiques-64.htm",
+      "title": "Achat Appartement 3 pièce(s) 49 m² 161 000 € - fnaim.fr",
+      "price": 161000,
+      "surface": 49,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 298,
+      "ges": "B",
+      "gesKg": 9,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": false,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Balcon Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Hasparren",
+      "postalCode": "64240",
+      "distanceKm": 18.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 161000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-53199436",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53199436/17-acheter-appartement-pyrenees-atlantiques-64.htm",
+      "title": "Achat Appartement 3 pièce(s) 56 m² 177 000 € - fnaim.fr",
+      "price": 177000,
+      "surface": 56,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "B",
+      "dpeKwh": 105,
+      "ges": "A",
+      "gesKg": 3,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 300,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "bon",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hasparren",
+      "postalCode": "64240",
+      "distanceKm": 18.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 177000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64240-312",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53139577/17-acheter-appartement-hasparren-64240.htm",
+      "title": "Achat Appartement 4 pièce(s) 75 m² HASPARREN 64240 179 000 € - fnaim.fr",
+      "price": 179000,
+      "surface": 75,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "E",
+      "dpeKwh": 211,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "2ème et dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Un jardin de 77m2 en pleine propriété peut être relié",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hasparren",
+      "postalCode": "64240",
+      "distanceKm": 18.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 179000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-53132393",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53132393/17-acheter-appartement-pyrenees-atlantiques-64.htm",
+      "title": "Achat Appartement 3 pièce(s) 62 m² 230 000 € - fnaim.fr",
+      "price": 230000,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 236,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 436,
+      "taxeFonciere": null,
+      "exterior": "rofiterez également d'un jardin en jouissance privative, parfait pour les re",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hasparren",
+      "postalCode": "64240",
+      "distanceKm": 18.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 230000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-53179348",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53179348/17-acheter-appartement-pyrenees-atlantiques-64.htm",
+      "title": "Achat Appartement 3 pièce(s) 64 m² 235 000 € - fnaim.fr",
+      "price": 235000,
+      "surface": 64,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 242,
+      "ges": "D",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": "1er étage",
+      "elevator": true,
+      "charges": 434,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "bon",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hasparren",
+      "postalCode": "64240",
+      "distanceKm": 18.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 235000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-51967361",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/51967361/17-acheter-appartement-landes-40.htm",
+      "title": "Achat Appartement 3 pièce(s) 60 m² 266 000 € - fnaim.fr",
+      "price": 266000,
+      "surface": 60,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 76,
+      "ges": "C",
+      "gesKg": 14,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 1200,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Balcon Ascenseur Parking / Garage",
+      "condition": "travaux",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Tarnos",
+      "postalCode": "40220",
+      "distanceKm": 5.5,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 266000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40440",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53166107/17-acheter-appartement-ondres-40440.htm",
+      "title": "Achat Appartement 4 pièce(s) 81 m² ONDRES 40440 314 000 € - fnaim.fr",
+      "price": 314000,
+      "surface": 81,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 80,
+      "ges": "C",
+      "gesKg": 15,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "couvert",
+        "detail": "parking"
+      },
+      "floor": "1er étage",
+      "elevator": true,
+      "charges": 1800,
+      "taxeFonciere": null,
+      "exterior": "3 chambres Balcon Ascenseur Parking / Garage",
+      "condition": "inconnu",
+      "year": 2022,
+      "procedure": false,
+      "quartier": null,
+      "city": "Ondres",
+      "postalCode": "40440",
+      "distanceKm": 8.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 314000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40440-317",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53045739/17-acheter-appartement-ondres-40440.htm",
+      "title": "Achat Appartement 4 pièce(s) 80 m² ONDRES 40440 349 000 € - fnaim.fr",
+      "price": 349000,
+      "surface": 80,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "B",
+      "dpeKwh": 89,
+      "ges": "C",
+      "gesKg": 17,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": "1er étage",
+      "elevator": true,
+      "charges": 1400,
+      "taxeFonciere": null,
+      "exterior": "s'ouvre sur une agréable terrasse, idéale pour profiter des beaux jours",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Ondres",
+      "postalCode": "40440",
+      "distanceKm": 8.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 349000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40440-318",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53040007/17-acheter-appartement-ondres-40440.htm",
+      "title": "Achat Appartement 3 pièce(s) 82 m² ONDRES 40440 380 000 € - fnaim.fr",
+      "price": 380000,
+      "surface": 82,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 63,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "2e et dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Terrasse Balcon Ascenseur Parking / Garage",
+      "condition": "excellent",
+      "year": 2013,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ondres",
+      "postalCode": "40440",
+      "distanceKm": 8.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 380000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40530",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52997803/17-acheter-appartement-labenne-40530.htm",
+      "title": "Achat Appartement 3 pièce(s) 62 m² LABENNE 40530 315 000 € - fnaim.fr",
+      "price": 315000,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "B",
+      "dpeKwh": 88,
+      "ges": "C",
+      "gesKg": 17,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "couvert",
+        "detail": "parking"
+      },
+      "floor": "1er étage",
+      "elevator": true,
+      "charges": 1258,
+      "taxeFonciere": null,
+      "exterior": "al donnant sur une belle terrasse exposée sud",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Labenne",
+      "postalCode": "40530",
+      "distanceKm": 12,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 315000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/52999176/17-acheter-appartement-labenne-40530.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
+      ]
+    },
+    {
+      "id": "fnaim-40130",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52975573/17-acheter-appartement-capbreton-40130.htm",
+      "title": "Achat Appartement 2 pièce(s) 47 m² CAPBRETON 40130 225 000 € - fnaim.fr",
+      "price": 225000,
+      "surface": 47,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 129,
+      "ges": "A",
+      "gesKg": 4,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Balcon Ascenseur Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 225000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40130-321",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53123407/17-acheter-appartement-capbreton-40130.htm",
+      "title": "Achat Appartement 2 pièce(s) 42 m² CAPBRETON 40130 249 000 € - fnaim.fr",
+      "price": 249000,
+      "surface": 42,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 100,
+      "ges": "C",
+      "gesKg": 19,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "1er et dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Balcon Ascenseur Parking / Garage",
+      "condition": "inconnu",
+      "year": 2021,
+      "procedure": true,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 249000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40130-322",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53123262/17-acheter-appartement-capbreton-40130.htm",
+      "title": "Achat Appartement 2 pièce(s) 42 m² CAPBRETON 40130 254 500 € - fnaim.fr",
+      "price": 254500,
+      "surface": 42,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 100,
+      "ges": "C",
+      "gesKg": 19,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "1er et dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Balcon Ascenseur Parking / Garage",
+      "condition": "inconnu",
+      "year": 2021,
+      "procedure": true,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 254500
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-52824465",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52824465/17-acheter-appartement-landes-40.htm",
+      "title": "Achat Appartement 3 pièce(s) 59 m² 255 400 € - fnaim.fr",
+      "price": 255400,
+      "surface": 59,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 177,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "1er étage",
+      "elevator": true,
+      "charges": 536,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Balcon Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 255400
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40130-324",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53147342/17-acheter-appartement-capbreton-40130.htm",
+      "title": "Achat Appartement 2 pièce(s) 44 m² CAPBRETON 40130 275 000 € - fnaim.fr",
+      "price": 275000,
+      "surface": 44,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "B",
+      "dpeKwh": 76,
+      "ges": "C",
+      "gesKg": 13,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "couvert",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 815,
+      "taxeFonciere": null,
+      "exterior": "'invite jusque sur votre terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 275000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53147338/17-acheter-appartement-capbreton-40130.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
+      ]
+    },
+    {
+      "id": "fnaim-40130-325",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53195479/17-acheter-appartement-capbreton-40130.htm",
+      "title": "Achat Appartement 2 pièce(s) 42 m² CAPBRETON 40130 305 900 € - fnaim.fr",
+      "price": 305900,
+      "surface": 42,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 90,
+      "ges": "C",
+      "gesKg": 16,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1218,
+      "taxeFonciere": null,
+      "exterior": "rofiterez également d'un balcon, idéal pour bénéficier d'un espace extérieur",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 305900
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Charges élevées",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40130-326",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53058105/17-acheter-appartement-capbreton-40130.htm",
+      "title": "Achat Appartement 3 pièce(s) 53 m² CAPBRETON 40130 349 000 € - fnaim.fr",
+      "price": 349000,
+      "surface": 53,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 228,
+      "ges": "B",
+      "gesKg": 9,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 170,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Terrasse",
+      "condition": "travaux",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 349000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40130-327",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52495302/17-acheter-appartement-capbreton-40130.htm",
+      "title": "Achat Appartement 2 pièce(s) 42 m² CAPBRETON 40130 360 400 € - fnaim.fr",
+      "price": 360400,
+      "surface": 42,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "B",
+      "dpeKwh": 93,
+      "ges": "C",
+      "gesKg": 17,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "1er et dernier étage",
+      "elevator": true,
+      "charges": 84,
+      "taxeFonciere": null,
+      "exterior": "dernier étage avec large terrasse/loggia",
+      "condition": "inconnu",
+      "year": 2019,
+      "procedure": false,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 360400
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40150",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52507338/17-acheter-appartement-soorts-hossegor-40150.htm",
+      "title": "Achat Appartement 3 pièce(s) 42 m² SOORTS HOSSEGOR 40150 - fnaim.fr",
+      "price": 467000,
+      "surface": 42,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 157,
+      "ges": "A",
+      "gesKg": 4,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Un balcon permet de profiter pleinement du cadre privi",
+      "condition": "excellent",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 467000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40150-329",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52910599/17-acheter-appartement-soorts-hossegor-40150.htm",
+      "title": "Achat Appartement 2 pièce(s) 50 m² SOORTS HOSSEGOR 40150 315 000 € - fnaim.fr",
+      "price": 315000,
+      "surface": 50,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 186,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "2e étage",
+      "elevator": true,
+      "charges": 706,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Terrasse Ascenseur",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 315000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40150-330",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53048764/17-acheter-appartement-soorts-hossegor-40150.htm",
+      "title": "Achat Appartement 3 pièce(s) 55 m² SOORTS HOSSEGOR 40150 325 000 € - fnaim.fr",
+      "price": 325000,
+      "surface": 55,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 184,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Terrasse Ascenseur Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 325000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40150-331",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52558823/17-acheter-appartement-soorts-hossegor-40150.htm",
+      "title": "Achat Appartement 2 pièce(s) 41 m² SOORTS HOSSEGOR 40150 340 000 € - fnaim.fr",
+      "price": 340000,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 93,
+      "ges": "C",
+      "gesKg": 17,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "cuisine donnant sur une terrasse de 8m2 sans vis-à-vis",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 340000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40150-332",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53028704/17-acheter-appartement-soorts-hossegor-40150.htm",
+      "title": "Achat Appartement 3 pièce(s) 56 m² SOORTS HOSSEGOR 40150 430 000 € - fnaim.fr",
+      "price": 430000,
+      "surface": 56,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 288,
+      "ges": "C",
+      "gesKg": 11,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 750,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Terrasse Balcon Parking / Garage",
+      "condition": "travaux",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 430000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40150-333",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52642748/17-acheter-appartement-soorts-hossegor-40150.htm",
+      "title": "Achat Appartement 3 pièce(s) 59 m² SOORTS HOSSEGOR 40150 440 000 € - fnaim.fr",
+      "price": 440000,
+      "surface": 59,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "B",
+      "dpeKwh": 108,
+      "ges": "A",
+      "gesKg": 4,
+      "dpeDerived": false,
+      "parking": {
+        "count": null,
+        "type": "inconnu",
+        "detail": "Parking peut-être en option : à vérifier"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 817,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Terrasse Balcon Parking / Garage",
+      "condition": "excellent",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 440000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40150-334",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52558949/17-acheter-appartement-soorts-hossegor-40150.htm",
+      "title": "Achat Appartement 4 pièce(s) 50 m² SOORTS HOSSEGOR 40150 441 000 € - fnaim.fr",
+      "price": 441000,
+      "surface": 50,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 149,
+      "ges": "A",
+      "gesKg": 4,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "avec cuisine ouverte, un balcon avec une vue sur l'océan, une chambre et une",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 441000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40150-335",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52751357/17-acheter-appartement-soorts-hossegor-40150.htm",
+      "title": "Achat Appartement 3 pièce(s) 58 m² SOORTS HOSSEGOR 40150 449 000 € - fnaim.fr",
+      "price": 449000,
+      "surface": 58,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 193,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 800,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 449000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40150-336",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52390850/17-acheter-appartement-soorts-hossegor-40150.htm",
+      "title": "Achat Appartement 3 pièce(s) 56 m² SOORTS HOSSEGOR 40150 630 000 € - fnaim.fr",
+      "price": 630000,
+      "surface": 56,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 162,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "méricaine ouvert sur une terrasse, une chambre avec sa terrasse privative, une",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 630000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40150-337",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53204006/17-acheter-appartement-soorts-hossegor-40150.htm",
+      "title": "Achat Appartement 3 pièce(s) 62 m² SOORTS HOSSEGOR 40150 646 000 € - fnaim.fr",
+      "price": 646000,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 196,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Terrasse Ascenseur Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 646000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-52737070",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52737070/17-acheter-appartement-landes-40.htm",
+      "title": "Achat Appartement 3 pièce(s) 44 m² 195 000 € - fnaim.fr",
+      "price": 195000,
+      "surface": 44,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 228,
+      "ges": "B",
+      "gesKg": 8,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 195000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40510",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52851203/17-acheter-appartement-seignosse-40510.htm",
+      "title": "Achat Appartement 2 pièce(s) 44 m² SEIGNOSSE 40510 199 000 € - fnaim.fr",
+      "price": 199000,
+      "surface": 44,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 7,
+      "ges": "B",
+      "gesKg": 203,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Balcon",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Seignosse",
+      "postalCode": "40510",
+      "distanceKm": 23.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "lastChecked": "2026-10-26",
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 199000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }
   ]

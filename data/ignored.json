@@ -966,5 +966,317 @@
   "https://www.fnaim.fr/annonce-immobiliere/53098503/17-acheter-appartement-urrugne-64122.htm": {
     "reason": "surface 34 m² hors collecte",
     "date": "2026-10-26"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1295659750A1KIVHAP000": {
+    "reason": "déjà vendu / sous compromis",
+    "date": "2026-10-26"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1296688395A1KIVHAP000": {
+    "reason": "surface 88 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1293268639A1KIVHAP000": {
+    "reason": "surface 86 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1293268645A1KIVHAP000": {
+    "reason": "surface 103 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53045367/17-acheter-appartement-urrugne-64122.htm": {
+    "reason": "surface 129 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/51615560/17-acheter-appartement-hendaye-64700.htm": {
+    "reason": "surface 38 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52988398/17-acheter-appartement-hendaye-64700.htm": {
+    "reason": "surface 21.48 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53072087/17-acheter-appartement-hendaye-64700.htm": {
+    "reason": "surface 30 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52363818/17-acheter-appartement-hendaye-64700.htm": {
+    "reason": "surface 26 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53105567/17-acheter-appartement-hendaye-64700.htm": {
+    "reason": "surface 37 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53105558/17-acheter-appartement-hendaye-64700.htm": {
+    "reason": "surface 37 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52532722/17-acheter-appartement-hendaye-64700.htm": {
+    "reason": "surface 21 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53201267/17-acheter-appartement-hendaye-64700.htm": {
+    "reason": "surface 35 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53190835/17-acheter-appartement-hendaye-64700.htm": {
+    "reason": "surface 39 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52894258/17-acheter-appartement-hendaye-64700.htm": {
+    "reason": "surface 36 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52915714/17-acheter-appartement-hendaye-64700.htm": {
+    "reason": "surface 25 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52998094/17-acheter-appartement-hendaye-64700.htm": {
+    "reason": "surface 25 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52995250/17-acheter-appartement-hendaye-64700.htm": {
+    "reason": "surface 88 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53172102/17-acheter-appartement-pyrenees-atlantiques-64.htm": {
+    "reason": "commune non reconnue",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53192926/17-acheter-appartement-ustaritz-64480.htm": {
+    "reason": "surface 114 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53032605/17-acheter-appartement-ustaritz-64480.htm": {
+    "reason": "surface 115 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52829060/17-acheter-appartement-cambo-les-bains-64250.htm": {
+    "reason": "surface 34 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53023010/17-acheter-appartement-cambo-les-bains-64250.htm": {
+    "reason": "surface 111 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52804873/17-acheter-appartement-hasparren-64240.htm": {
+    "reason": "surface 22 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52778537/17-acheter-appartement-hasparren-64240.htm": {
+    "reason": "surface 38 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52782620/17-acheter-appartement-labenne-40530.htm": {
+    "reason": "surface 121 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53172091/17-acheter-appartement-landes-40.htm": {
+    "reason": "surface 104 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52728926/17-acheter-appartement-capbreton-40130.htm": {
+    "reason": "surface 16 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52724765/17-acheter-appartement-capbreton-40130.htm": {
+    "reason": "surface 17 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53094459/17-acheter-appartement-capbreton-40130.htm": {
+    "reason": "surface 24 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53045985/17-acheter-appartement-landes-40.htm": {
+    "reason": "surface 19 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52647183/17-acheter-appartement-capbreton-40130.htm": {
+    "reason": "surface 28 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53020792/17-acheter-appartement-capbreton-40130.htm": {
+    "reason": "surface 33 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53045765/17-acheter-appartement-capbreton-40130.htm": {
+    "reason": "surface 25 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52888490/17-acheter-appartement-capbreton-40130.htm": {
+    "reason": "surface 29 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53188264/17-acheter-appartement-landes-40.htm": {
+    "reason": "surface 25 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52955958/17-acheter-appartement-capbreton-40130.htm": {
+    "reason": "surface 26 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52933672/17-acheter-appartement-landes-40.htm": {
+    "reason": "déjà vendu / sous compromis",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53201285/17-acheter-appartement-capbreton-40130.htm": {
+    "reason": "surface 39 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53131654/17-acheter-appartement-capbreton-40130.htm": {
+    "reason": "surface 38 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53182556/17-acheter-appartement-capbreton-40130.htm": {
+    "reason": "surface 33 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53182773/17-acheter-appartement-capbreton-40130.htm": {
+    "reason": "surface 33 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53184813/17-acheter-appartement-soorts-hossegor-40150.htm": {
+    "reason": "surface 25 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53214392/17-acheter-appartement-soorts-hossegor-40150.htm": {
+    "reason": "surface 20 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52638978/17-acheter-appartement-soorts-hossegor-40150.htm": {
+    "reason": "surface 22 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53170685/17-acheter-appartement-landes-40.htm": {
+    "reason": "commune non reconnue",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53133822/17-acheter-appartement-landes-40.htm": {
+    "reason": "commune non reconnue",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52528828/17-acheter-appartement-soorts-hossegor-40150.htm": {
+    "reason": "surface 36 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53153456/17-acheter-appartement-landes-40.htm": {
+    "reason": "surface 34 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52422994/17-acheter-appartement-soorts-hossegor-40150.htm": {
+    "reason": "surface 36 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53140020/17-acheter-appartement-landes-40.htm": {
+    "reason": "commune non reconnue",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52968641/17-acheter-appartement-soorts-hossegor-40150.htm": {
+    "reason": "surface 37 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53064803/17-acheter-appartement-soorts-hossegor-40150.htm": {
+    "reason": "surface 38 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52002767/17-acheter-appartement-landes-40.htm": {
+    "reason": "déjà vendu / sous compromis",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53183202/17-acheter-appartement-soorts-hossegor-40150.htm": {
+    "reason": "surface 37 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52998090/17-acheter-appartement-soorts-hossegor-40150.htm": {
+    "reason": "surface 96 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52955541/17-acheter-appartement-landes-40.htm": {
+    "reason": "commune non reconnue",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52982289/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 27 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53001468/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 21 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52092322/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 32 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53198419/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 27 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53176743/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 28 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53176764/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 28 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53082885/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 33 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53082870/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 33 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52998116/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 36 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52926965/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 36 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52802111/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 32 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53117525/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 30 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53089675/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 30 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52998063/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 27 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52690095/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 27 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52880520/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 29 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52997947/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 33 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52701822/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 27 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/51854866/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 28 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53221237/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 34 m² hors collecte",
+    "date": "2026-10-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/52496485/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 34 m² hors collecte",
+    "date": "2026-10-26"
   }
 }
