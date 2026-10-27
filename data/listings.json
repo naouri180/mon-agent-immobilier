@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T10:51:25.474Z",
+  "updatedAt": "2026-10-27T15:57:59.438Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -6384,8 +6384,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6431,8 +6431,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6479,8 +6479,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6529,8 +6529,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6577,8 +6577,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6627,8 +6627,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6677,8 +6677,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6713,7 +6713,7 @@
         "uncertain": true
       },
       "floor": null,
-      "elevator": null,
+      "elevator": true,
       "charges": 639,
       "taxeFonciere": null,
       "exterior": "ente Appartement T2 avec balcon, proche gare et commerces Hendaye",
@@ -6727,8 +6727,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6777,8 +6777,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6826,8 +6826,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6875,8 +6875,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6929,8 +6929,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6978,8 +6978,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7026,8 +7026,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7075,8 +7075,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7124,8 +7124,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7173,8 +7173,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7221,8 +7221,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7269,8 +7269,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7317,8 +7317,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7366,8 +7366,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7413,8 +7413,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7462,8 +7462,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7511,8 +7511,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -17602,6 +17602,156 @@
       ],
       "weaknesses": [
         "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295018216",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295018216A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 67m2 à Capbreton (40130) - ParuVendu.fr ref 992790173602",
+      "price": 535000,
+      "surface": 67,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": null,
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "ques Prestations et BEAU Jardin Capbreton",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
+      "priceHistory": [
+        {
+          "date": "2026-10-27",
+          "price": 535000
+        }
+      ],
+      "weaknesses": [
+        "DPE non trouvé dans l’annonce",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295018218",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295018218A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 59m2 à Capbreton (40130) - ParuVendu.fr ref 992790173604",
+      "price": 495000,
+      "surface": 59,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": null,
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking et climatisation bel emplacement à capbreton capbreton"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "ente Appartement T3 avec Balcon, PARKING et CLIMATISATION bel emplacement à",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
+      "priceHistory": [
+        {
+          "date": "2026-10-27",
+          "price": 495000
+        }
+      ],
+      "weaknesses": [
+        "DPE non trouvé dans l’annonce",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295018217",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295018217A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 41m2 à Capbreton (40130) - ParuVendu.fr ref 992790173603",
+      "price": 333000,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": null,
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking capbreton"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
+      "priceHistory": [
+        {
+          "date": "2026-10-27",
+          "price": 333000
+        }
+      ],
+      "weaknesses": [
+        "DPE non trouvé dans l’annonce",
+        "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
