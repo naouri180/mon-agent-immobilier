@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T16:02:49.733Z",
+  "updatedAt": "2026-10-29T05:55:32.524Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -41,8 +41,8 @@
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "publishedOrUpdated": "2026-10-24",
       "priceHistory": [
         {
@@ -150,7 +150,13 @@
       ],
       "postalCode": "64100",
       "distanceKm": 0,
-      "lastCheckProblem": "accès refusé par le site"
+      "lastCheckProblem": "accès refusé par le site",
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1286804779A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
+      ]
     },
     {
       "id": "foncia-00828770",
@@ -385,8 +391,8 @@
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -429,8 +435,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -478,8 +484,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -538,8 +544,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -588,8 +594,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -636,8 +642,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -684,8 +690,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4012,6 +4018,12 @@
         "Nature du parking non précisée",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1296794598A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -10176,7 +10188,8 @@
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ],
       "altUrls": [
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268612A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268612A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268626A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -10444,7 +10457,9 @@
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ],
       "altUrls": [
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268606A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268606A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268602A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1293268608A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -11217,8 +11232,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11267,8 +11282,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11315,8 +11330,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11364,8 +11379,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11413,8 +11428,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11462,8 +11477,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11513,8 +11528,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11571,8 +11586,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11619,8 +11634,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11637,7 +11652,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/52978719/17-acheter-appartement-anglet-64600.htm",
       "title": "Achat Appartement 2 pièce(s) 55 m² ANGLET 64600 252 000 € - fnaim.fr",
-      "price": 252000,
+      "price": 123100,
       "surface": 55,
       "surfaceCarrez": null,
       "rooms": 2,
@@ -11667,12 +11682,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
           "price": 252000
+        },
+        {
+          "date": "2026-10-29",
+          "price": 123100
         }
       ],
       "weaknesses": [
@@ -11716,8 +11735,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11764,8 +11783,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11811,8 +11830,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11856,7 +11875,7 @@
       "city": "Anglet",
       "postalCode": "64600",
       "distanceKm": 3.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
@@ -11870,7 +11889,8 @@
       "weaknesses": [
         "Nature du parking non précisée",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-10-29"
     },
     {
       "id": "fnaim-53208834",
@@ -11907,8 +11927,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11954,8 +11974,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -18925,6 +18945,103 @@
       "weaknesses": [
         "Nature du parking non précisée",
         "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1287488333",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1287488333A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 80m2 à Bayonne (64100) - ParuVendu.fr ref 992784121924",
+      "price": 469000,
+      "surface": 80,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 71,
+      "ges": "C",
+      "gesKg": 13,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "couvert",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 972,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
+      "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 469000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64100-378",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53226677/17-acheter-appartement-bayonne-64100.htm",
+      "title": "Achat Appartement 2 pièce(s) 43 m² BAYONNE 64100 189 000 € - fnaim.fr",
+      "price": 189000,
+      "surface": 43,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 88,
+      "ges": "C",
+      "gesKg": 15,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Terrasse Ascenseur Parking / Garage",
+      "condition": "inconnu",
+      "year": 2019,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
+      "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 189000
+        }
+      ],
+      "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
