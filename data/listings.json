@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T10:56:37.845Z",
+  "updatedAt": "2026-10-30T16:00:08.885Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -11958,6 +11958,12 @@
       ],
       "weaknesses": [
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53208834/17-acheter-appartement-pyrenees-atlantiques-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -12007,6 +12013,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53161718/17-acheter-appartement-pyrenees-atlantiques-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -12696,6 +12708,12 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/52828429/17-acheter-appartement-pyrenees-atlantiques-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -12900,6 +12918,12 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53132137/17-acheter-appartement-landes-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -13004,6 +13028,12 @@
       "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53149934/17-acheter-appartement-pyrenees-atlantiques-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -13465,6 +13495,12 @@
         "Parking non confirmé",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53133285/17-acheter-appartement-pyrenees-atlantiques-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -13657,8 +13693,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -13670,6 +13706,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53139079/17-acheter-appartement-pyrenees-atlantiques-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -13707,8 +13749,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -13758,8 +13800,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -13771,6 +13813,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53219294/17-acheter-appartement-pyrenees-atlantiques-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -13809,8 +13857,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -13828,7 +13876,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/52997983/17-acheter-appartement-ciboure-64500.htm",
       "title": "Achat Appartement 4 pièce(s) 83 m² CIBOURE 64500 398 000 € - fnaim.fr",
-      "price": 398000,
+      "price": 124000,
       "surface": 83,
       "surfaceCarrez": null,
       "rooms": 4,
@@ -13843,13 +13891,13 @@
         "type": "garage",
         "detail": "parking"
       },
-      "floor": null,
+      "floor": "2ème étage",
       "elevator": true,
       "charges": 1600,
       "taxeFonciere": null,
       "exterior": "3 chambres Balcon Parking / Garage",
       "condition": "inconnu",
-      "year": null,
+      "year": 1975,
       "procedure": false,
       "quartier": null,
       "city": "Ciboure",
@@ -13858,12 +13906,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
           "price": 398000
+        },
+        {
+          "date": "2026-10-30",
+          "price": 124000
         }
       ],
       "weaknesses": [
@@ -13912,8 +13964,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -13968,8 +14020,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14016,8 +14068,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14029,6 +14081,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53205859/17-acheter-appartement-pyrenees-atlantiques-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -14066,8 +14124,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14122,8 +14180,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14171,8 +14229,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14218,8 +14276,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14267,8 +14325,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14316,8 +14374,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14336,7 +14394,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/53033804/17-acheter-appartement-urrugne-64122.htm",
       "title": "Achat Appartement 4 pièce(s) 70 m² URRUGNE 64122 259 000 € - fnaim.fr",
-      "price": 259000,
+      "price": 130000,
       "surface": 70,
       "surfaceCarrez": null,
       "rooms": 4,
@@ -14357,7 +14415,7 @@
       "taxeFonciere": null,
       "exterior": "Terrasse : Non",
       "condition": "inconnu",
-      "year": null,
+      "year": 2019,
       "procedure": false,
       "quartier": null,
       "city": "Urrugne",
@@ -14366,12 +14424,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
           "price": 259000
+        },
+        {
+          "date": "2026-10-30",
+          "price": 130000
         }
       ],
       "weaknesses": [
@@ -14420,8 +14482,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14469,8 +14531,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14519,8 +14581,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14568,8 +14630,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14614,7 +14676,7 @@
       "city": "Soorts-Hossegor",
       "postalCode": "40150",
       "distanceKm": 20.1,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-26",
@@ -14632,11 +14694,13 @@
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ],
       "altUrls": [
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1296706649A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1296706649A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1296858014A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-10-30"
     },
     {
       "id": "fnaim-64122-290",
@@ -14673,8 +14737,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14722,8 +14786,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14734,6 +14798,12 @@
         "Nature du parking non précisée",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53152261/17-acheter-appartement-pyrenees-atlantiques-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -14772,8 +14842,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14827,8 +14897,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15544,6 +15614,12 @@
         "Parking non confirmé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/52908126/17-acheter-appartement-pyrenees-atlantiques-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -15594,6 +15670,12 @@
         "Parking non confirmé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53117901/17-acheter-appartement-pyrenees-atlantiques-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -15692,6 +15774,12 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/52803303/17-acheter-appartement-pyrenees-atlantiques-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -15740,6 +15828,12 @@
       "weaknesses": [
         "Nature du parking non précisée",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53199436/17-acheter-appartement-pyrenees-atlantiques-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -15839,6 +15933,12 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53132393/17-acheter-appartement-pyrenees-atlantiques-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -15886,6 +15986,12 @@
       ],
       "weaknesses": [
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53179348/17-acheter-appartement-pyrenees-atlantiques-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -15933,6 +16039,12 @@
       ],
       "weaknesses": [
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/51967361/17-acheter-appartement-landes-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -16330,6 +16442,12 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/52824465/17-acheter-appartement-landes-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -17078,6 +17196,12 @@
         "Parking non confirmé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/52737070/17-acheter-appartement-landes-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -18536,6 +18660,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/51602932/17-acheter-appartement-pyrenees-atlantiques-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -19375,7 +19505,8 @@
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ],
       "altUrls": [
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1296843184A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1296843184A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1296856344A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -19970,6 +20101,12 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1295799859A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -20120,6 +20257,107 @@
         "Procédure en cours dans la copropriété",
         "Prix au m² élevé",
         "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296857912",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296857912A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Soorts hossegor (40150) - ParuVendu.fr ref 992791732128",
+      "price": 329000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": 45,
+      "ges": "A",
+      "gesKg": 3,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "rts-Hossegor : 2 pièces, jardin Soorts hossegor",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
+      "priceHistory": [
+        {
+          "date": "2026-10-30",
+          "price": 329000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296857685",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296857685A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 82m2 à Seignosse (40510) - ParuVendu.fr ref 992791731904",
+      "price": 459900,
+      "surface": 82,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": null,
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - seignosse seignosse"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "62m² + UNE TERRASSE + PARKING - SEIGNOSSE Seignosse",
+      "condition": "neuf",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Seignosse",
+      "postalCode": "40510",
+      "distanceKm": 23.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
+      "priceHistory": [
+        {
+          "date": "2026-10-30",
+          "price": 459900
+        }
+      ],
+      "weaknesses": [
+        "DPE non trouvé dans l’annonce",
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }
