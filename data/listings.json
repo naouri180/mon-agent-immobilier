@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T10:47:42.887Z",
+  "updatedAt": "2026-10-31T15:46:53.757Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -140,8 +140,8 @@
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -150,7 +150,6 @@
       ],
       "postalCode": "64100",
       "distanceKm": 0,
-      "lastCheckProblem": "accès refusé par le site",
       "altUrls": [
         "https://www.paruvendu.fr/immobilier/vente/appartement/1286804779A1KIVHAP000"
       ],
@@ -4014,8 +4013,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4070,8 +4069,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4119,8 +4118,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4167,8 +4166,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4194,7 +4193,7 @@
       "source": "ParuVendu",
       "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291134398A1KIVHAP000",
       "title": "Annonce vente appartement 4 pièces de 84m2 à Biarritz (64200) - ParuVendu.fr ref 992786802163",
-      "price": 589000,
+      "price": 585000,
       "surface": 84,
       "surfaceCarrez": null,
       "rooms": 4,
@@ -4224,12 +4223,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
           "price": 589000
+        },
+        {
+          "date": "2026-10-31",
+          "price": 585000
         }
       ],
       "weaknesses": [
@@ -4274,8 +4277,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4325,8 +4328,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4375,8 +4378,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4425,8 +4428,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4480,8 +4483,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4529,8 +4532,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4579,8 +4582,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4629,8 +4632,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4678,8 +4681,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4727,8 +4730,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4775,7 +4778,7 @@
       "city": "Bidart",
       "postalCode": "64210",
       "distanceKm": 11.2,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-27",
@@ -4797,7 +4800,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-10-31"
     },
     {
       "id": "paruvendu-1293020908",
@@ -4835,8 +4839,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4884,8 +4888,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4935,8 +4939,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4985,8 +4989,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5042,8 +5046,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5093,8 +5097,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5143,8 +5147,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5192,8 +5196,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -20694,6 +20698,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1296885968A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -20989,6 +20999,54 @@
       ],
       "weaknesses": [
         "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296887686",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296887686A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 52m2 à Ustaritz (64480) - ParuVendu.fr ref 992791758259",
+      "price": 189000,
+      "surface": 52,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "B",
+      "dpeKwh": 86,
+      "ges": "A",
+      "gesKg": 2,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking terrasse et véranda ustaritz"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "ièces USTARITZ (64) avec jardin et parking terrasse et véranda Ustaritz",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ustaritz",
+      "postalCode": "64480",
+      "distanceKm": 10.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
+      "priceHistory": [
+        {
+          "date": "2026-10-31",
+          "price": 189000
+        }
+      ],
+      "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
