@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T16:00:08.885Z",
+  "updatedAt": "2026-10-31T05:53:03.379Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -14946,8 +14946,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14971,7 +14971,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/53102254/17-acheter-appartement-hendaye-64700.htm",
       "title": "Achat Appartement 2 pièce(s) 41 m² HENDAYE 64700 220 000 € - fnaim.fr",
-      "price": 220000,
+      "price": 145000,
       "surface": 41,
       "surfaceCarrez": null,
       "rooms": 2,
@@ -15001,12 +15001,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
           "price": 220000
+        },
+        {
+          "date": "2026-10-31",
+          "price": 145000
         }
       ],
       "weaknesses": [
@@ -15051,8 +15055,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15101,8 +15105,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15151,8 +15155,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15169,7 +15173,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/52713454/17-acheter-appartement-hendaye-64700.htm",
       "title": "Achat Appartement 3 pièce(s) 56 m² HENDAYE 64700 240 000 € - fnaim.fr",
-      "price": 240000,
+      "price": 237000,
       "surface": 56,
       "surfaceCarrez": null,
       "rooms": 3,
@@ -15199,12 +15203,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
           "price": 240000
+        },
+        {
+          "date": "2026-10-31",
+          "price": 237000
         }
       ],
       "weaknesses": [
@@ -15248,8 +15256,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15297,8 +15305,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15347,8 +15355,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15395,8 +15403,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15450,8 +15458,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15501,7 +15509,7 @@
       "city": "Cambo-les-Bains",
       "postalCode": "64250",
       "distanceKm": 16,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-26",
@@ -15516,7 +15524,8 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-10-31"
     },
     {
       "id": "fnaim-64250",
@@ -15553,8 +15562,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15602,8 +15611,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15658,8 +15667,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15713,8 +15722,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15762,8 +15771,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15817,8 +15826,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15872,8 +15881,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15921,8 +15930,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15976,8 +15985,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16029,8 +16038,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16082,8 +16091,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16130,8 +16139,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -19854,6 +19863,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53230039/17-acheter-appartement-boucau-64340.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -20358,6 +20373,251 @@
         "DPE non trouvé dans l’annonce",
         "Nature du parking non précisée",
         "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1290348997",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1290348997A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 51m2 à Bayonne (64100) - ParuVendu.fr ref 992786310429",
+      "price": 234000,
+      "surface": 51,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 123,
+      "ges": "C",
+      "gesKg": 140,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 500,
+      "taxeFonciere": null,
+      "exterior": "rtement BYONNE - T2 avec terrasse Bayonne",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
+      "priceHistory": [
+        {
+          "date": "2026-10-31",
+          "price": 234000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1288501466",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1288501466A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 64m2 à Bayonne (64100) - ParuVendu.fr ref 992784899018",
+      "price": 259000,
+      "surface": 64,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "B",
+      "dpeKwh": 85,
+      "ges": "A",
+      "gesKg": 3,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 1200,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": 2014,
+      "procedure": false,
+      "quartier": "Belharra",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
+      "priceHistory": [
+        {
+          "date": "2026-10-31",
+          "price": 259000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294287648",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294287648A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 63m2 à Bayonne (64100) - ParuVendu.fr ref 992789630480",
+      "price": 279000,
+      "surface": 63,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 99,
+      "ges": "C",
+      "gesKg": 20,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 1561,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "excellent",
+      "year": null,
+      "procedure": false,
+      "quartier": "Grand Bayonne",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
+      "priceHistory": [
+        {
+          "date": "2026-10-31",
+          "price": 279000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296861574",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296861574A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 54m2 à Boucau (64340) - ParuVendu.fr ref 992791734988",
+      "price": 239500,
+      "surface": 54,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 152,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1187,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Boucau",
+      "postalCode": "64340",
+      "distanceKm": 3.6,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
+      "priceHistory": [
+        {
+          "date": "2026-10-31",
+          "price": 239500
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1292881303",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1292881303A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 67m2 à Saint jean de luz (64500) - ParuVendu.fr ref 992788496580",
+      "price": 595000,
+      "surface": 67,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 121,
+      "ges": "A",
+      "gesKg": 3,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1200,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
+      "priceHistory": [
+        {
+          "date": "2026-10-31",
+          "price": 595000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }
