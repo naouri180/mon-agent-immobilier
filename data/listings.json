@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T15:46:53.757Z",
+  "updatedAt": "2026-11-01T05:56:05.884Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -302,10 +302,12 @@
       "lastCheckProblem": "accès refusé par le site",
       "altUrls": [
         "https://www.fnaim.fr/annonce-immobiliere/52838491/17-acheter-appartement-ondres-40440.htm",
-        "https://www.fnaim.fr/annonce-immobiliere/53227920/17-acheter-appartement-ondres-40440.htm"
+        "https://www.fnaim.fr/annonce-immobiliere/53227920/17-acheter-appartement-ondres-40440.htm",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1291596822A1KIVHAP000"
       ],
       "duplicates": [
-        "fnaim.fr"
+        "fnaim.fr",
+        "paruvendu.fr"
       ]
     },
     {
@@ -5246,8 +5248,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5294,8 +5296,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5343,8 +5345,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5391,7 +5393,7 @@
       "city": "Saint-Jean-de-Luz",
       "postalCode": "64500",
       "distanceKm": 19.2,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-27",
@@ -5417,7 +5419,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-01"
     },
     {
       "id": "paruvendu-1295927380",
@@ -5454,8 +5457,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5509,8 +5512,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5560,8 +5563,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5611,8 +5614,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5659,7 +5662,7 @@
       "city": "Ciboure",
       "postalCode": "64500",
       "distanceKm": 19.7,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-27",
@@ -5683,7 +5686,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-01"
     },
     {
       "id": "paruvendu-1294581878",
@@ -5721,8 +5725,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5769,8 +5773,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5824,8 +5828,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5881,8 +5885,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5931,8 +5935,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5981,8 +5985,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6017,7 +6021,7 @@
         "detail": "parking"
       },
       "floor": null,
-      "elevator": null,
+      "elevator": true,
       "charges": 960,
       "taxeFonciere": null,
       "exterior": "RE – APPARTEMENT T2 AVEC TERRASSE EXCEPTIONNELLE À CIBOURE Ciboure",
@@ -6031,8 +6035,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6080,8 +6084,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6132,8 +6136,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6189,8 +6193,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6239,8 +6243,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6290,8 +6294,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6337,8 +6341,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6386,8 +6390,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6432,7 +6436,7 @@
       "city": "Urrugne",
       "postalCode": "64122",
       "distanceKm": 23.2,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-27",
@@ -6445,7 +6449,8 @@
       ],
       "weaknesses": [
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-01"
     },
     {
       "id": "paruvendu-1288341359",
@@ -6479,7 +6484,7 @@
       "city": "Hendaye",
       "postalCode": "64700",
       "distanceKm": 28.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-27",
@@ -6493,7 +6498,8 @@
       "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-01"
     },
     {
       "id": "paruvendu-1295574778",
@@ -19385,6 +19391,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1294925813A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -21048,6 +21060,400 @@
       ],
       "weaknesses": [
         "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295810267",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295810267A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 72m2 à Bayonne (64100) - ParuVendu.fr ref 992790834725",
+      "price": 259000,
+      "surface": 72,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 123,
+      "ges": "C",
+      "gesKg": 26,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "garage",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 2844,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": "Marracq",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
+      "priceHistory": [
+        {
+          "date": "2026-11-01",
+          "price": 259000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Charges élevées",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295809973",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295809973A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 62m2 à Bayonne (64100) - ParuVendu.fr ref 992790834444",
+      "price": 218000,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 212,
+      "ges": "B",
+      "gesKg": 8,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "stationnement aisé au sein de la résidence sécurisée"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 1612,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": "Saint-Esprit",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
+      "priceHistory": [
+        {
+          "date": "2026-11-01",
+          "price": 218000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296128240",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296128240A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 50m2 à Bayonne (64100) - ParuVendu.fr ref 992791097263",
+      "price": 178700,
+      "surface": 50,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Jardin / Terrain",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
+      "priceHistory": [
+        {
+          "date": "2026-11-01",
+          "price": 178700
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293091204",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293091204A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 50m2 à Bayonne (64100) - ParuVendu.fr ref 992788675519",
+      "price": 261000,
+      "surface": 50,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 275,
+      "ges": "B",
+      "gesKg": 10,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "1er étage",
+      "elevator": null,
+      "charges": 1250,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
+      "priceHistory": [
+        {
+          "date": "2026-11-01",
+          "price": 261000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296887477",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296887477A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 49m2 à Anglet (64600) - ParuVendu.fr ref 992791758171",
+      "price": 355000,
+      "surface": 49,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "un stationnement sécurisé dans une résidence avec commerces en pied d'immeub"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
+      "priceHistory": [
+        {
+          "date": "2026-11-01",
+          "price": 355000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294420398",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294420398A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 49m2 à Anglet (64600) - ParuVendu.fr ref 992789745409",
+      "price": 295000,
+      "surface": 49,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 91,
+      "ges": "C",
+      "gesKg": 17,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "2e étage",
+      "elevator": true,
+      "charges": 1268,
+      "taxeFonciere": null,
+      "exterior": "5 Cantons - T2 49m2 - 2 Balcons - ascenseur Anglet",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
+      "priceHistory": [
+        {
+          "date": "2026-11-01",
+          "price": 295000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295948910",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295948910A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 48m2 à Biarritz (64200) - ParuVendu.fr ref 992790945751",
+      "price": 370000,
+      "surface": 48,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 175,
+      "ges": "D",
+      "gesKg": 37,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking boxable et cave biarritz"
+      },
+      "floor": "3 ème étage",
+      "elevator": true,
+      "charges": 1800,
+      "taxeFonciere": null,
+      "exterior": "Balcon",
+      "condition": "inconnu",
+      "year": 1975,
+      "procedure": null,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
+      "priceHistory": [
+        {
+          "date": "2026-11-01",
+          "price": 370000
+        }
+      ],
+      "weaknesses": [
+        "Charges élevées",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64100-422",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52744590/17-acheter-appartement-bayonne-64100.htm",
+      "title": "Achat Appartement 2 pièce(s) 41 m² BAYONNE 64100 165 000 € - fnaim.fr",
+      "price": 165000,
+      "surface": 41,
+      "surfaceCarrez": 41.35,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 186,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": "6e étage",
+      "elevator": true,
+      "charges": 985,
+      "taxeFonciere": 862,
+      "exterior": "1 chambre Terrasse Ascenseur Parking / Garage",
+      "condition": "excellent",
+      "year": 2010,
+      "procedure": false,
+      "quartier": "Belharra",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
+      "priceHistory": [
+        {
+          "date": "2026-11-01",
+          "price": 165000
+        }
+      ],
+      "weaknesses": [
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }
