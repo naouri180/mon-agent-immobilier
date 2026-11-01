@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T05:56:05.884Z",
+  "updatedAt": "2026-11-01T10:51:23.605Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -6536,8 +6536,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6586,8 +6586,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6634,8 +6634,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6656,7 +6656,7 @@
       "title": "Annonce vente appartement 4 pièces de 70m2 à Hendaye (64700) - ParuVendu.fr ref 992791394787",
       "price": 259900,
       "surface": 70,
-      "surfaceCarrez": null,
+      "surfaceCarrez": 69.94,
       "rooms": 4,
       "bedrooms": 3,
       "dpe": "G",
@@ -6673,7 +6673,7 @@
       "elevator": null,
       "charges": null,
       "taxeFonciere": null,
-      "exterior": null,
+      "exterior": "Balcon / Terrasse",
       "condition": "inconnu",
       "year": null,
       "procedure": false,
@@ -6684,8 +6684,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6734,8 +6734,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6784,8 +6784,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6834,8 +6834,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6883,8 +6883,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6932,8 +6932,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6986,8 +6986,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7035,8 +7035,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7083,8 +7083,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7132,8 +7132,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7181,8 +7181,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7230,8 +7230,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7278,8 +7278,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7326,8 +7326,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7374,8 +7374,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7423,8 +7423,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7470,8 +7470,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7519,8 +7519,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7565,7 +7565,7 @@
       "city": "Cambo-les-Bains",
       "postalCode": "64250",
       "distanceKm": 16,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-27",
@@ -7580,7 +7580,8 @@
         "Parking non confirmé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-01"
     },
     {
       "id": "paruvendu-1292598005",
@@ -17375,8 +17376,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-27",
@@ -17425,8 +17426,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-27",
@@ -17474,8 +17475,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "priceHistory": [
         {
           "date": "2026-10-27",
@@ -21454,6 +21455,106 @@
         }
       ],
       "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296903474",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296903474A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Biarritz (64200) | 695 000 € | 3 pièces | 67 m² - ParuVendu.fr ref 992791771899",
+      "price": 695000,
+      "surface": 67,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 124,
+      "ges": "A",
+      "gesKg": 4,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1992,
+      "taxeFonciere": 1175,
+      "exterior": "Biarritz centre, T3 avec terrasse Biarritz",
+      "condition": "bon",
+      "year": 2014,
+      "procedure": false,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
+      "priceHistory": [
+        {
+          "date": "2026-11-01",
+          "price": 695000
+        }
+      ],
+      "weaknesses": [
+        "Charges élevées",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1288079579",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1288079579A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 57m2 à Biarritz (64200) - ParuVendu.fr ref 992784570175",
+      "price": 322000,
+      "surface": 57,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 223,
+      "ges": "B",
+      "gesKg": 8,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 720,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
+      "priceHistory": [
+        {
+          "date": "2026-11-01",
+          "price": 322000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }
