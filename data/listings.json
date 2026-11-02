@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T15:47:30.958Z",
+  "updatedAt": "2026-11-02T06:15:18.359Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -8352,8 +8352,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8401,8 +8401,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8450,8 +8450,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8499,8 +8499,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8548,8 +8548,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8602,8 +8602,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8649,8 +8649,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8697,8 +8697,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8747,8 +8747,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8794,7 +8794,7 @@
       "city": "Capbreton",
       "postalCode": "40130",
       "distanceKm": 16.9,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-28",
@@ -8818,7 +8818,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-02"
     },
     {
       "id": "paruvendu-1290439891",
@@ -8855,8 +8856,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8905,8 +8906,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8954,8 +8955,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9003,8 +9004,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9058,8 +9059,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9108,8 +9109,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9157,8 +9158,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9205,8 +9206,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9254,8 +9255,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9303,8 +9304,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9352,8 +9353,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9402,8 +9403,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9452,8 +9453,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9501,8 +9502,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9558,8 +9559,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -21666,6 +21667,104 @@
         }
       ],
       "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296932099",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296932099A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 66m2 à Bayonne (64100) - ParuVendu.fr ref 992791794552",
+      "price": 365000,
+      "surface": 66,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 84,
+      "ges": "D",
+      "gesKg": 16,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "double stationnement bayonne"
+      },
+      "floor": "DERNIER ÉTAGE",
+      "elevator": true,
+      "charges": 1680,
+      "taxeFonciere": 1500,
+      "exterior": "M² AU DERNIER ÉTAGE AVEC TERRASSE EXCEPTIONNELLE DE 103 M² ET DOUBLE STATIONNE",
+      "condition": "excellent",
+      "year": 2015,
+      "procedure": true,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
+      "priceHistory": [
+        {
+          "date": "2026-11-02",
+          "price": 365000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294937319",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294937319A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Anglet (64600) - ParuVendu.fr ref 992790103062",
+      "price": 230000,
+      "surface": 45,
+      "surfaceCarrez": 45.23,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 128,
+      "ges": "A",
+      "gesKg": 4,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
+      "priceHistory": [
+        {
+          "date": "2026-11-02",
+          "price": 230000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }
