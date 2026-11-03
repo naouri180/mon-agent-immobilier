@@ -1818,5 +1818,33 @@
   "https://www.fnaim.fr/annonce-immobiliere/53095792/17-acheter-appartement-pyrenees-atlantiques-64.htm": {
     "reason": "commune non reconnue",
     "date": "2026-11-03"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1295841392A1KIVHAP000": {
+    "reason": "surface 93 m² hors collecte",
+    "date": "2026-11-03"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1291778473A1KIVHAP000": {
+    "reason": "surface 88 m² hors collecte",
+    "date": "2026-11-03"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1291821672A1KIVHAP000": {
+    "reason": "surface 108 m² hors collecte",
+    "date": "2026-11-03"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1295909990A1KIVHAP000": {
+    "reason": "déjà vendu / sous compromis",
+    "date": "2026-11-03"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1296971897A1KIVHAP000": {
+    "reason": "surface 21 m² hors collecte",
+    "date": "2026-11-03"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53233383/17-acheter-appartement-ciboure-64500.htm": {
+    "reason": "surface 26 m² hors collecte",
+    "date": "2026-11-03"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53233421/17-acheter-appartement-seignosse-40510.htm": {
+    "reason": "surface 27 m² hors collecte",
+    "date": "2026-11-03"
   }
 }
