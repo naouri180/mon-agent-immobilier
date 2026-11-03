@@ -1,7 +1,7 @@
 {
-  "lastRun": "2026-11-03T11:06:00.871Z",
+  "lastRun": "2026-11-03T16:02:58.250Z",
   "mode": "search",
-  "message": "6 nouvelle(s) annonce(s), 0 baisse(s) de prix, 0 retirée(s). 25 annonce(s) revérifiée(s), 2 source(s) bloquée(s).",
+  "message": "5 nouvelle(s) annonce(s), 0 baisse(s) de prix, 4 retirée(s). 21 annonce(s) revérifiée(s), 2 source(s) bloquée(s).",
   "sources": [
     {
       "name": "Foncia",
@@ -9,7 +9,7 @@
     },
     {
       "name": "ParuVendu",
-      "result": "359 annonce(s) listée(s)"
+      "result": "361 annonce(s) listée(s)"
     },
     {
       "name": "FNAIM",
@@ -22,11 +22,11 @@
   ],
   "stats": {
     "pagesFetched": 91,
-    "new": 6,
+    "new": 5,
     "priceDrops": 0,
-    "removed": 0,
-    "duplicates": 0,
-    "rejected": 7,
-    "rechecked": 25
+    "removed": 4,
+    "duplicates": 2,
+    "rejected": 6,
+    "rechecked": 21
   }
 }
