@@ -1806,5 +1806,17 @@
   "https://www.paruvendu.fr/immobilier/vente/appartement/1296944029A1KIVHAP000": {
     "reason": "surface 110 m² hors collecte",
     "date": "2026-11-02"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1292975311A1KIVHAP000": {
+    "reason": "surface 144 m² hors collecte",
+    "date": "2026-11-03"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1296914217A1KIVHAP000": {
+    "reason": "surface 115 m² hors collecte",
+    "date": "2026-11-03"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53095792/17-acheter-appartement-pyrenees-atlantiques-64.htm": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-03"
   }
 }
