@@ -1870,5 +1870,33 @@
   "https://www.fnaim.fr/annonce-immobiliere/53233673/17-acheter-appartement-bayonne-64100.htm": {
     "reason": "surface 36 m² hors collecte",
     "date": "2026-11-03"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1293504903A1KIVHAP000": {
+    "reason": "surface 33 m² hors collecte",
+    "date": "2026-11-04"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1296992950A1KIVHAP000": {
+    "reason": "surface 115 m² hors collecte",
+    "date": "2026-11-04"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297008740A1KIVHAP000": {
+    "reason": "surface 27 m² hors collecte",
+    "date": "2026-11-04"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53234733/17-acheter-appartement-pyrenees-atlantiques-64.htm": {
+    "reason": "surface 25 m² hors collecte",
+    "date": "2026-11-04"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53234618/17-acheter-appartement-boucau-64340.htm": {
+    "reason": "surface 34 m² hors collecte",
+    "date": "2026-11-04"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53234633/17-acheter-appartement-ciboure-64500.htm": {
+    "reason": "surface 30 m² hors collecte",
+    "date": "2026-11-04"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53234619/17-acheter-appartement-ciboure-64500.htm": {
+    "reason": "surface 30 m² hors collecte",
+    "date": "2026-11-04"
   }
 }
