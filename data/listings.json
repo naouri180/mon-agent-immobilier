@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T06:13:06.885Z",
+  "updatedAt": "2026-11-05T11:15:54.144Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -4085,8 +4085,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4134,8 +4134,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4182,8 +4182,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4239,8 +4239,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4293,8 +4293,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4344,8 +4344,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4394,8 +4394,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4444,8 +4444,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4499,8 +4499,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4548,8 +4548,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4598,8 +4598,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4648,8 +4648,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4667,7 +4667,7 @@
       "source": "ParuVendu",
       "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294959469A1KIVHAP000",
       "title": "Annonce vente appartement 2 pièces de 67m2 à Bidart (64210) - ParuVendu.fr ref 992790122657",
-      "price": 295000,
+      "price": 284000,
       "surface": 67,
       "surfaceCarrez": null,
       "rooms": 2,
@@ -4697,12 +4697,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
           "price": 295000
+        },
+        {
+          "date": "2026-11-05",
+          "price": 284000
         }
       ],
       "weaknesses": [
@@ -4746,8 +4750,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4855,8 +4859,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4904,8 +4908,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4955,8 +4959,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5005,8 +5009,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5062,8 +5066,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5113,8 +5117,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5163,8 +5167,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5212,8 +5216,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -15024,8 +15028,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15049,7 +15053,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/53102254/17-acheter-appartement-hendaye-64700.htm",
       "title": "Achat Appartement 2 pièce(s) 41 m² HENDAYE 64700 220 000 € - fnaim.fr",
-      "price": 145000,
+      "price": 145500,
       "surface": 41,
       "surfaceCarrez": null,
       "rooms": 2,
@@ -15079,8 +15083,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15089,6 +15093,10 @@
         {
           "date": "2026-10-31",
           "price": 145000
+        },
+        {
+          "date": "2026-11-05",
+          "price": 145500
         }
       ],
       "weaknesses": [
@@ -24438,6 +24446,208 @@
         }
       ],
       "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297049554",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297049554A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Bayonne (64100) - ParuVendu.fr ref 992791898403",
+      "price": 191000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 147,
+      "ges": "A",
+      "gesKg": 4,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 300,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": "Petit Bayonne",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
+      "priceHistory": [
+        {
+          "date": "2026-11-05",
+          "price": 191000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297045695",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297045695A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 75m2 à Bayonne (64100) - ParuVendu.fr ref 992791894784",
+      "price": 315000,
+      "surface": 75,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 200,
+      "ges": "B",
+      "gesKg": 9,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "2e et dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse",
+      "condition": "rafraichir",
+      "year": null,
+      "procedure": true,
+      "quartier": "Saint-Bernard",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
+      "priceHistory": [
+        {
+          "date": "2026-11-05",
+          "price": 315000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Procédure en cours dans la copropriété",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297061749",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297061749A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Soorts hossegor (40150) - ParuVendu.fr ref 992791909537",
+      "price": 329000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": 45,
+      "ges": "A",
+      "gesKg": 3,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "rts-Hossegor : 2 pièces, jardin Soorts hossegor",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
+      "priceHistory": [
+        {
+          "date": "2026-11-05",
+          "price": 329000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297061867",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297061867A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 51m2 à Soorts hossegor (40150) - ParuVendu.fr ref 992791909653",
+      "price": 392000,
+      "surface": 51,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 45,
+      "ges": "A",
+      "gesKg": 3,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "rts-Hossegor : 3 pièces, terrasse Soorts hossegor",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
+      "priceHistory": [
+        {
+          "date": "2026-11-05",
+          "price": 392000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
