@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:15:54.144Z",
+  "updatedAt": "2026-11-05T16:17:42.126Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -15141,8 +15141,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15191,8 +15191,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15241,8 +15241,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15289,8 +15289,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15342,8 +15342,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15391,8 +15391,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15441,8 +15441,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15489,8 +15489,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15544,8 +15544,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15648,8 +15648,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15697,8 +15697,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15753,8 +15753,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15778,7 +15778,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/52734407/17-acheter-appartement-hasparren-64240.htm",
       "title": "Achat Appartement 2 pièce(s) 42 m² HASPARREN 64240 145 000 € - fnaim.fr",
-      "price": 145000,
+      "price": 119000,
       "surface": 42,
       "surfaceCarrez": null,
       "rooms": 2,
@@ -15808,12 +15808,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
           "price": 145000
+        },
+        {
+          "date": "2026-11-05",
+          "price": 119000
         }
       ],
       "weaknesses": [
@@ -15857,8 +15861,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15912,8 +15916,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15967,8 +15971,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16016,8 +16020,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16071,8 +16075,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16124,8 +16128,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16147,7 +16151,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/53166107/17-acheter-appartement-ondres-40440.htm",
       "title": "Achat Appartement 4 pièce(s) 81 m² ONDRES 40440 314 000 € - fnaim.fr",
-      "price": 314000,
+      "price": 305000,
       "surface": 81,
       "surfaceCarrez": null,
       "rooms": 4,
@@ -16177,12 +16181,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
           "price": 314000
+        },
+        {
+          "date": "2026-11-05",
+          "price": 305000
         }
       ],
       "weaknesses": [
@@ -16225,8 +16233,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16273,8 +16281,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16290,7 +16298,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/52997803/17-acheter-appartement-labenne-40530.htm",
       "title": "Achat Appartement 3 pièce(s) 62 m² LABENNE 40530 315 000 € - fnaim.fr",
-      "price": 315000,
+      "price": 339000,
       "surface": 62,
       "surfaceCarrez": null,
       "rooms": 3,
@@ -16320,12 +16328,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
           "price": 315000
+        },
+        {
+          "date": "2026-11-05",
+          "price": 339000
         }
       ],
       "weaknesses": [
@@ -16374,8 +16386,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -21119,6 +21131,12 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297065800A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -24644,6 +24662,108 @@
         {
           "date": "2026-11-05",
           "price": 392000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297065299",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297065299A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Biarritz (64200) | 630 000 € | 3 pièces | 59 m² - ParuVendu.fr ref 992791912621",
+      "price": 630000,
+      "surface": 59,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 45,
+      "ges": "A",
+      "gesKg": 3,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Beau 3 pièces avec belle terrasse Biarritz",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
+      "priceHistory": [
+        {
+          "date": "2026-11-05",
+          "price": 630000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297065302",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297065302A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Biarritz (64200) | 820 000 € | 4 pièces | 80 m² - ParuVendu.fr ref 992791912624",
+      "price": 820000,
+      "surface": 80,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "A",
+      "dpeKwh": 45,
+      "ges": "A",
+      "gesKg": 3,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Beau 4 pièces avec belle terrasse Biarritz",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "lastChecked": "2026-11-05",
+      "priceHistory": [
+        {
+          "date": "2026-11-05",
+          "price": 820000
         }
       ],
       "weaknesses": [
