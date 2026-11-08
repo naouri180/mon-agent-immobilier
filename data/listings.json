@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T15:50:02.762Z",
+  "updatedAt": "2026-11-08T05:58:49.830Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -2103,6 +2103,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1291077874A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -9624,6 +9630,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297143416A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -10161,8 +10173,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10210,8 +10222,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10266,8 +10278,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10322,8 +10334,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10382,8 +10394,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10431,8 +10443,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10486,8 +10498,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10535,8 +10547,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10592,8 +10604,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10649,8 +10661,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10706,8 +10718,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10762,8 +10774,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10817,8 +10829,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10919,8 +10931,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10970,8 +10982,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11021,8 +11033,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11070,8 +11082,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11125,8 +11137,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11178,8 +11190,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11234,8 +11246,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11252,7 +11264,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/52907033/17-acheter-appartement-anglet-64600.htm",
       "title": "Achat Appartement 2 pièce(s) 44 m² ANGLET 64600 145 000 € - fnaim.fr",
-      "price": 145000,
+      "price": 135000,
       "surface": 44,
       "surfaceCarrez": null,
       "rooms": 2,
@@ -11282,12 +11294,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
           "price": 145000
+        },
+        {
+          "date": "2026-11-08",
+          "price": 135000
         }
       ],
       "weaknesses": [
@@ -18225,8 +18241,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-28",
@@ -18273,8 +18289,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-28",
@@ -18372,8 +18388,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-28",
@@ -26395,6 +26411,12 @@
       "weaknesses": [
         "Parking non confirmé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53239828/17-acheter-appartement-pyrenees-atlantiques-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -26838,6 +26860,102 @@
       "weaknesses": [
         "Nature du parking non précisée",
         "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1287329789",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1287329789A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 46m2 à Anglet (64600) - ParuVendu.fr ref 992783994307",
+      "price": 340000,
+      "surface": 46,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": null,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "D",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "box inclus"
+      },
+      "floor": "2ème étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "neuf",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-08",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
+      "priceHistory": [
+        {
+          "date": "2026-11-08",
+          "price": 340000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297143417",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297143417A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 68m2 à Ascain (64310) - ParuVendu.fr ref 992791980136",
+      "price": 378000,
+      "surface": 68,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "D",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "souterrain",
+        "detail": "deux places de stationnement en sous-sol sont comprises, offrant un vrai confort au quot"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "neuf",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ascain",
+      "postalCode": "64310",
+      "distanceKm": 20.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-08",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
+      "priceHistory": [
+        {
+          "date": "2026-11-08",
+          "price": 378000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }

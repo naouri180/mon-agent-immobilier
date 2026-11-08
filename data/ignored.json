@@ -2578,5 +2578,17 @@
   "https://www.paruvendu.fr/immobilier/vente/appartement/1297148411A1KIVHAP000": {
     "reason": "surface 90 m² hors collecte",
     "date": "2026-11-07"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1295125784A1KIVHAP000": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-08"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1295125645A1KIVHAP000": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-08"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297155682A1KIVHAP000": {
+    "reason": "surface 99 m² hors collecte",
+    "date": "2026-11-08"
   }
 }
