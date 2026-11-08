@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T10:55:12.397Z",
+  "updatedAt": "2026-11-08T15:49:27.065Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -41,8 +41,8 @@
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "publishedOrUpdated": "2026-10-24",
       "priceHistory": [
         {
@@ -394,8 +394,8 @@
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -438,8 +438,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -487,8 +487,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -547,8 +547,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -597,8 +597,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -645,8 +645,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -690,7 +690,7 @@
       "procedure": true,
       "quartier": null,
       "city": "Bayonne",
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-03",
@@ -711,7 +711,8 @@
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ],
       "postalCode": "64100",
-      "distanceKm": 0
+      "distanceKm": 0,
+      "removedOn": "2026-11-08"
     },
     {
       "id": "paruvendu-1296630650",
@@ -747,8 +748,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -796,8 +797,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -845,8 +846,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -894,8 +895,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -943,8 +944,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -993,8 +994,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1044,8 +1045,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1142,8 +1143,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1194,8 +1195,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1242,8 +1243,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1290,8 +1291,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1345,8 +1346,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1609,7 +1610,9 @@
         "https://www.paruvendu.fr/immobilier/vente/appartement/1296688371A1KIVHAP000",
         "https://www.paruvendu.fr/immobilier/vente/appartement/1296688393A1KIVHAP000",
         "https://www.paruvendu.fr/immobilier/vente/appartement/1296706543A1KIVHAP000",
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1297045762A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297045762A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297185694A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297188359A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -10843,6 +10846,12 @@
         "Charges élevées",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297189499A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -22498,7 +22507,7 @@
       "city": "Anglet",
       "postalCode": "64600",
       "distanceKm": 3.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-02",
       "lastSeen": "2026-11-02",
@@ -22519,7 +22528,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-08"
     },
     {
       "id": "paruvendu-1296944027",
@@ -22553,7 +22563,7 @@
       "city": "Anglet",
       "postalCode": "64600",
       "distanceKm": 3.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-02",
       "lastSeen": "2026-11-02",
@@ -22569,7 +22579,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-08"
     },
     {
       "id": "paruvendu-1290471640",
@@ -22606,8 +22617,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-11-02",
@@ -22656,8 +22667,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
       "priceHistory": [
         {
           "date": "2026-11-02",
@@ -24774,7 +24785,8 @@
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ],
       "altUrls": [
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1297148304A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297148304A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297188560A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -27108,6 +27120,53 @@
       ],
       "weaknesses": [
         "Procédure en cours dans la copropriété",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297183517",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297183517A1KIVHAP000",
+      "title": "Annonce appartement de type 3 sur hendaye, proche du centre, vente 3 pièces de particulier Pyrénées-Atlantiques - ParuVendu.fr ref WI178161005",
+      "price": 280000,
+      "surface": 56,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 230,
+      "ges": "B",
+      "gesKg": 10,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "garage",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "travaux",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-08",
+      "lastSeen": "2026-11-08",
+      "lastChecked": "2026-11-08",
+      "priceHistory": [
+        {
+          "date": "2026-11-08",
+          "price": 280000
+        }
+      ],
+      "weaknesses": [
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }

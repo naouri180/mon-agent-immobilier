@@ -2634,5 +2634,21 @@
   "https://www.fnaim.fr/annonce-immobiliere/53241076/17-acheter-appartement-bidart-64210.htm": {
     "reason": "surface 29 m² hors collecte",
     "date": "2026-11-08"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297189500A1KIVHAP000": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-08"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1286604296A1KIVHAP000": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-08"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297187894A1KIVHAP000": {
+    "reason": "surface 90 m² hors collecte",
+    "date": "2026-11-08"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297185692A1KIVHAP000": {
+    "reason": "surface 96 m² hors collecte",
+    "date": "2026-11-08"
   }
 }
