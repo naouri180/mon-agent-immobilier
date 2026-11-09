@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T15:49:27.065Z",
+  "updatedAt": "2026-11-09T06:20:15.480Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -1394,8 +1394,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1444,8 +1444,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1493,8 +1493,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1543,8 +1543,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1590,7 +1590,7 @@
       "city": "Anglet",
       "postalCode": "64600",
       "distanceKm": 3.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-03",
@@ -1616,7 +1616,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-09"
     },
     {
       "id": "paruvendu-1295465720",
@@ -1653,8 +1654,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1705,8 +1706,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1753,8 +1754,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1801,8 +1802,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1846,7 +1847,7 @@
       "city": "Anglet",
       "postalCode": "64600",
       "distanceKm": 3.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-03",
@@ -1862,7 +1863,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-09"
     },
     {
       "id": "paruvendu-1289454501",
@@ -1899,8 +1901,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1948,8 +1950,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1997,8 +1999,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2045,8 +2047,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2094,8 +2096,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2149,8 +2151,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2166,7 +2168,7 @@
       "source": "ParuVendu",
       "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295432562A1KIVHAP000",
       "title": "Annonce vente appartement 3 pièces de 63m2 à Anglet (64600) - ParuVendu.fr ref 992790520875",
-      "price": 357000,
+      "price": 352000,
       "surface": 63,
       "surfaceCarrez": null,
       "rooms": 3,
@@ -2196,12 +2198,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
           "price": 357000
+        },
+        {
+          "date": "2026-11-09",
+          "price": 352000
         }
       ],
       "weaknesses": [
@@ -2251,8 +2257,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2299,8 +2305,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2355,8 +2361,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2404,8 +2410,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2452,8 +2458,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2498,7 +2504,7 @@
       "city": "Anglet",
       "postalCode": "64600",
       "distanceKm": 3.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-03",
@@ -2513,7 +2519,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-09"
     },
     {
       "id": "paruvendu-1296092813",
@@ -2550,8 +2557,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -26234,6 +26241,12 @@
         "Nature du parking non précisée",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297190247A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -27164,6 +27177,303 @@
         {
           "date": "2026-11-08",
           "price": 280000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295203996",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295203996A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 47m2 à Bayonne (64100) - ParuVendu.fr ref 992790327286",
+      "price": 169500,
+      "surface": 47,
+      "surfaceCarrez": 46.79,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "B",
+      "dpeKwh": 52,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 169500
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297198925",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297198925A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Anglet (64600) - ParuVendu.fr ref 992792028340",
+      "price": 269000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 187,
+      "ges": "D",
+      "gesKg": 38,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 269000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291280571",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291280571A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 57m2 à Biarritz (64200) - ParuVendu.fr ref 992787109454",
+      "price": 349000,
+      "surface": 57,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 187,
+      "ges": "D",
+      "gesKg": 30,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 2388,
+      "taxeFonciere": null,
+      "exterior": "lumineux avec une grande loggia, idéalement situé en centre ville",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 349000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Charges élevées",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293526415",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293526415A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 46m2 à Biarritz (64200) - ParuVendu.fr ref 992789048368",
+      "price": 269000,
+      "surface": 46,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "E",
+      "dpeKwh": 237,
+      "ges": "E",
+      "gesKg": 52,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - quartier parc d'hiver biarritz"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 269000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1292877705",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1292877705A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Biarritz (64200) | 630 000 € | 3 pièces | 78 m² - ParuVendu.fr ref 992788493687",
+      "price": 630000,
+      "surface": 78,
+      "surfaceCarrez": 78.64,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "B",
+      "dpeKwh": 81,
+      "ges": "B",
+      "gesKg": 2,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 630000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297189652",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297189652A1KIVHAP000",
+      "title": "Annonce spacieux et lumineux t2 de 59 m2 hendaye 64700, pays basque, vente 2 pièces de particulier Pyrénées-Atlantiques - ParuVendu.fr ref WI178162082",
+      "price": 250000,
+      "surface": 59,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 150,
+      "ges": "C",
+      "gesKg": 20,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "ux en dernier étage avec terrasse, dans une petite résidence à Hendaye",
+      "condition": "travaux",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 250000
         }
       ],
       "weaknesses": [
