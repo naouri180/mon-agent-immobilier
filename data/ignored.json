@@ -2754,5 +2754,25 @@
   "https://www.fnaim.fr/annonce-immobiliere/53241295/17-acheter-appartement-behobie-64700.htm": {
     "reason": "surface 33 m² hors collecte",
     "date": "2026-11-09"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1296043772A1KIVHAP000": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-09"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1296093720A1KIVHAP000": {
+    "reason": "surface 120 m² hors collecte",
+    "date": "2026-11-09"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1289016057A1KIVHAP000": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-09"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297228793A1KIVHAP000": {
+    "reason": "surface 90 m² hors collecte",
+    "date": "2026-11-09"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297224568A1KIVHAP000": {
+    "reason": "surface 90 m² hors collecte",
+    "date": "2026-11-09"
   }
 }

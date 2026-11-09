@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T11:10:02.001Z",
+  "updatedAt": "2026-11-09T16:15:38.927Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -3179,8 +3179,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3237,8 +3237,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3287,8 +3287,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3343,8 +3343,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3394,8 +3394,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3442,8 +3442,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9852,6 +9852,12 @@
         "Nature du parking non précisée",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297228745A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -19276,8 +19282,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-10-28",
@@ -22727,8 +22733,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -22776,8 +22782,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -22828,8 +22834,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -22878,8 +22884,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -22925,8 +22931,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -22971,7 +22977,7 @@
       "city": "Soorts-Hossegor",
       "postalCode": "40150",
       "distanceKm": 20.1,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-03",
       "lastSeen": "2026-11-03",
@@ -22986,7 +22992,8 @@
         "Nature du parking non précisée",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-09"
     },
     {
       "id": "paruvendu-1296951019",
@@ -23020,7 +23027,7 @@
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-03",
       "lastSeen": "2026-11-03",
@@ -23035,7 +23042,8 @@
         "Nature du parking non précisée",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-09"
     },
     {
       "id": "paruvendu-1294090296",
@@ -23070,7 +23078,7 @@
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-03",
       "lastSeen": "2026-11-03",
@@ -23086,7 +23094,8 @@
         "Procédure en cours dans la copropriété",
         "Charges élevées",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-09"
     },
     {
       "id": "paruvendu-1296968723",
@@ -23123,8 +23132,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -23173,8 +23182,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -23221,8 +23230,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -23271,8 +23280,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -23320,8 +23329,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -23368,8 +23377,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -23417,8 +23426,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -23467,8 +23476,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-03",
-      "lastChecked": "2026-11-03",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -23514,7 +23523,7 @@
       "city": "Capbreton",
       "postalCode": "40130",
       "distanceKm": 16.9,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-03",
       "lastSeen": "2026-11-03",
@@ -23536,7 +23545,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-09"
     },
     {
       "id": "paruvendu-1296985473",
@@ -24808,7 +24818,8 @@
       ],
       "altUrls": [
         "https://www.paruvendu.fr/immobilier/vente/appartement/1297148304A1KIVHAP000",
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1297188560A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297188560A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297229044A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -27638,6 +27649,302 @@
       ],
       "weaknesses": [
         "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297217355",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297217355A1KIVHAP000",
+      "title": "Annonce bien rare dans villa remarquable avec parc, parking, grenier, vente 2/3 pièces de particulier Pyrénées-Atlantiques - ParuVendu.fr ref WI178165327",
+      "price": 390000,
+      "surface": 71,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 1,
+      "dpe": "F",
+      "dpeKwh": 450,
+      "ges": "F",
+      "gesKg": 80,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking, grenier, vente 2/3 pièces de particulier pyrénées-atlantiq"
+      },
+      "floor": "2e et dernier étage",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 390000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294086789",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294086789A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 41m2 à Anglet (64600) - ParuVendu.fr ref 992789458116",
+      "price": 299900,
+      "surface": 41,
+      "surfaceCarrez": 41.06,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 71,
+      "ges": "C",
+      "gesKg": 11,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "excellent",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 299900
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297225430",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297225430A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 82m2 à Hendaye (64700) - ParuVendu.fr ref 992792050606",
+      "price": 376550,
+      "surface": 82,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking - hendaye hendaye"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "35m² + UNE LOGGIA + PARKING - HENDAYE Hendaye",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 376550
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297224567",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297224567A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 51m2 à Soorts hossegor (40150) - ParuVendu.fr ref 992792049796",
+      "price": 333200,
+      "surface": 51,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "79m² + UNE TERRASSE - SOORTS-HOSSEGOR Soorts hossegor",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 333200
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297224566",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297224566A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Soorts hossegor (40150) - ParuVendu.fr ref 992792049795",
+      "price": 279650,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "26m² + UN JARDIN - SOORTS-HOSSEGOR Soorts hossegor",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 279650
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64480-547",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53029730/17-acheter-appartement-ustaritz-64480.htm",
+      "title": "Achat Appartement 2 pièce(s) 41 m² USTARITZ 64480 169 000 € - fnaim.fr",
+      "price": 169000,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 152,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "rtement T2 de 41 m² avec balcon ? Centre d'Ustaritz",
+      "condition": "bon",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Ustaritz",
+      "postalCode": "64480",
+      "distanceKm": 10.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "lastChecked": "2026-11-09",
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 169000
+        }
+      ],
+      "weaknesses": [
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }
