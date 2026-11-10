@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T16:15:38.927Z",
+  "updatedAt": "2026-11-10T06:04:16.486Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -3492,8 +3492,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3549,8 +3549,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3598,8 +3598,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3653,8 +3653,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3704,8 +3704,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3759,8 +3759,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3807,8 +3807,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3856,8 +3856,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3905,8 +3905,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3956,7 +3956,7 @@
       "city": "Saint-Pierre-d'Irube",
       "postalCode": "64990",
       "distanceKm": 2.2,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-04",
@@ -3972,7 +3972,8 @@
         "Procédure en cours dans la copropriété",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-10"
     },
     {
       "id": "paruvendu-1286493678",
@@ -12122,8 +12123,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -12177,8 +12178,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -12229,8 +12230,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -12280,8 +12281,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -12325,7 +12326,7 @@
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-11-04",
@@ -12345,7 +12346,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-10"
     },
     {
       "id": "paruvendu-1295124579",
@@ -12379,7 +12381,7 @@
       "city": "Anglet",
       "postalCode": "64600",
       "distanceKm": 3.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-11-04",
@@ -12393,7 +12395,8 @@
       "weaknesses": [
         "Procédure en cours dans la copropriété",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-10"
     },
     {
       "id": "paruvendu-1294987384",
@@ -12427,7 +12430,7 @@
       "city": "Biarritz",
       "postalCode": "64200",
       "distanceKm": 6.8,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-11-04",
@@ -12443,7 +12446,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-10"
     },
     {
       "id": "paruvendu-1291139530",
@@ -12480,8 +12484,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -12528,8 +12532,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -12577,8 +12581,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -12596,7 +12600,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/53096268/17-acheter-appartement-biarritz-64200.htm",
       "title": "Achat Appartement 2 pièce(s) 45 m² BIARRITZ 64200 250 000 € - fnaim.fr",
-      "price": 250000,
+      "price": 125000,
       "surface": 45,
       "surfaceCarrez": 44,
       "rooms": 2,
@@ -12607,18 +12611,17 @@
       "gesKg": 12,
       "dpeDerived": false,
       "parking": {
-        "count": 0,
-        "type": null,
-        "detail": null,
-        "uncertain": true
+        "count": 1,
+        "type": "garage",
+        "detail": "parkings - garages"
       },
-      "floor": null,
+      "floor": "dernier étage",
       "elevator": true,
       "charges": 1320,
       "taxeFonciere": 780,
       "exterior": "Terrasse : Non",
       "condition": "inconnu",
-      "year": null,
+      "year": 2017,
       "procedure": false,
       "quartier": null,
       "city": "Biarritz",
@@ -12627,12 +12630,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
           "price": 250000
+        },
+        {
+          "date": "2026-11-10",
+          "price": 125000
         }
       ],
       "weaknesses": [
@@ -12678,8 +12685,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -12726,8 +12733,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -12775,8 +12782,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -21936,6 +21943,12 @@
         "Procédure en cours dans la copropriété",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297244783A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -27945,6 +27958,155 @@
         }
       ],
       "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297226412",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297226412A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 75m2 à Soorts hossegor (40150) - ParuVendu.fr ref 992792051565",
+      "price": 565000,
+      "surface": 75,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 45,
+      "ges": "A",
+      "gesKg": 2,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking soorts hossegor"
+      },
+      "floor": "1er étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "t T3 de 75m² avec 8m² de balcon et parking Soorts hossegor",
+      "condition": "neuf",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
+      "priceHistory": [
+        {
+          "date": "2026-11-10",
+          "price": 565000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64200-549",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53225620/17-acheter-appartement-biarritz-64200.htm",
+      "title": "Achat Appartement 1 pièce(s) 44 m² BIARRITZ 64200 299 000 € - fnaim.fr",
+      "price": 299000,
+      "surface": 44,
+      "surfaceCarrez": null,
+      "rooms": 1,
+      "bedrooms": null,
+      "dpe": "D",
+      "dpeKwh": 214,
+      "ges": "D",
+      "gesKg": 46,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "une place de stationnement privative en sous-sol est également proposée à l'acquisitio"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon Ascenseur",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
+      "priceHistory": [
+        {
+          "date": "2026-11-10",
+          "price": 299000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-53242243",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53242243/17-acheter-appartement-landes-40.htm",
+      "title": "Achat Appartement 3 pièce(s) 53 m² 340 000 € - fnaim.fr",
+      "price": 340000,
+      "surface": 53,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 296,
+      "ges": "C",
+      "gesKg": 11,
+      "dpeDerived": true,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "stationnement au sein de la résidence"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": 1343,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
+      "priceHistory": [
+        {
+          "date": "2026-11-10",
+          "price": 340000
+        }
+      ],
+      "weaknesses": [
+        "Lettre DPE déduite des valeurs kWh/CO₂",
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }
