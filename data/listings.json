@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:02:07.857Z",
+  "updatedAt": "2026-11-10T15:59:50.614Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -14123,8 +14123,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14179,8 +14179,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14227,8 +14227,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14283,8 +14283,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14339,8 +14339,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14388,8 +14388,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14435,8 +14435,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14484,8 +14484,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14533,8 +14533,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14604,7 +14604,8 @@
       ],
       "duplicates": [
         "fnaim.fr"
-      ]
+      ],
+      "lastCheckProblem": "délai dépassé"
     },
     {
       "id": "paruvendu-1290921411",
@@ -14653,7 +14654,8 @@
         "Nature du parking non précisée",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "délai dépassé"
     },
     {
       "id": "paruvendu-1289742561",
@@ -14690,8 +14692,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14746,8 +14748,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -19392,8 +19394,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-29",
@@ -19413,7 +19415,7 @@
       "title": "Achat Appartement 2 pièce(s) 43 m² BAYONNE 64100 189 000 € - fnaim.fr",
       "price": 189000,
       "surface": 43,
-      "surfaceCarrez": null,
+      "surfaceCarrez": 37,
       "rooms": 2,
       "bedrooms": 1,
       "dpe": "C",
@@ -19428,8 +19430,8 @@
       },
       "floor": null,
       "elevator": true,
-      "charges": null,
-      "taxeFonciere": null,
+      "charges": 600,
+      "taxeFonciere": 817,
       "exterior": "1 chambre Terrasse Ascenseur Parking / Garage",
       "condition": "inconnu",
       "year": 2019,
@@ -19441,8 +19443,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-29",
@@ -19489,8 +19491,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-29",
@@ -19537,8 +19539,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-29",
@@ -19586,8 +19588,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-29",
@@ -19643,8 +19645,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-10-29",
@@ -23600,8 +23602,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-11-04",
@@ -23621,7 +23623,7 @@
       "title": "Achat Appartement 3 pièce(s) 60 m² 229 900 € - fnaim.fr",
       "price": 229900,
       "surface": 60,
-      "surfaceCarrez": null,
+      "surfaceCarrez": 60.72,
       "rooms": 3,
       "bedrooms": 2,
       "dpe": "C",
@@ -23649,8 +23651,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-11-04",
@@ -23704,8 +23706,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
       "priceHistory": [
         {
           "date": "2026-11-04",
@@ -23764,7 +23766,8 @@
       "weaknesses": [
         "DPE non trouvé dans l’annonce",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "délai dépassé"
     },
     {
       "id": "paruvendu-1297020479",
@@ -23798,7 +23801,7 @@
       "city": "Biarritz",
       "postalCode": "64200",
       "distanceKm": 6.8,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-04",
       "lastSeen": "2026-11-04",
@@ -23821,7 +23824,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-10"
     },
     {
       "id": "paruvendu-1297006158",
@@ -28112,6 +28116,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53242243/17-acheter-appartement-landes-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -28658,6 +28668,154 @@
         }
       ],
       "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296128813",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296128813A1KIVHAP000",
+      "title": "Annonce vente appartement 5 pièces de 84m2 à Anglet (64600) - ParuVendu.fr ref 992791097798",
+      "price": 294000,
+      "surface": 84,
+      "surfaceCarrez": null,
+      "rooms": 5,
+      "bedrooms": 3,
+      "dpe": "D",
+      "dpeKwh": 196,
+      "ges": "D",
+      "gesKg": 42,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": 1306,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
+      "priceHistory": [
+        {
+          "date": "2026-11-10",
+          "price": 294000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297271521",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297271521A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 63m2 à Hasparren (64240) - ParuVendu.fr ref 992791316674",
+      "price": 180000,
+      "surface": 63,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 180,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "parking hasparren"
+      },
+      "floor": "rez de chaussée",
+      "elevator": null,
+      "charges": 200,
+      "taxeFonciere": null,
+      "exterior": "Hasparren, grand T2 avec jardin- terrasse et parking Hasparren",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hasparren",
+      "postalCode": "64240",
+      "distanceKm": 18.3,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
+      "priceHistory": [
+        {
+          "date": "2026-11-10",
+          "price": 180000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297270453",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297270453A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 49m2 à Labenne (40530) - ParuVendu.fr ref 992792091664",
+      "price": 227000,
+      "surface": 49,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 137,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": 924,
+      "taxeFonciere": 560,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Labenne",
+      "postalCode": "40530",
+      "distanceKm": 12,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "lastChecked": "2026-11-10",
+      "priceHistory": [
+        {
+          "date": "2026-11-10",
+          "price": 227000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
