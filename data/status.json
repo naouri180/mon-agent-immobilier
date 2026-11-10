@@ -1,7 +1,7 @@
 {
-  "lastRun": "2026-11-10T06:04:16.486Z",
+  "lastRun": "2026-11-10T11:02:07.857Z",
   "mode": "search",
-  "message": "3 nouvelle(s) annonce(s), 1 baisse(s) de prix, 4 retirée(s). 20 annonce(s) revérifiée(s), 2 source(s) bloquée(s).",
+  "message": "11 nouvelle(s) annonce(s), 1 baisse(s) de prix, 0 retirée(s). 24 annonce(s) revérifiée(s), 2 source(s) bloquée(s).",
   "sources": [
     {
       "name": "Foncia",
@@ -9,11 +9,11 @@
     },
     {
       "name": "ParuVendu",
-      "result": "383 annonce(s) listée(s)"
+      "result": "388 annonce(s) listée(s)"
     },
     {
       "name": "FNAIM",
-      "result": "312 annonce(s) listée(s)"
+      "result": "262 annonce(s) listée(s) (2 page(s) sans réponse)"
     },
     {
       "name": "Capifrance",
@@ -21,12 +21,12 @@
     }
   ],
   "stats": {
-    "pagesFetched": 97,
-    "new": 3,
+    "pagesFetched": 104,
+    "new": 11,
     "priceDrops": 1,
-    "removed": 4,
+    "removed": 0,
     "duplicates": 1,
-    "rejected": 15,
-    "rechecked": 20
+    "rejected": 14,
+    "rechecked": 24
   }
 }
