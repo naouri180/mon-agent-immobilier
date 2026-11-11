@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T15:59:50.614Z",
+  "updatedAt": "2026-11-11T06:12:35.206Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -304,7 +304,8 @@
       "altUrls": [
         "https://www.fnaim.fr/annonce-immobiliere/52838491/17-acheter-appartement-ondres-40440.htm",
         "https://www.fnaim.fr/annonce-immobiliere/53227920/17-acheter-appartement-ondres-40440.htm",
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1291596822A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1291596822A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1294114163A1KIVHAP000"
       ],
       "duplicates": [
         "fnaim.fr",
@@ -1256,7 +1257,13 @@
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ],
       "postalCode": "64100",
-      "distanceKm": 0
+      "distanceKm": 0,
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1295276039A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
+      ]
     },
     {
       "id": "paruvendu-1294979065",
@@ -4010,8 +4017,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4115,8 +4122,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4164,8 +4171,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4212,8 +4219,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4269,8 +4276,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4323,8 +4330,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4374,8 +4381,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4424,8 +4431,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4474,8 +4481,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4527,7 +4534,7 @@
       "city": "Bidart",
       "postalCode": "64210",
       "distanceKm": 11.2,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-05",
@@ -4548,7 +4555,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-11"
     },
     {
       "id": "paruvendu-1294742346",
@@ -4585,8 +4593,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4635,8 +4643,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4685,8 +4693,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -14583,8 +14591,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14604,8 +14612,7 @@
       ],
       "duplicates": [
         "fnaim.fr"
-      ],
-      "lastCheckProblem": "délai dépassé"
+      ]
     },
     {
       "id": "paruvendu-1290921411",
@@ -14642,8 +14649,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14654,8 +14661,7 @@
         "Nature du parking non précisée",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "délai dépassé"
+      ]
     },
     {
       "id": "paruvendu-1289742561",
@@ -23755,8 +23761,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-11-04",
@@ -23766,8 +23772,7 @@
       "weaknesses": [
         "DPE non trouvé dans l’annonce",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "délai dépassé"
+      ]
     },
     {
       "id": "paruvendu-1297020479",
@@ -23862,8 +23867,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-11-04",
@@ -23908,7 +23913,7 @@
       "city": "Capbreton",
       "postalCode": "40130",
       "distanceKm": 16.9,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-04",
       "lastSeen": "2026-11-04",
@@ -23930,7 +23935,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-11"
     },
     {
       "id": "paruvendu-1297027371",
@@ -23964,7 +23970,7 @@
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-04",
       "lastSeen": "2026-11-04",
@@ -23980,7 +23986,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-11"
     },
     {
       "id": "paruvendu-1294422833",
@@ -24018,8 +24025,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-11-04",
@@ -24070,8 +24077,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-11-04",
@@ -24119,8 +24126,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-04",
-      "lastChecked": "2026-11-04",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-11-04",
@@ -24164,7 +24171,7 @@
       "city": "Capbreton",
       "postalCode": "40130",
       "distanceKm": 16.9,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-04",
       "lastSeen": "2026-11-04",
@@ -24180,7 +24187,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-11"
     },
     {
       "id": "paruvendu-1297030686",
@@ -24214,7 +24222,7 @@
       "city": "Soorts-Hossegor",
       "postalCode": "40150",
       "distanceKm": 20.1,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-04",
       "lastSeen": "2026-11-04",
@@ -24229,7 +24237,8 @@
         "Nature du parking non précisée",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-11"
     },
     {
       "id": "paruvendu-1293271728",
@@ -28816,6 +28825,204 @@
       ],
       "weaknesses": [
         "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297294008",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297294008A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 73m2 à Bayonne (64100) - ParuVendu.fr ref 992792112576",
+      "price": 363900,
+      "surface": 73,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 108,
+      "ges": "A",
+      "gesKg": 3,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "box"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": 1392,
+      "taxeFonciere": 1167,
+      "exterior": "Balcon / Terrasse",
+      "condition": "bon",
+      "year": 2006,
+      "procedure": true,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "priceHistory": [
+        {
+          "date": "2026-11-11",
+          "price": 363900
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297277942",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297277942A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 66m2 à Biarritz (64200) - ParuVendu.fr ref 992792098372",
+      "price": 402000,
+      "surface": 66,
+      "surfaceCarrez": 66.09,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 191,
+      "ges": "D",
+      "gesKg": 31,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 2420,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "priceHistory": [
+        {
+          "date": "2026-11-11",
+          "price": 402000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Charges élevées",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297274821",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297274821A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 65m2 à Mouguerre (64990) - ParuVendu.fr ref 992792095402",
+      "price": 280000,
+      "surface": 65,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 145,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": "1er et dernier étage",
+      "elevator": null,
+      "charges": 1188,
+      "taxeFonciere": null,
+      "exterior": "hère agréable, avec deux terrasses sur un environnement boisé",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Mouguerre",
+      "postalCode": "64990",
+      "distanceKm": 5.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "priceHistory": [
+        {
+          "date": "2026-11-11",
+          "price": 280000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297287033",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297287033A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 57m2 à Capbreton (40130) - ParuVendu.fr ref 992792106255",
+      "price": 435000,
+      "surface": 57,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - capbreton capbreton"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "nt 3 PIÈCES de 57m² + UN BALCON + PARKING - CAPBRETON Capbreton",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "priceHistory": [
+        {
+          "date": "2026-11-11",
+          "price": 435000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
