@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T11:12:23.815Z",
+  "updatedAt": "2026-11-11T16:07:16.639Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -136,7 +136,7 @@
         "DPE C (lettre déduite des valeurs)",
         "Extérieur réduit"
       ],
-      "status": "active",
+      "status": "removed",
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
@@ -156,7 +156,8 @@
       "duplicates": [
         "paruvendu.fr"
       ],
-      "lastCheckProblem": "accès refusé par le site"
+      "lastCheckProblem": "accès refusé par le site",
+      "removedOn": "2026-11-11"
     },
     {
       "id": "foncia-00828770",
@@ -15620,7 +15621,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/53175121/17-acheter-appartement-ustaritz-64480.htm",
       "title": "Achat Appartement 2 pièce(s) 47 m² USTARITZ 64480 190 000 € - fnaim.fr",
-      "price": 190000,
+      "price": 159000,
       "surface": 47,
       "surfaceCarrez": null,
       "rooms": 2,
@@ -15650,12 +15651,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-26",
           "price": 190000
+        },
+        {
+          "date": "2026-11-11",
+          "price": 159000
         }
       ],
       "weaknesses": [
@@ -15754,8 +15759,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15803,8 +15808,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15859,8 +15864,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15914,8 +15919,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15967,8 +15972,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16022,8 +16027,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16077,8 +16082,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16126,8 +16131,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16181,8 +16186,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16234,8 +16239,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16287,8 +16292,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16339,8 +16344,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16387,8 +16392,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16434,8 +16439,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16492,8 +16497,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -19819,8 +19824,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -19867,8 +19872,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -19915,8 +19920,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -19963,8 +19968,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -20012,8 +20017,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -20063,8 +20068,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -20083,7 +20088,7 @@
       "source": "ParuVendu",
       "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296837556A1KIVHAP000",
       "title": "Annonce vente appartement 3 pièces de 60m2 à Boucau (64340) - ParuVendu.fr ref 992791713720",
-      "price": 349000,
+      "price": 329000,
       "surface": 60,
       "surfaceCarrez": 60,
       "rooms": 3,
@@ -20113,12 +20118,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-30",
           "price": 349000
+        },
+        {
+          "date": "2026-11-11",
+          "price": 329000
         }
       ],
       "weaknesses": [
@@ -20168,8 +20177,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-05",
-      "lastChecked": "2026-11-05",
+      "lastSeen": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -22934,6 +22943,12 @@
       ],
       "weaknesses": [
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297318883A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -25470,6 +25485,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297318915A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
