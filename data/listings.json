@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T11:16:48.684Z",
+  "updatedAt": "2026-11-12T16:16:14.741Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -7108,8 +7108,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7156,8 +7156,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7205,8 +7205,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7254,8 +7254,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7303,8 +7303,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7351,8 +7351,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7399,8 +7399,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7447,8 +7447,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -13571,6 +13571,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297357744A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -16553,8 +16559,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16604,8 +16610,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16655,8 +16661,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16710,8 +16716,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16765,8 +16771,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16823,8 +16829,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16872,8 +16878,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16921,8 +16927,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16971,8 +16977,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17021,8 +17027,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17070,8 +17076,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17119,8 +17125,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17167,8 +17173,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17216,8 +17222,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17266,8 +17272,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17316,8 +17322,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17365,8 +17371,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -19890,6 +19896,12 @@
       "weaknesses": [
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297355566A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -29583,6 +29595,103 @@
       "weaknesses": [
         "Parking non confirmé",
         "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297360722",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297360722A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 63m2 à Bayonne (64100) - ParuVendu.fr ref 992792172477",
+      "price": 324000,
+      "surface": 63,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - bayonne bayonne"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "ement 3 PIÈCES de 63m² + TERRASSE + PARKING - BAYONNE Bayonne",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
+      "priceHistory": [
+        {
+          "date": "2026-11-12",
+          "price": 324000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1290064104",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1290064104A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Bayonne (64100) - ParuVendu.fr ref 992786066002",
+      "price": 175000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 67,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": "2ème étage",
+      "elevator": true,
+      "charges": 760,
+      "taxeFonciere": null,
+      "exterior": "E - spacieux T2 - 45m2 - terrasse sans vis à vis - pkg extérieur Bayonne",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
+      "priceHistory": [
+        {
+          "date": "2026-11-12",
+          "price": 175000
+        }
+      ],
+      "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
