@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T06:15:27.840Z",
+  "updatedAt": "2026-11-12T11:16:48.684Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -5577,8 +5577,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5628,8 +5628,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5679,8 +5679,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5787,7 +5787,7 @@
       "city": "Ciboure",
       "postalCode": "64500",
       "distanceKm": 19.7,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-06",
@@ -5801,7 +5801,8 @@
       "weaknesses": [
         "Parking non confirmé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-12"
     },
     {
       "id": "paruvendu-1295731320",
@@ -5952,8 +5953,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6002,8 +6003,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6052,8 +6053,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6102,8 +6103,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6151,8 +6152,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6203,8 +6204,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6260,8 +6261,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6310,8 +6311,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6361,8 +6362,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6408,8 +6409,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6457,8 +6458,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6603,8 +6604,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6653,8 +6654,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6698,7 +6699,7 @@
       "city": "Hendaye",
       "postalCode": "64700",
       "distanceKm": 28.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-06",
@@ -6714,7 +6715,8 @@
         "Procédure en cours dans la copropriété",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-12"
     },
     {
       "id": "paruvendu-1296476567",
@@ -6751,8 +6753,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6801,8 +6803,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6851,8 +6853,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6870,7 +6872,7 @@
       "source": "ParuVendu",
       "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296310791A1KIVHAP000",
       "title": "Annonce vente appartement 3 pièces de 42m2 à Hendaye (64700) - ParuVendu.fr ref 992791252746",
-      "price": 159000,
+      "price": 148000,
       "surface": 42,
       "surfaceCarrez": 42.46,
       "rooms": 3,
@@ -6888,7 +6890,7 @@
       },
       "floor": null,
       "elevator": null,
-      "charges": null,
+      "charges": 216,
       "taxeFonciere": null,
       "exterior": null,
       "condition": "inconnu",
@@ -6901,12 +6903,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
           "price": 159000
+        },
+        {
+          "date": "2026-11-12",
+          "price": 148000
         }
       ],
       "weaknesses": [
@@ -6950,8 +6956,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6999,8 +7005,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7053,8 +7059,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -29426,6 +29432,158 @@
       "weaknesses": [
         "Parking non confirmé",
         "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297342813",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297342813A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 63m2 à Saint-jean-de-luz (64500) - ParuVendu.fr ref 992792156713",
+      "price": 359000,
+      "surface": 63,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 186,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "stationnement libre et local vélos sécurisé"
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": 1227,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "excellent",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
+      "priceHistory": [
+        {
+          "date": "2026-11-12",
+          "price": 359000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297347890",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297347890A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Soorts hossegor (40150) - ParuVendu.fr ref 992792161352",
+      "price": 329000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": 45,
+      "ges": "A",
+      "gesKg": 3,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "rts-Hossegor : 2 pièces, jardin Soorts hossegor",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
+      "priceHistory": [
+        {
+          "date": "2026-11-12",
+          "price": 329000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297347997",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297347997A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 51m2 à Soorts hossegor (40150) - ParuVendu.fr ref 992792161458",
+      "price": 392000,
+      "surface": 51,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 45,
+      "ges": "A",
+      "gesKg": 3,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "rts-Hossegor : 3 pièces, terrasse Soorts hossegor",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "lastChecked": "2026-11-12",
+      "priceHistory": [
+        {
+          "date": "2026-11-12",
+          "price": 392000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }
