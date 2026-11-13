@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T16:16:14.741Z",
+  "updatedAt": "2026-11-13T06:13:21.023Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -7514,7 +7514,7 @@
       "source": "ParuVendu",
       "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294636006A1KIVHAP000",
       "title": "Annonce vente appartement 3 pièces de 53m2 à Ustaritz (64480) - ParuVendu.fr ref 992789876838",
-      "price": 245000,
+      "price": 230000,
       "surface": 53,
       "surfaceCarrez": null,
       "rooms": 3,
@@ -7544,12 +7544,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
           "price": 245000
+        },
+        {
+          "date": "2026-11-13",
+          "price": 230000
         }
       ],
       "weaknesses": [
@@ -7593,8 +7597,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7743,8 +7747,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7791,8 +7795,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7840,8 +7844,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -17421,8 +17425,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17477,8 +17481,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -20723,8 +20727,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-31",
@@ -20772,8 +20776,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-31",
@@ -20821,8 +20825,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-31",
@@ -20873,8 +20877,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-31",
@@ -20922,8 +20926,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-31",
@@ -21029,8 +21033,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-31",
@@ -21079,8 +21083,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-31",
@@ -21344,8 +21348,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-31",
@@ -25056,8 +25060,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -25106,8 +25110,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -25156,8 +25160,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -25204,8 +25208,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -25258,8 +25262,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -25308,8 +25312,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -25359,8 +25363,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -25379,7 +25383,7 @@
       "source": "ParuVendu",
       "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297103295A1KIVHAP000",
       "title": "Annonce vente appartement 3 pièces de 59m2 à Tarnos (40220) - ParuVendu.fr ref 992791944262",
-      "price": 260000,
+      "price": 249000,
       "surface": 59,
       "surfaceCarrez": null,
       "rooms": 3,
@@ -25395,7 +25399,7 @@
         "detail": "parking"
       },
       "floor": "dernier étage",
-      "elevator": null,
+      "elevator": true,
       "charges": 1000,
       "taxeFonciere": null,
       "exterior": "Balcon / Terrasse",
@@ -25409,12 +25413,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-11-06",
           "price": 260000
+        },
+        {
+          "date": "2026-11-13",
+          "price": 249000
         }
       ],
       "weaknesses": [
@@ -25456,8 +25464,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-06",
-      "lastChecked": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -25502,7 +25510,7 @@
       "city": "Seignosse",
       "postalCode": "40510",
       "distanceKm": 23.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-06",
       "lastSeen": "2026-11-06",
@@ -25524,7 +25532,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-13"
     },
     {
       "id": "paruvendu-1291902915",
@@ -29692,6 +29701,410 @@
         }
       ],
       "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295485244",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295485244A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 43m2 à Bayonne (64100) - ParuVendu.fr ref 992790565666",
+      "price": 224000,
+      "surface": 43,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 141,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1000,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": "Arènes",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 224000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297358125",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297358125A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 81m2 à Bayonne (64100) - ParuVendu.fr ref 992792170465",
+      "price": 319000,
+      "surface": 81,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 147,
+      "ges": "C",
+      "gesKg": 29,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "box"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": 1392,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 319000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293886111",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293886111A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Biarritz (64200) - ParuVendu.fr ref 992789355987",
+      "price": 285000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 78,
+      "ges": "C",
+      "gesKg": 15,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "4ème étage",
+      "elevator": null,
+      "charges": 540,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 285000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297289632",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297289632A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 54m2 à Saint-jean-de-luz (64500) - ParuVendu.fr ref 992792108649",
+      "price": 373000,
+      "surface": 54,
+      "surfaceCarrez": 42,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 201,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 373000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297289634",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297289634A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 63m2 à Saint-jean-de-luz (64500) - ParuVendu.fr ref 992792108651",
+      "price": 339000,
+      "surface": 63,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "F",
+      "dpeKwh": 358,
+      "ges": "C",
+      "gesKg": 17,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "rez de chaussée",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 339000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64600-586",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53244921/17-acheter-appartement-anglet-64600.htm",
+      "title": "Achat Appartement 3 pièce(s) 60 m² ANGLET 64600 272 500 € - fnaim.fr",
+      "price": 272500,
+      "surface": 60,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 230,
+      "ges": "D",
+      "gesKg": 48,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": 1020,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Balcon Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 272500
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40150-587",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53245789/17-acheter-appartement-soorts-hossegor-40150.htm",
+      "title": "Achat Appartement 3 pièce(s) 41 m² SOORTS HOSSEGOR 40150 351 000 € - fnaim.fr",
+      "price": 351000,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 230,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 961,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Balcon",
+      "condition": "travaux",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 351000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53245803/17-acheter-appartement-soorts-hossegor-40150.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
+      ]
+    },
+    {
+      "id": "fnaim-40510-588",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52664988/17-acheter-appartement-seignosse-40510.htm",
+      "title": "Achat Appartement 3 pièce(s) 52 m² SEIGNOSSE 40510 244 000 € - fnaim.fr",
+      "price": 244000,
+      "surface": 52,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 171,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": 920,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Balcon",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Seignosse",
+      "postalCode": "40510",
+      "distanceKm": 23.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 244000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
