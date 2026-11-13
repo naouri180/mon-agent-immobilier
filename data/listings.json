@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T06:13:21.023Z",
+  "updatedAt": "2026-11-13T11:14:13.350Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -7892,8 +7892,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7939,8 +7939,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7958,7 +7958,7 @@
       "source": "ParuVendu",
       "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294005897A1KIVHAP000",
       "title": "Annonce vente appartement 2 pièces de 49m2 à Cambo les bains (64250) - ParuVendu.fr ref 992789389712",
-      "price": 250000,
+      "price": 240000,
       "surface": 49,
       "surfaceCarrez": null,
       "rooms": 2,
@@ -7988,12 +7988,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
           "price": 250000
+        },
+        {
+          "date": "2026-11-13",
+          "price": 240000
         }
       ],
       "weaknesses": [
@@ -8036,8 +8040,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8086,8 +8090,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8182,7 +8186,7 @@
       "city": "Hasparren",
       "postalCode": "64240",
       "distanceKm": 18.3,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-07",
@@ -8196,7 +8200,8 @@
       "weaknesses": [
         "Nature du parking non précisée",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-13"
     },
     {
       "id": "paruvendu-1294354746",
@@ -8234,8 +8239,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8284,8 +8289,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8330,7 +8335,7 @@
       "city": "Urrugne",
       "postalCode": "64122",
       "distanceKm": 23.2,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-07",
@@ -8344,7 +8349,8 @@
       "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-13"
     },
     {
       "id": "paruvendu-1296453084",
@@ -8381,8 +8387,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8434,8 +8440,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8483,8 +8489,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8502,7 +8508,7 @@
       "source": "ParuVendu",
       "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294665881A1KIVHAP000",
       "title": "Annonce vente appartement 4 pièces de 84m2 à Ondres (40440) - ParuVendu.fr ref 992789901334",
-      "price": 420000,
+      "price": 399000,
       "surface": 84,
       "surfaceCarrez": null,
       "rooms": 4,
@@ -8532,12 +8538,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
           "price": 420000
+        },
+        {
+          "date": "2026-11-13",
+          "price": 399000
         }
       ],
       "weaknesses": [
@@ -8637,8 +8647,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8688,7 +8698,7 @@
       "city": "Saint-Martin-de-Seignanx",
       "postalCode": "40390",
       "distanceKm": 9.1,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-07",
@@ -8701,7 +8711,8 @@
       ],
       "weaknesses": [
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-13"
     },
     {
       "id": "paruvendu-1293971082",
@@ -8738,8 +8749,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8786,8 +8797,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8836,8 +8847,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8945,8 +8956,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8995,8 +9006,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9044,8 +9055,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9093,8 +9104,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9148,8 +9159,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9168,7 +9179,7 @@
       "source": "ParuVendu",
       "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294695205A1KIVHAP000",
       "title": "Annonce vente appartement 2 pièces de 43m2 à Capbreton (40130) - ParuVendu.fr ref 992789925800",
-      "price": 295500,
+      "price": 286635,
       "surface": 43,
       "surfaceCarrez": null,
       "rooms": 2,
@@ -9198,12 +9209,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
           "price": 295500
+        },
+        {
+          "date": "2026-11-13",
+          "price": 286635
         }
       ],
       "weaknesses": [
@@ -9247,8 +9262,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-07",
-      "lastChecked": "2026-11-07",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -26378,7 +26393,8 @@
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ],
       "altUrls": [
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1297190247A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297190247A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297388149A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -30105,6 +30121,103 @@
       ],
       "weaknesses": [
         "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297372523",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297372523A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 70m2 à Bayonne (64100) - ParuVendu.fr ref 992792182933",
+      "price": 339000,
+      "surface": 70,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "2e étage",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "neuf",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 339000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297383130",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297383130A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 77m2 à Louhossoa (64250) - ParuVendu.fr ref 992792193152",
+      "price": 212000,
+      "surface": 77,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": null,
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "box"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Jardin / Terrain",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
+      "lastChecked": "2026-11-13",
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 212000
+        }
+      ],
+      "weaknesses": [
+        "DPE non trouvé dans l’annonce",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]

@@ -1,7 +1,7 @@
 {
-  "lastRun": "2026-11-13T06:13:21.023Z",
+  "lastRun": "2026-11-13T11:14:13.350Z",
   "mode": "search",
-  "message": "8 nouvelle(s) annonce(s), 2 baisse(s) de prix, 1 retirée(s). 24 annonce(s) revérifiée(s), 2 source(s) bloquée(s).",
+  "message": "2 nouvelle(s) annonce(s), 3 baisse(s) de prix, 3 retirée(s). 22 annonce(s) revérifiée(s), 2 source(s) bloquée(s).",
   "sources": [
     {
       "name": "Foncia",
@@ -9,7 +9,7 @@
     },
     {
       "name": "ParuVendu",
-      "result": "372 annonce(s) listée(s)"
+      "result": "376 annonce(s) listée(s)"
     },
     {
       "name": "FNAIM",
@@ -21,16 +21,12 @@
     }
   ],
   "stats": {
-    "pagesFetched": 99,
-    "new": 8,
-    "priceDrops": 2,
-    "removed": 1,
+    "pagesFetched": 89,
+    "new": 2,
+    "priceDrops": 3,
+    "removed": 3,
     "duplicates": 1,
-    "rejected": 12,
-    "rechecked": 24
-  },
-  "notifications": [
-    "ntfy : 2/2 envoyée(s)",
-    "e-mail non configuré (secrets SMTP absents)"
-  ]
+    "rejected": 8,
+    "rechecked": 22
+  }
 }
