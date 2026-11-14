@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T10:55:01.404Z",
+  "updatedAt": "2026-11-14T15:52:10.119Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -95,8 +95,8 @@
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -104,8 +104,7 @@
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0,
-      "lastCheckProblem": "accès refusé par le site"
+      "distanceKm": 0
     },
     {
       "id": "capifrance-117218",
@@ -199,8 +198,8 @@
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -208,8 +207,7 @@
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0,
-      "lastCheckProblem": "accès refusé par le site"
+      "distanceKm": 0
     },
     {
       "id": "foncia-00752272",
@@ -247,8 +245,8 @@
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -256,8 +254,7 @@
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0,
-      "lastCheckProblem": "accès refusé par le site"
+      "distanceKm": 0
     },
     {
       "id": "etreproprio-26275766",
@@ -324,7 +321,7 @@
       "title": "T3 avec terrasse Est dans un quartier arboré",
       "city": "Bayonne",
       "quartier": "Quartier résidentiel arboré",
-      "price": 249000,
+      "price": 239000,
       "surface": 65,
       "rooms": 3,
       "bedrooms": 2,
@@ -352,17 +349,20 @@
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
-      "lastChecked": "2026-10-25",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
           "price": 249000
+        },
+        {
+          "date": "2026-11-14",
+          "price": 239000
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0,
-      "lastCheckProblem": "accès refusé par le site"
+      "distanceKm": 0
     },
     {
       "id": "fnaim-53014705",
@@ -513,11 +513,14 @@
         "https://www.paruvendu.fr/immobilier/vente/appartement/1293268611A1KIVHAP000",
         "https://www.fnaim.fr/annonce-immobiliere/52913467/17-acheter-appartement-biarritz-64200.htm",
         "https://www.fnaim.fr/annonce-immobiliere/53180903/17-acheter-appartement-seignosse-40510.htm",
-        "https://www.fnaim.fr/annonce-immobiliere/53180897/17-acheter-appartement-seignosse-40510.htm"
+        "https://www.fnaim.fr/annonce-immobiliere/53180897/17-acheter-appartement-seignosse-40510.htm",
+        "https://fr.foncia.com/achat/anglet-64600/appartement/00854078.htm",
+        "https://fr.foncia.com/achat/anglet-64600/appartement/00829847.htm"
       ],
       "duplicates": [
         "paruvendu.fr",
-        "fnaim.fr"
+        "fnaim.fr",
+        "fr.foncia.com"
       ]
     },
     {
@@ -803,8 +806,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -852,8 +855,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -901,8 +904,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -950,8 +953,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1000,8 +1003,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1051,8 +1054,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1149,8 +1152,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1201,8 +1204,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1249,8 +1252,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1303,8 +1306,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1358,8 +1361,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8564,6 +8567,12 @@
         "Procédure en cours dans la copropriété",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://fr.foncia.com/achat/ondres-40440/appartement/00868541.htm"
+      ],
+      "duplicates": [
+        "fr.foncia.com"
       ]
     },
     {
@@ -10243,8 +10252,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10292,8 +10301,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10333,7 +10342,7 @@
         "type": "inconnu",
         "detail": "parking"
       },
-      "floor": null,
+      "floor": "dernier étage",
       "elevator": null,
       "charges": null,
       "taxeFonciere": 740,
@@ -10348,8 +10357,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10404,8 +10413,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10449,7 +10458,7 @@
         "type": "inconnu",
         "detail": "parking"
       },
-      "floor": null,
+      "floor": "dernier étage",
       "elevator": null,
       "charges": null,
       "taxeFonciere": 730,
@@ -10464,8 +10473,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10513,8 +10522,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10553,7 +10562,7 @@
         "type": "inconnu",
         "detail": "parking"
       },
-      "floor": null,
+      "floor": "1er étage",
       "elevator": null,
       "charges": null,
       "taxeFonciere": 580,
@@ -10568,8 +10577,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10602,7 +10611,7 @@
         "type": "inconnu",
         "detail": "parking"
       },
-      "floor": null,
+      "floor": "rez-de-chaussée",
       "elevator": null,
       "charges": null,
       "taxeFonciere": 580,
@@ -10617,8 +10626,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10659,7 +10668,7 @@
         "type": "inconnu",
         "detail": "parking"
       },
-      "floor": null,
+      "floor": "1er étage",
       "elevator": null,
       "charges": null,
       "taxeFonciere": 720,
@@ -10674,8 +10683,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10716,7 +10725,7 @@
         "type": "inconnu",
         "detail": "parking"
       },
-      "floor": null,
+      "floor": "dernier étage",
       "elevator": null,
       "charges": null,
       "taxeFonciere": 710,
@@ -10731,8 +10740,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10773,7 +10782,7 @@
         "type": "inconnu",
         "detail": "parking"
       },
-      "floor": null,
+      "floor": "rez-de-chaussée",
       "elevator": null,
       "charges": null,
       "taxeFonciere": 580,
@@ -10788,8 +10797,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10844,8 +10853,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10899,8 +10908,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11007,8 +11016,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -15305,6 +15314,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://fr.foncia.com/achat/hendaye-64700/appartement/00808720.htm"
+      ],
+      "duplicates": [
+        "fr.foncia.com"
       ]
     },
     {
@@ -26366,6 +26381,12 @@
       "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297438363A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -30964,6 +30985,1383 @@
       ],
       "weaknesses": [
         "Procédure en cours dans la copropriété",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00854852",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/bayonne-64100/appartement/00854852.htm",
+      "title": "Appartement 3 pièces T3 F3 57 m² à vendre - 250000 € - Bayonne (64100)",
+      "price": 250000,
+      "surface": 57,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 67,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "une place de parking au sous sol"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 876,
+      "taxeFonciere": null,
+      "exterior": "salle de bain, un WC, un balcon expo Ouest ainsi qu'une place de parking au",
+      "condition": "inconnu",
+      "year": 2021,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 250000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00582487",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/bayonne-64100/appartement/00582487.htm",
+      "title": "Appartement 3 pièces T3 F3 77 m² à vendre - 277000 € - Bayonne (64100)",
+      "price": 277000,
+      "surface": 77,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 213,
+      "ges": "B",
+      "gesKg": 8,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "place de parking en sous-sol"
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": 1800,
+      "taxeFonciere": null,
+      "exterior": "Grande terrasse de plus de 20 m2 et place de parking en sous",
+      "condition": "inconnu",
+      "year": 2008,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 277000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00852090",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/bayonne-64100/appartement/00852090.htm",
+      "title": "Appartement 2 pièces T2 F2 57.25 m² à vendre - 220320 € - Bayonne (64100)",
+      "price": 220320,
+      "surface": 57.25,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 151,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "DERNIER ÉTAGE",
+      "elevator": null,
+      "charges": 732,
+      "taxeFonciere": null,
+      "exterior": "IDÉAL — DERNIER ÉTAGE ET TERRASSE PLEIN OUEST",
+      "condition": "excellent",
+      "year": 2011,
+      "procedure": false,
+      "quartier": "Arrousets",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 220320
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00824774",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/bayonne-64100/appartement/00824774.htm",
+      "title": "Appartement 3 pièces T3 F3 72 m² à vendre - 249000 € - Bayonne (64100)",
+      "price": 249000,
+      "surface": 72,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 143,
+      "ges": "C",
+      "gesKg": 23,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "1er étage",
+      "elevator": null,
+      "charges": 936,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "excellent",
+      "year": null,
+      "procedure": false,
+      "quartier": "Grand Bayonne",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 249000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00822812",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/bayonne-64100/appartement/00822812.htm",
+      "title": "Appartement 3 pièces T3 F3 73.87 m² à vendre - 340000 € - Bayonne (64100)",
+      "price": 340000,
+      "surface": 73.87,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 63,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "deux places de parking privatives"
+      },
+      "floor": "2 ème étage",
+      "elevator": true,
+      "charges": 984,
+      "taxeFonciere": null,
+      "exterior": "Une agréable terrasse de 12 m² sans vis-à-vis, idéale pour profite",
+      "condition": "inconnu",
+      "year": 2014,
+      "procedure": false,
+      "quartier": "Arènes",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 340000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00786621",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/bayonne-64100/appartement/00786621.htm",
+      "title": "Appartement 2 pièces T2 F2 63.66 m² à vendre - 250000 € - Bayonne (64100)",
+      "price": 250000,
+      "surface": 63.66,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 113,
+      "ges": "A",
+      "gesKg": 4,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "garage"
+      },
+      "floor": "1er étage",
+      "elevator": true,
+      "charges": 1848,
+      "taxeFonciere": null,
+      "exterior": "avec cuisine ouverte et loggia",
+      "condition": "inconnu",
+      "year": 2010,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 250000
+        }
+      ],
+      "weaknesses": [
+        "Charges élevées",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00797274",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/bayonne-64100/appartement/00797274.htm",
+      "title": "Appartement 2 pièces T2 F2 61.89 m² à vendre - 240000 € - Bayonne (64100)",
+      "price": 240000,
+      "surface": 61.89,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 164,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "un box fermé sécurisé en sous-sol"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1800,
+      "taxeFonciere": null,
+      "exterior": "rolongé par une agréable loggia - l'atout charme pour vos moments de détente",
+      "condition": "inconnu",
+      "year": 2010,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 240000
+        }
+      ],
+      "weaknesses": [
+        "Charges élevées",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00848413",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/anglet-64600/appartement/00848413.htm",
+      "title": "Appartement 3 pièces T3 F3 66.19 m² à vendre - 495000 € - Anglet (64600)",
+      "price": 495000,
+      "surface": 66.19,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 149,
+      "ges": "D",
+      "gesKg": 30,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "garage",
+        "detail": "un garage privatif en sous-sol vient parfaire les prestations de ce b"
+      },
+      "floor": "Rez-de-chaussée",
+      "elevator": null,
+      "charges": 1476,
+      "taxeFonciere": null,
+      "exterior": "n prolongement, un grand balcon sans vis-à-vis offre un véritable espace ext",
+      "condition": "inconnu",
+      "year": 1999,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 495000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00535169",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/anglet-64600/appartement/00535169.htm",
+      "title": "Appartement 2 pièces T2 F2 43 m² à vendre - 220000 € - Anglet (64600)",
+      "price": 220000,
+      "surface": 43,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 84,
+      "ges": "C",
+      "gesKg": 15,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "place de parking intérieure"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 756,
+      "taxeFonciere": null,
+      "exterior": "T2 de 43 m2 avec une terrasse exceptionnelle de 19 m2 couverte et calme",
+      "condition": "inconnu",
+      "year": 2013,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 220000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00762430",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/anglet-64600/appartement/00762430.htm",
+      "title": "Appartement 3 pièces T3 F3 66.12 m² à vendre - 535000 € - Anglet (64600)",
+      "price": 535000,
+      "surface": 66.12,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 146,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": null,
+        "type": "box",
+        "detail": "Parking peut-être en option : à vérifier"
+      },
+      "floor": "rez-de-jardin",
+      "elevator": null,
+      "charges": 1200,
+      "taxeFonciere": null,
+      "exterior": "et appartement en rez-de-jardin bénéficie d'un environnement privilégié, ent",
+      "condition": "inconnu",
+      "year": 1998,
+      "procedure": true,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 535000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00736731",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/anglet-64600/appartement/00736731.htm",
+      "title": "Appartement 3 pièces T3 F3 78 m² à vendre - 450000 € - Anglet (64600)",
+      "price": 450000,
+      "surface": 78,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 164,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "une place de parking extérieure complète ce bien"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "nt tous deux accès à une terrasse avec pergola de 31 m2 exposée SUD",
+      "condition": "inconnu",
+      "year": 1992,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 450000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00662015",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/anglet-64600/appartement/00662015.htm",
+      "title": "Appartement 3 pièces T3 F3 53 m² à vendre - 263000 € - Anglet (64600)",
+      "price": 263000,
+      "surface": 53,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 164,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "place de stationnement en sous-sol"
+      },
+      "floor": "1er et dernier étage",
+      "elevator": null,
+      "charges": 564,
+      "taxeFonciere": null,
+      "exterior": "er étage disposant d'une terrasse couverte exposé Sud",
+      "condition": "inconnu",
+      "year": 2004,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 263000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00828329",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/biarritz-64200/appartement/00828329.htm",
+      "title": "Appartement 3 pièces T3 F3 68 m² à vendre - 450000 € - Biarritz (64200)",
+      "price": 450000,
+      "surface": 68,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 176,
+      "ges": "D",
+      "gesKg": 38,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking floquet à biarritz et à 15 minutes à pied des halles, cet a"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "travaux",
+      "year": 1970,
+      "procedure": false,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 450000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00855579",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/biarritz-64200/appartement/00855579.htm",
+      "title": "Appartement 2 pièces T2 F2 55 m² à vendre - 340000 € - Biarritz (64200)",
+      "price": 340000,
+      "surface": 55,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 211,
+      "ges": "D",
+      "gesKg": 46,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 1728,
+      "taxeFonciere": null,
+      "exterior": "a ville : les Halles, le Jardin Public, la Gare du Midi, le Casino, le Roche",
+      "condition": "inconnu",
+      "year": 1980,
+      "procedure": false,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 340000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Charges élevées",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00828813",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/biarritz-64200/appartement/00828813.htm",
+      "title": "Appartement 3 pièces T3 F3 78.64 m² à vendre - 630000 € - Biarritz (64200)",
+      "price": 630000,
+      "surface": 83.24,
+      "surfaceCarrez": 78.64,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "B",
+      "dpeKwh": 81,
+      "ges": "A",
+      "gesKg": 2,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "garage",
+        "detail": "stationnement libre dans la cour d’honneur"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 630000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00550328",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/biarritz-64200/appartement/00550328.htm",
+      "title": "Appartement 2 pièces T2 F2 49.06 m² à vendre - 282000 € - Biarritz (64200)",
+      "price": 282000,
+      "surface": 49.78,
+      "surfaceCarrez": 49.06,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 142,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking extérieur et cellier-appartement loué"
+      },
+      "floor": "2 ème étage",
+      "elevator": true,
+      "charges": 1200,
+      "taxeFonciere": null,
+      "exterior": "BIARRITZ- Sabaou-Jardin d'hiver-BIARRITZ- au 2 ème étage d'une petit",
+      "condition": "inconnu",
+      "year": 1990,
+      "procedure": false,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 282000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00789124",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/biarritz-64200/appartement/00789124.htm",
+      "title": "Appartement 2 pièces T2 F2 43 m² à vendre - 242000 € - Biarritz (64200)",
+      "price": 242000,
+      "surface": 43,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 174,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "garage",
+        "detail": "un garage et d'un cellier"
+      },
+      "floor": "1er étage",
+      "elevator": true,
+      "charges": 1128,
+      "taxeFonciere": null,
+      "exterior": "Biarritz Quartier jardin d'hiver-Sabaou, dans petite copropriété au c",
+      "condition": "inconnu",
+      "year": 1990,
+      "procedure": false,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 242000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00794913",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/biarritz-64200/appartement/00794913.htm",
+      "title": "Studio T1 F1 42.84 m² à vendre - 329000 € - Biarritz (64200)",
+      "price": 329000,
+      "surface": 44.65,
+      "surfaceCarrez": 42.84,
+      "rooms": 1,
+      "bedrooms": null,
+      "dpe": "D",
+      "dpeKwh": 172,
+      "ges": "D",
+      "gesKg": 35,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "3 ème étage",
+      "elevator": true,
+      "charges": 1824,
+      "taxeFonciere": null,
+      "exterior": "ieux et lumineux avec un balcon dont la vue domine la place Clemenceau, déve",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 329000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Charges élevées",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00794670",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/saint-pierre-d-irube-64990/appartement/00794670.htm",
+      "title": "Appartement 4 pièces T4 F4 79.85 m² à vendre - 230000 € - Saint-pierre-d",
+      "price": 230000,
+      "surface": 79,
+      "surfaceCarrez": 79.85,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 109,
+      "ges": "C",
+      "gesKg": 19,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "une place de parking en sous-sol sécurisée"
+      },
+      "floor": "2 ème étage",
+      "elevator": null,
+      "charges": 1476,
+      "taxeFonciere": null,
+      "exterior": "- Une terrasse agréable pour profiter de l'extérieur",
+      "condition": "inconnu",
+      "year": 2010,
+      "procedure": false,
+      "quartier": null,
+      "city": "Saint-Pierre-d'Irube",
+      "postalCode": "64990",
+      "distanceKm": 2.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 230000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00632590",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/lahonce-64990/appartement/00632590.htm",
+      "title": "Appartement 3 pièces T3 F3 65.64 m² à vendre - 249000 € - Lahonce (64990)",
+      "price": 249000,
+      "surface": 65.64,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 121,
+      "ges": "C",
+      "gesKg": 24,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "deux places de parking complètent ce bien"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 1344,
+      "taxeFonciere": null,
+      "exterior": "30 m2 s'ouvrant sur une terrasse de 25 m2 sans vis à vis exposée SUD",
+      "condition": "inconnu",
+      "year": 2013,
+      "procedure": false,
+      "quartier": null,
+      "city": "Lahonce",
+      "postalCode": "64990",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 249000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00803688",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/bidart-64210/appartement/00803688.htm",
+      "title": "Appartement 3 pièces T3 F3 49.78 m² à vendre - 435000 € - Bidart (64210)",
+      "price": 435000,
+      "surface": 49.78,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 241,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "garage",
+        "detail": "garage aménageable complète le bien"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": 1368,
+      "taxeFonciere": null,
+      "exterior": "chaussée, ouvrant sur la terrasse et ce beau jardin",
+      "condition": "inconnu",
+      "year": 1999,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 435000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00794382",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/saint-jean-de-luz-64500/appartement/00794382.htm",
+      "title": "Appartement 3 pièces T3 F3 72.81 m² à vendre - 399500 € - Saint-jean-de-luz (64500)",
+      "price": 399500,
+      "surface": 72.81,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 307,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 399500
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00764790",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/hendaye-64700/appartement/00764790.htm",
+      "title": "Appartement 2 pièces T2 F2 42.4 m² à vendre - 219000 € - Hendaye (64700)",
+      "price": 219000,
+      "surface": 48.6,
+      "surfaceCarrez": 42.4,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 132,
+      "ges": "C",
+      "gesKg": 26,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "une place de parking en sous sol et une cave"
+      },
+      "floor": "1er étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "T2 situé à Hendaye avec terrasse couverte de 6 m2 donnant sur les espaces ver",
+      "condition": "inconnu",
+      "year": 2004,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 219000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00753228",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/larressore-64480/appartement/00753228.htm",
+      "title": "Appartement 2 pièces T2 F2 40.24 m² à vendre - 133000 € - Larressore (64480)",
+      "price": 133000,
+      "surface": 40.24,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 207,
+      "ges": "D",
+      "gesKg": 41,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "une place de parking en sous/sol"
+      },
+      "floor": "Rez-de-chaussée",
+      "elevator": null,
+      "charges": 900,
+      "taxeFonciere": null,
+      "exterior": "Jardin Oui",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Larressore",
+      "postalCode": "64480",
+      "distanceKm": 14,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 133000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00849165",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/capbreton-40130/appartement/00849165.htm",
+      "title": "Appartement 2 pièces T2 F2 72.2 m² à vendre - 525000 € - Capbreton (40130)",
+      "price": 525000,
+      "surface": 77,
+      "surfaceCarrez": 72.2,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 247,
+      "ges": "B",
+      "gesKg": 9,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "inconnu",
+        "detail": "deux places de parking sont un véritable avantage, rares dans le secteur"
+      },
+      "floor": "Rez-de-chaussée",
+      "elevator": null,
+      "charges": 804,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": 1990,
+      "procedure": false,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 525000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00858861",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/capbreton-40130/appartement/00858861.htm",
+      "title": "Studio T1 F1 30.08 m² à vendre - 234000 € - Capbreton (40130)",
+      "price": 234000,
+      "surface": 48.05,
+      "surfaceCarrez": 30.08,
+      "rooms": 1,
+      "bedrooms": null,
+      "dpe": "D",
+      "dpeKwh": 219,
+      "ges": "B",
+      "gesKg": 8,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking individuel en sous-sol (très appréciable sur le secteur !)"
+      },
+      "floor": "5 ème et dernier étage",
+      "elevator": true,
+      "charges": 972,
+      "taxeFonciere": null,
+      "exterior": "énéficie également d'une terrasse exposée Est, parfaite pour profiter du solei",
+      "condition": "travaux",
+      "year": 1983,
+      "procedure": false,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 234000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00746562",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/benesse-maremne-40230/appartement/00746562.htm",
+      "title": "Appartement 2 pièces T2 F2 45.73 m² à vendre - 165000 € - Bénesse-maremne (40230)",
+      "price": 165000,
+      "surface": 45.73,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 73,
+      "ges": "C",
+      "gesKg": 13,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 516,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": 2017,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bénesse-Maremne",
+      "postalCode": "40230",
+      "distanceKm": 18.5,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 165000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297435065",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297435065A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 68m2 à Bayonne (64100) - ParuVendu.fr ref 992792240260",
+      "price": 390000,
+      "surface": 68,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - bayonne bayonne"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "lastChecked": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 390000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }
