@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T15:52:10.119Z",
+  "updatedAt": "2026-11-15T06:02:22.671Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -11067,8 +11067,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11118,8 +11118,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11167,8 +11167,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11222,8 +11222,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11275,8 +11275,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11300,43 +11300,46 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/53034208/17-acheter-appartement-bayonne-64100.htm",
       "title": "Achat Appartement 1 pièce(s) 48 m² BAYONNE 64100 186 375 € - fnaim.fr",
-      "price": 186375,
+      "price": 75000,
       "surface": 48,
       "surfaceCarrez": null,
       "rooms": 1,
-      "bedrooms": null,
+      "bedrooms": 1,
       "dpe": "C",
       "dpeKwh": 140,
       "ges": "A",
       "gesKg": 4,
       "dpeDerived": false,
       "parking": {
-        "count": 0,
-        "type": null,
-        "detail": null,
-        "uncertain": true
+        "count": 1,
+        "type": "garage",
+        "detail": "parkings - garages"
       },
-      "floor": null,
+      "floor": "1er étage",
       "elevator": true,
       "charges": null,
       "taxeFonciere": null,
       "exterior": "Terrasse : Non",
       "condition": "bon",
-      "year": null,
+      "year": 2016,
       "procedure": false,
-      "quartier": null,
+      "quartier": "Petit Bayonne",
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
           "price": 186375
+        },
+        {
+          "date": "2026-11-15",
+          "price": 75000
         }
       ],
       "weaknesses": [
@@ -11379,8 +11382,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -18362,8 +18365,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-28",
@@ -18410,8 +18413,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-28",
@@ -18509,8 +18512,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-28",
@@ -18566,8 +18569,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-28",
@@ -18623,8 +18626,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-28",
@@ -18642,7 +18645,7 @@
       "source": "ParuVendu",
       "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296750467A1KIVHAP000",
       "title": "Annonce vente appartement 3 pièces de 54m2 à Bidart (64210) - ParuVendu.fr ref 992791636038",
-      "price": 294000,
+      "price": 280000,
       "surface": 54,
       "surfaceCarrez": null,
       "rooms": 3,
@@ -18672,12 +18675,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-28",
           "price": 294000
+        },
+        {
+          "date": "2026-11-15",
+          "price": 280000
         }
       ],
       "weaknesses": [
@@ -18720,7 +18727,7 @@
       "city": "Saint-Martin-de-Seignanx",
       "postalCode": "40390",
       "distanceKm": 9.1,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-28",
       "lastSeen": "2026-11-08",
@@ -18735,7 +18742,8 @@
         "Parking non confirmé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-15"
     },
     {
       "id": "paruvendu-1293678204",
@@ -18772,8 +18780,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-28",
@@ -18820,8 +18828,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-28",
@@ -18868,8 +18876,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-28",
@@ -18917,8 +18925,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-28",
@@ -18966,8 +18974,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-28",
@@ -19072,8 +19080,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-28",
@@ -19121,8 +19129,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-28",
@@ -19170,8 +19178,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-28",
@@ -21655,6 +21663,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297433950A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -22041,7 +22055,7 @@
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-02",
       "lastSeen": "2026-11-08",
@@ -22062,7 +22076,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-15"
     },
     {
       "id": "paruvendu-1294937319",
@@ -22099,8 +22114,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-11-02",
@@ -22148,8 +22163,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-11-02",
@@ -22247,8 +22262,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-11-02",
@@ -22407,8 +22422,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-11-02",
@@ -22456,8 +22471,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-11-02",
@@ -22505,8 +22520,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-11-02",
@@ -27190,6 +27205,12 @@
       "weaknesses": [
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297433951A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -29228,6 +29249,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297449270A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -32361,6 +32388,254 @@
       "weaknesses": [
         "Nature du parking non précisée",
         "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297449250A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
+      ]
+    },
+    {
+      "id": "paruvendu-1297454119",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297454119A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 67m2 à Bayonne (64100) - ParuVendu.fr ref 992792257163",
+      "price": 279000,
+      "surface": 67,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "B",
+      "dpeKwh": 56,
+      "ges": "B",
+      "gesKg": 10,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 600,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "excellent",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
+      "priceHistory": [
+        {
+          "date": "2026-11-15",
+          "price": 279000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295358265",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295358265A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 72m2 à Anglet (64600) - ParuVendu.fr ref 992790456306",
+      "price": 275000,
+      "surface": 72,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 252,
+      "ges": "E",
+      "gesKg": 55,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": 780,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "travaux",
+      "year": 1962,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
+      "priceHistory": [
+        {
+          "date": "2026-11-15",
+          "price": 275000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297448008",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297448008A1KIVHAP000",
+      "title": "Annonce appartement · sans agence : 74 m² · 4 pièces, vente 4 pièces de particulier Pyrénées-Atlantiques - ParuVendu.fr ref WI178185916",
+      "price": 310000,
+      "surface": 74,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 150,
+      "ges": "C",
+      "gesKg": 20,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": 1200,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "bon",
+      "year": 2019,
+      "procedure": false,
+      "quartier": null,
+      "city": "Lahonce",
+      "postalCode": "64990",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
+      "priceHistory": [
+        {
+          "date": "2026-11-15",
+          "price": 310000
+        }
+      ],
+      "weaknesses": [
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297446533",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297446533A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 46m2 à Ciboure (64500) - ParuVendu.fr ref 992792250292",
+      "price": 235000,
+      "surface": 46,
+      "surfaceCarrez": 40.95,
+      "rooms": 3,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 195,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 1200,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
+      "priceHistory": [
+        {
+          "date": "2026-11-15",
+          "price": 235000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64500-637",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53248333/17-acheter-appartement-ciboure-64500.htm",
+      "title": "Achat Appartement 3 pièce(s) 50 m² CIBOURE 64500 217 000 € - fnaim.fr",
+      "price": 217000,
+      "surface": 50,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 274,
+      "ges": "B",
+      "gesKg": 10,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "une place de parking complète le bien"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 240,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
+      "priceHistory": [
+        {
+          "date": "2026-11-15",
+          "price": 217000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
