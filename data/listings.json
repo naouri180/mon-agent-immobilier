@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T06:02:22.671Z",
+  "updatedAt": "2026-11-15T10:56:30.679Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -1409,8 +1409,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1459,8 +1459,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1508,8 +1508,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1558,8 +1558,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1669,8 +1669,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1721,8 +1721,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1739,7 +1739,7 @@
       "source": "ParuVendu",
       "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1292879395A1KIVHAP000",
       "title": "Annonce vente appartement 5 pièces de 84m2 à Anglet (64600) - ParuVendu.fr ref 992788494997",
-      "price": 290000,
+      "price": 265000,
       "surface": 84,
       "surfaceCarrez": null,
       "rooms": 5,
@@ -1769,12 +1769,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
           "price": 290000
+        },
+        {
+          "date": "2026-11-15",
+          "price": 265000
         }
       ],
       "weaknesses": [
@@ -1817,8 +1821,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1916,8 +1920,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1965,8 +1969,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2014,8 +2018,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2062,8 +2066,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2111,8 +2115,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2166,8 +2170,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2213,8 +2217,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2272,8 +2276,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2320,8 +2324,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2376,8 +2380,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2425,8 +2429,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -22568,8 +22572,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-11-02",
@@ -22616,8 +22620,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-11-02",
@@ -22773,8 +22777,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-11-02",
@@ -22823,8 +22827,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-11-02",
@@ -27146,8 +27150,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-08",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-11-08",
@@ -27194,8 +27198,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-08",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-11-08",
@@ -27249,8 +27253,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-08",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-11-08",
@@ -27299,8 +27303,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-08",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-11-08",
@@ -27348,8 +27352,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-08",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-11-08",
@@ -27396,8 +27400,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-08",
-      "lastSeen": "2026-11-08",
-      "lastChecked": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
       "priceHistory": [
         {
           "date": "2026-11-08",
@@ -30915,6 +30919,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297444582A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -32392,7 +32402,8 @@
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ],
       "altUrls": [
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1297449250A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297449250A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297444491A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -32636,6 +32647,251 @@
       ],
       "weaknesses": [
         "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297444502",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297444502A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 63m2 à Bayonne (64100) - ParuVendu.fr ref 992792248474",
+      "price": 360000,
+      "surface": 63,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "B",
+      "dpeKwh": 35,
+      "ges": "B",
+      "gesKg": 2,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "2ème étage",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "T3 de 63,4m² avec 7m² de terrasse et pk Bayonne",
+      "condition": "neuf",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
+      "priceHistory": [
+        {
+          "date": "2026-11-15",
+          "price": 360000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1290001056",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1290001056A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 72m2 à Bayonne (64100) - ParuVendu.fr ref 992786022165",
+      "price": 310830,
+      "surface": 72,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 192,
+      "ges": "D",
+      "gesKg": 41,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "1er étage",
+      "elevator": true,
+      "charges": 600,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": "Arènes",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
+      "priceHistory": [
+        {
+          "date": "2026-11-15",
+          "price": 310830
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296275479",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296275479A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 61m2 à Anglet (64600) - ParuVendu.fr ref 992791221672",
+      "price": 350000,
+      "surface": 61,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 197,
+      "ges": "B",
+      "gesKg": 8,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": false,
+      "charges": 674,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
+      "priceHistory": [
+        {
+          "date": "2026-11-15",
+          "price": 350000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297444583",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297444583A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 62m2 à Capbreton (40130) - ParuVendu.fr ref 992792248555",
+      "price": 347000,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 35,
+      "ges": "A",
+      "gesKg": 3,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": "2e étage",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "tement T3 de 62,1m² avec balcon 10,1m² et pk à Capbreton Capbreton",
+      "condition": "neuf",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
+      "priceHistory": [
+        {
+          "date": "2026-11-15",
+          "price": 347000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297454280",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297454280A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Saint vincent de tyrosse (40230) - ParuVendu.fr ref 992792257323",
+      "price": 165000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 151,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 502,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Saint-Vincent-de-Tyrosse",
+      "postalCode": "40230",
+      "distanceKm": 23,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "lastChecked": "2026-11-15",
+      "priceHistory": [
+        {
+          "date": "2026-11-15",
+          "price": 165000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]

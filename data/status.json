@@ -1,7 +1,7 @@
 {
-  "lastRun": "2026-11-15T06:02:22.671Z",
+  "lastRun": "2026-11-15T10:56:30.679Z",
   "mode": "search",
-  "message": "5 nouvelle(s) annonce(s), 2 baisse(s) de prix, 2 retirée(s). 27 annonce(s) revérifiée(s), 2 source(s) bloquée(s).",
+  "message": "5 nouvelle(s) annonce(s), 1 baisse(s) de prix, 0 retirée(s). 29 annonce(s) revérifiée(s), 2 source(s) bloquée(s).",
   "sources": [
     {
       "name": "Foncia",
@@ -13,7 +13,7 @@
     },
     {
       "name": "FNAIM",
-      "result": "261 annonce(s) listée(s) (2 page(s) sans réponse)"
+      "result": "311 annonce(s) listée(s)"
     },
     {
       "name": "Capifrance",
@@ -21,16 +21,12 @@
     }
   ],
   "stats": {
-    "pagesFetched": 94,
+    "pagesFetched": 91,
     "new": 5,
-    "priceDrops": 2,
-    "removed": 2,
-    "duplicates": 4,
-    "rejected": 7,
-    "rechecked": 27
-  },
-  "notifications": [
-    "ntfy : 1/1 envoyée(s)",
-    "e-mail non configuré (secrets SMTP absents)"
-  ]
+    "priceDrops": 1,
+    "removed": 0,
+    "duplicates": 2,
+    "rejected": 6,
+    "rechecked": 29
+  }
 }
