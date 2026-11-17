@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T06:14:48.930Z",
+  "updatedAt": "2026-11-17T11:13:52.430Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -4297,8 +4297,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4351,8 +4351,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4402,8 +4402,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4452,8 +4452,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4502,8 +4502,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4614,8 +4614,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4664,8 +4664,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4714,8 +4714,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4763,8 +4763,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4816,8 +4816,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4922,7 +4922,7 @@
       "city": "Guéthary",
       "postalCode": "64210",
       "distanceKm": 13.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-11",
@@ -4937,7 +4937,8 @@
         "Parking non confirmé",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-17"
     },
     {
       "id": "paruvendu-1291206457",
@@ -4974,8 +4975,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5025,8 +5026,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5075,8 +5076,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5132,8 +5133,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5183,8 +5184,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5233,8 +5234,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5282,8 +5283,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -14701,8 +14702,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14759,8 +14760,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15021,8 +15022,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15070,8 +15071,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15126,8 +15127,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15181,8 +15182,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15237,8 +15238,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15296,8 +15297,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15354,8 +15355,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15410,8 +15411,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15460,8 +15461,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -30359,7 +30360,8 @@
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ],
       "altUrls": [
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1297500073A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297500073A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297528383A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -34071,6 +34073,255 @@
       ],
       "weaknesses": [
         "Parking non confirmé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297538714",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297538714A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 81m2 à Bayonne (64100) - ParuVendu.fr ref 992792331308",
+      "price": 365000,
+      "surface": 81,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 94,
+      "ges": "C",
+      "gesKg": 19,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "2 ème étage",
+      "elevator": false,
+      "charges": 1365,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
+      "priceHistory": [
+        {
+          "date": "2026-11-17",
+          "price": 365000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297539033",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297539033A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 60m2 à Anglet (64600) - ParuVendu.fr ref 992792331614",
+      "price": 549000,
+      "surface": 60,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 245,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 960,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
+      "priceHistory": [
+        {
+          "date": "2026-11-17",
+          "price": 549000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297537922",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297537922A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 54m2 à Anglet (64600) - ParuVendu.fr ref 992792330611",
+      "price": 222000,
+      "surface": 54,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 157,
+      "ges": "D",
+      "gesKg": 34,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "4ème étage",
+      "elevator": true,
+      "charges": 1400,
+      "taxeFonciere": 959,
+      "exterior": "partement ANGLET T2 avec loggia, cave et ascenseur Anglet",
+      "condition": "excellent",
+      "year": 1970,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
+      "priceHistory": [
+        {
+          "date": "2026-11-17",
+          "price": 222000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297538413",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297538413A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 80m2 à Boucau (64340) - ParuVendu.fr ref 992792331054",
+      "price": 299000,
+      "surface": 80,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": null,
+      "dpe": "C",
+      "dpeKwh": 177,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "garage",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 120,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Boucau",
+      "postalCode": "64340",
+      "distanceKm": 3.6,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
+      "priceHistory": [
+        {
+          "date": "2026-11-17",
+          "price": 299000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1290703495",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1290703495A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 66m2 à Ascain (64310) - ParuVendu.fr ref 992786616140",
+      "price": 299000,
+      "surface": 66,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 262,
+      "ges": "B",
+      "gesKg": 10,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": false,
+      "charges": 996,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ascain",
+      "postalCode": "64310",
+      "distanceKm": 20.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
+      "priceHistory": [
+        {
+          "date": "2026-11-17",
+          "price": 299000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }
