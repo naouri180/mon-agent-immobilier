@@ -3602,5 +3602,37 @@
   "https://www.paruvendu.fr/immobilier/vente/appartement/1297511057A1KIVHAP000": {
     "reason": "surface 86 m² hors collecte",
     "date": "2026-11-16"
+  },
+  "https://fr.foncia.com/achat/benesse-maremne-40230/appartement/00835897.htm": {
+    "reason": "déjà vendu / sous compromis",
+    "date": "2026-11-17"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1295452002A1KIVHAP000": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-17"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1295452241A1KIVHAP000": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-17"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1296316343A1KIVHAP000": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-17"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1289598988A1KIVHAP000": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-17"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1296609116A1KIVHAP000": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-17"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297508502A1KIVHAP000": {
+    "reason": "surface 152 m² hors collecte",
+    "date": "2026-11-17"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297528374A1KIVHAP000": {
+    "reason": "surface 86 m² hors collecte",
+    "date": "2026-11-17"
   }
 }

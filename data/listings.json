@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T16:49:00.555Z",
+  "updatedAt": "2026-11-17T06:14:48.930Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -4037,8 +4037,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4142,8 +4142,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4191,8 +4191,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4236,7 +4236,7 @@
       "city": "Anglet",
       "postalCode": "64600",
       "distanceKm": 3.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-11",
@@ -4259,7 +4259,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-17"
     },
     {
       "id": "paruvendu-1291134398",
@@ -19583,8 +19584,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-29",
@@ -19631,8 +19632,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-29",
@@ -19679,8 +19680,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-29",
@@ -19728,8 +19729,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-29",
@@ -19785,8 +19786,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-29",
@@ -23787,8 +23788,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-11-04",
@@ -23836,8 +23837,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-11-04",
@@ -23891,8 +23892,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-11-04",
@@ -28248,7 +28249,7 @@
       "city": "Soorts-Hossegor",
       "postalCode": "40150",
       "distanceKm": 20.1,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
@@ -28263,7 +28264,8 @@
         "Nature du parking non précisée",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-17"
     },
     {
       "id": "fnaim-64200-549",
@@ -28300,8 +28302,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-11-10",
@@ -28349,8 +28351,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-11-10",
@@ -28406,8 +28408,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-11-10",
@@ -28455,8 +28457,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-11-10",
@@ -28503,8 +28505,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-11-10",
@@ -28553,8 +28555,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-11-10",
@@ -28603,8 +28605,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-11-10",
@@ -28653,8 +28655,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-11-10",
@@ -28700,7 +28702,7 @@
       "city": "Saint-Jean-de-Luz",
       "postalCode": "64500",
       "distanceKm": 19.2,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
@@ -28722,7 +28724,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-17"
     },
     {
       "id": "paruvendu-1297240445",
@@ -28756,7 +28759,7 @@
       "city": "Bidart",
       "postalCode": "64210",
       "distanceKm": 11.2,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
@@ -28778,7 +28781,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-17"
     },
     {
       "id": "paruvendu-1297256779",
@@ -28815,8 +28819,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-11-10",
@@ -28860,7 +28864,7 @@
       "city": "Capbreton",
       "postalCode": "40130",
       "distanceKm": 16.9,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
@@ -28875,7 +28879,8 @@
         "Nature du parking non précisée",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-17"
     },
     {
       "id": "paruvendu-1297257558",
@@ -28912,8 +28917,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-11-10",
@@ -28961,8 +28966,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-11-10",
@@ -29010,8 +29015,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-11-10",
@@ -29059,8 +29064,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
-      "lastChecked": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-11-10",
@@ -34017,6 +34022,55 @@
       ],
       "weaknesses": [
         "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297515080",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297515080A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 51m2 à Bayonne (64100) - ParuVendu.fr ref 992792309714",
+      "price": 262500,
+      "surface": 51,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 161,
+      "ges": "D",
+      "gesKg": 34,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "excellent",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
+      "priceHistory": [
+        {
+          "date": "2026-11-17",
+          "price": 262500
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }
