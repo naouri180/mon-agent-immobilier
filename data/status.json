@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-11-17T11:13:52.430Z",
+  "lastRun": "2026-11-17T16:09:37.897Z",
   "mode": "search",
-  "message": "5 nouvelle(s) annonce(s), 0 baisse(s) de prix, 1 retirée(s). 28 annonce(s) revérifiée(s), 1 source(s) bloquée(s).",
+  "message": "0 nouvelle(s) annonce(s), 2 baisse(s) de prix, 1 retirée(s). 28 annonce(s) revérifiée(s), 2 source(s) bloquée(s).",
   "sources": [
     {
       "name": "Foncia",
-      "result": "141 annonce(s) listée(s)"
+      "result": "bloquée : accès refusé par le site"
     },
     {
       "name": "ParuVendu",
@@ -21,12 +21,16 @@
     }
   ],
   "stats": {
-    "pagesFetched": 111,
-    "new": 5,
-    "priceDrops": 0,
+    "pagesFetched": 84,
+    "new": 0,
+    "priceDrops": 2,
     "removed": 1,
     "duplicates": 1,
     "rejected": 5,
     "rechecked": 28
-  }
+  },
+  "notifications": [
+    "ntfy : 1/1 envoyée(s)",
+    "e-mail non configuré (secrets SMTP absents)"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T11:13:52.430Z",
+  "updatedAt": "2026-11-17T16:09:37.897Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -15509,8 +15509,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15562,8 +15562,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15615,8 +15615,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15635,7 +15635,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/52816316/17-acheter-appartement-hendaye-64700.htm",
       "title": "Achat Appartement 3 pièce(s) 55 m² HENDAYE 64700 249 000 € - fnaim.fr",
-      "price": 249000,
+      "price": 145500,
       "surface": 55,
       "surfaceCarrez": null,
       "rooms": 3,
@@ -15650,7 +15650,7 @@
         "type": "souterrain",
         "detail": "parking"
       },
-      "floor": null,
+      "floor": "dernier étage",
       "elevator": true,
       "charges": 100,
       "taxeFonciere": null,
@@ -15665,12 +15665,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
           "price": 249000
+        },
+        {
+          "date": "2026-11-17",
+          "price": 145500
         }
       ],
       "weaknesses": [
@@ -15713,8 +15717,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15768,8 +15772,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15876,8 +15880,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15925,8 +15929,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15981,8 +15985,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16036,8 +16040,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16089,8 +16093,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16144,8 +16148,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16199,8 +16203,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16218,7 +16222,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/53132393/17-acheter-appartement-pyrenees-atlantiques-64.htm",
       "title": "Achat Appartement 3 pièce(s) 62 m² 230 000 € - fnaim.fr",
-      "price": 230000,
+      "price": 215000,
       "surface": 62,
       "surfaceCarrez": null,
       "rooms": 3,
@@ -16248,12 +16252,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
           "price": 230000
+        },
+        {
+          "date": "2026-11-17",
+          "price": 215000
         }
       ],
       "weaknesses": [
@@ -16303,8 +16311,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16356,8 +16364,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16409,8 +16417,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16461,8 +16469,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16509,8 +16517,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16556,8 +16564,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16614,8 +16622,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -19947,8 +19955,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -19992,7 +20000,7 @@
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-11-11",
@@ -20012,7 +20020,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-17"
     },
     {
       "id": "paruvendu-1295161356",
@@ -20049,8 +20058,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -20097,8 +20106,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -20146,8 +20155,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -20197,8 +20206,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -20247,8 +20256,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -20306,8 +20315,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-11",
-      "lastChecked": "2026-11-11",
+      "lastSeen": "2026-11-17",
+      "lastChecked": "2026-11-17",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -33428,6 +33437,12 @@
         "Nature du parking non précisée",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297514380A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
