@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T11:16:03.287Z",
+  "updatedAt": "2026-11-18T16:15:15.120Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -288,7 +288,7 @@
         "Fiche lue via un extrait du moteur de recherche",
         "Honoraires 3,6 % à la charge de l'acquéreur"
       ],
-      "status": "active",
+      "status": "removed",
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
@@ -313,7 +313,8 @@
       "duplicates": [
         "fnaim.fr",
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-18"
     },
     {
       "id": "foncia-00514020",
@@ -17147,8 +17148,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17196,8 +17197,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17245,8 +17246,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17293,8 +17294,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17342,8 +17343,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17392,8 +17393,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17442,8 +17443,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17491,8 +17492,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -20373,8 +20374,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -20522,8 +20523,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -20578,7 +20579,7 @@
       "city": "Saint-Jean-de-Luz",
       "postalCode": "64500",
       "distanceKm": 19.2,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-11-12",
@@ -20595,7 +20596,8 @@
         "Procédure en cours dans la copropriété",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-18"
     },
     {
       "id": "paruvendu-1296842239",
@@ -20632,8 +20634,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -20682,8 +20684,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -24484,8 +24486,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-11-05",
@@ -24533,8 +24535,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-11-05",
@@ -24583,8 +24585,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-11-05",
@@ -24632,8 +24634,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-11-05",
@@ -24680,8 +24682,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-11-05",
@@ -24730,8 +24732,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-11-05",
@@ -24778,8 +24780,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-11-05",
@@ -24834,8 +24836,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-11-05",
@@ -24888,8 +24890,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-11-05",
@@ -24925,7 +24927,7 @@
       },
       "floor": "2e et dernier étage",
       "elevator": true,
-      "charges": null,
+      "charges": 471,
       "taxeFonciere": null,
       "exterior": "Terrasse",
       "condition": "rafraichir",
@@ -24938,8 +24940,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-11-05",
@@ -29624,7 +29626,7 @@
       "source": "ParuVendu",
       "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297316182A1KIVHAP000",
       "title": "Annonce vente appartement 3 pièces de 75m2 à Biarritz (64200) - ParuVendu.fr ref 992792133055",
-      "price": 449000,
+      "price": 429000,
       "surface": 75,
       "surfaceCarrez": 46,
       "rooms": 3,
@@ -29655,12 +29657,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-11-12",
           "price": 449000
+        },
+        {
+          "date": "2026-11-18",
+          "price": 429000
         }
       ],
       "weaknesses": [
@@ -29704,8 +29710,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-11-12",
@@ -29752,7 +29758,7 @@
       "city": "Soorts-Hossegor",
       "postalCode": "40150",
       "distanceKm": 20.1,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-12",
       "lastSeen": "2026-11-12",
@@ -29776,7 +29782,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-18"
     },
     {
       "id": "paruvendu-1297347997",
@@ -29811,7 +29818,7 @@
       "city": "Soorts-Hossegor",
       "postalCode": "40150",
       "distanceKm": 20.1,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-12",
       "lastSeen": "2026-11-12",
@@ -29835,7 +29842,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-18"
     },
     {
       "id": "paruvendu-1297360722",
@@ -29872,8 +29880,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-11-12",
@@ -29921,8 +29929,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-12",
-      "lastChecked": "2026-11-12",
+      "lastSeen": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "priceHistory": [
         {
           "date": "2026-11-12",
