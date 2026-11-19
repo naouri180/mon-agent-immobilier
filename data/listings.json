@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T16:15:15.120Z",
+  "updatedAt": "2026-11-19T06:15:14.252Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -7575,8 +7575,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7628,8 +7628,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7778,8 +7778,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7826,8 +7826,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7875,8 +7875,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7923,8 +7923,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7940,7 +7940,7 @@
       "source": "ParuVendu",
       "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291868290A1KIVHAP000",
       "title": "Annonce vente appartement 2 pièces de 46m2 à Cambo-les-bains (64250) - ParuVendu.fr ref 992787622005",
-      "price": 188000,
+      "price": 187900,
       "surface": 46,
       "surfaceCarrez": null,
       "rooms": 2,
@@ -7970,12 +7970,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
           "price": 188000
+        },
+        {
+          "date": "2026-11-19",
+          "price": 187900
         }
       ],
       "weaknesses": [
@@ -8019,8 +8023,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8071,8 +8075,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8121,8 +8125,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8270,8 +8274,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8320,8 +8324,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8418,8 +8422,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8471,8 +8475,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8520,8 +8524,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8569,8 +8573,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8684,8 +8688,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8786,8 +8790,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8831,7 +8835,7 @@
       "city": "Saint-Martin-de-Seignanx",
       "postalCode": "40390",
       "distanceKm": 9.1,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-13",
@@ -8846,7 +8850,8 @@
         "Procédure en cours dans la copropriété",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-19"
     },
     {
       "id": "paruvendu-1291326824",
@@ -8884,8 +8889,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -8993,8 +8998,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9043,8 +9048,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9092,8 +9097,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9141,8 +9146,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9196,8 +9201,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9246,8 +9251,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9305,8 +9310,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9403,8 +9408,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9452,8 +9457,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9501,8 +9506,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -29723,6 +29728,12 @@
         "Procédure en cours dans la copropriété",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297604372A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -30504,6 +30515,13 @@
         "Nature du parking non précisée",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53252721/17-acheter-appartement-urrugne-64122.htm",
+        "https://www.fnaim.fr/annonce-immobiliere/53252696/17-acheter-appartement-urrugne-64122.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -34869,6 +34887,354 @@
       ],
       "weaknesses": [
         "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297612413",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297612413A1KIVHAP000",
+      "title": "Annonce au c?ur du quartier saint esprit, vente 3 pièces de particulier Pyrénées-Atlantiques - ParuVendu.fr ref WI178203386",
+      "price": 285000,
+      "surface": 67,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "B",
+      "dpeKwh": 90,
+      "ges": "B",
+      "gesKg": 10,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "2ème étage sur 4",
+      "elevator": true,
+      "charges": 2026,
+      "taxeFonciere": 2026,
+      "exterior": "Balcon / Terrasse",
+      "condition": "bon",
+      "year": 2017,
+      "procedure": false,
+      "quartier": "Saint-Esprit",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "price": 285000
+        }
+      ],
+      "weaknesses": [
+        "Charges élevées",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297606372",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297606372A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 47m2 à Bayonne (64100) - ParuVendu.fr ref 992792392721",
+      "price": 158900,
+      "surface": 47,
+      "surfaceCarrez": 46.79,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "B",
+      "dpeKwh": 52,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "price": 158900
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297622109",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297622109A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 66m2 à Hendaye (64700) - ParuVendu.fr ref 992791440069",
+      "price": 287000,
+      "surface": 66,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 183,
+      "ges": "D",
+      "gesKg": 11,
+      "dpeDerived": false,
+      "parking": {
+        "count": null,
+        "type": "garage",
+        "detail": "Parking peut-être en option : à vérifier"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 399,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "price": 287000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64200-682",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53119280/17-acheter-appartement-biarritz-64200.htm",
+      "title": "Achat Appartement 3 pièce(s) 46 m² BIARRITZ 64200 215 000 € - fnaim.fr",
+      "price": 215000,
+      "surface": 46,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": null,
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "garage",
+        "detail": "parking"
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "price": 215000
+        }
+      ],
+      "weaknesses": [
+        "DPE non trouvé dans l’annonce",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64700-683",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52013124/17-acheter-appartement-hendaye-64700.htm",
+      "title": "Achat Appartement 2 pièce(s) 44 m² HENDAYE 64700 275 600 € - fnaim.fr",
+      "price": 275600,
+      "surface": 44,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "E",
+      "dpeKwh": 287,
+      "ges": "B",
+      "gesKg": 9,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 732,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Balcon Ascenseur Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "price": 275600
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64700-684",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53117739/17-acheter-appartement-hendaye-64700.htm",
+      "title": "Achat Appartement 3 pièce(s) 61 m² HENDAYE 64700 279 900 € - fnaim.fr",
+      "price": 279900,
+      "surface": 61,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "B",
+      "dpeKwh": 90,
+      "ges": "C",
+      "gesKg": 17,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "jour se prolonge par une loggia, offrant un espace extérieur appréciable au",
+      "condition": "inconnu",
+      "year": 2010,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "price": 279900
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53117645/17-acheter-appartement-hendaye-64700.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
+      ]
+    },
+    {
+      "id": "fnaim-64700-685",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53187790/17-acheter-appartement-hendaye-64700.htm",
+      "title": "Achat Appartement 3 pièce(s) 64 m² HENDAYE 64700 299 000 € - fnaim.fr",
+      "price": 299000,
+      "surface": 64,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "B",
+      "dpeKwh": 98,
+      "ges": "C",
+      "gesKg": 19,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "price": 299000
+        }
+      ],
+      "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
