@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T11:13:16.886Z",
+  "updatedAt": "2026-11-19T16:16:25.050Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -41,8 +41,8 @@
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "publishedOrUpdated": "2026-10-24",
       "priceHistory": [
         {
@@ -104,7 +104,8 @@
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0
+      "distanceKm": 0,
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "capifrance-117218",
@@ -207,7 +208,8 @@
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0
+      "distanceKm": 0,
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00752272",
@@ -254,7 +256,8 @@
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0
+      "distanceKm": 0,
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "etreproprio-26275766",
@@ -364,7 +367,8 @@
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0
+      "distanceKm": 0,
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "fnaim-53014705",
@@ -402,8 +406,8 @@
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -446,8 +450,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -495,8 +499,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -558,8 +562,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -608,8 +612,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -656,8 +660,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -25267,8 +25271,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -25287,7 +25291,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/53179256/17-acheter-appartement-hendaye-64700.htm",
       "title": "Achat Appartement 2 pièce(s) 50 m² HENDAYE 64700 249 000 € - fnaim.fr",
-      "price": 249000,
+      "price": 145500,
       "surface": 50,
       "surfaceCarrez": null,
       "rooms": 2,
@@ -25302,13 +25306,13 @@
         "type": "souterrain",
         "detail": "parking"
       },
-      "floor": null,
+      "floor": "dernier étage",
       "elevator": true,
       "charges": null,
       "taxeFonciere": null,
       "exterior": "itable atout : une belle terrasse couverte de 7,75 m2, exposée plein Sud, qui",
       "condition": "inconnu",
-      "year": null,
+      "year": 2010,
       "procedure": false,
       "quartier": null,
       "city": "Hendaye",
@@ -25317,12 +25321,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-11-06",
           "price": 249000
+        },
+        {
+          "date": "2026-11-19",
+          "price": 145500
         }
       ],
       "weaknesses": [
@@ -25365,8 +25373,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -25419,8 +25427,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -25469,8 +25477,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -25520,8 +25528,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -25570,8 +25578,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -25621,8 +25629,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -29994,8 +30002,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-11-13",
@@ -30043,8 +30051,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-11-13",
@@ -30091,8 +30099,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-11-13",
@@ -30142,8 +30150,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-11-13",
@@ -30193,8 +30201,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-11-13",
@@ -30243,8 +30251,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-11-13",
@@ -30293,8 +30301,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-11-13",
@@ -30349,8 +30357,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-11-13",
@@ -30404,8 +30412,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-11-13",
@@ -30459,8 +30467,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-13",
-      "lastChecked": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
       "priceHistory": [
         {
           "date": "2026-11-13",
@@ -30505,7 +30513,7 @@
       "city": "Anglet",
       "postalCode": "64600",
       "distanceKm": 3.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-13",
       "lastSeen": "2026-11-13",
@@ -30524,11 +30532,14 @@
       ],
       "altUrls": [
         "https://www.fnaim.fr/annonce-immobiliere/53252721/17-acheter-appartement-urrugne-64122.htm",
-        "https://www.fnaim.fr/annonce-immobiliere/53252696/17-acheter-appartement-urrugne-64122.htm"
+        "https://www.fnaim.fr/annonce-immobiliere/53252696/17-acheter-appartement-urrugne-64122.htm",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297644054A1KIVHAP000"
       ],
       "duplicates": [
-        "fnaim.fr"
-      ]
+        "fnaim.fr",
+        "paruvendu.fr"
+      ],
+      "removedOn": "2026-11-19"
     },
     {
       "id": "paruvendu-1297399389",
@@ -35489,6 +35500,57 @@
       ],
       "weaknesses": [
         "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297644080",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297644080A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 41m2 à Anglet (64600) - ParuVendu.fr ref 992792426399",
+      "price": 301920,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "t 2 PIÈCES de 41m² + UNE TERRASSE - ANGLET Anglet",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "lastChecked": "2026-11-19",
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "price": 301920
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
