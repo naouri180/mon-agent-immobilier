@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T06:18:23.259Z",
+  "updatedAt": "2026-11-20T11:14:15.892Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -2293,6 +2293,12 @@
       "weaknesses": [
         "Procédure en cours dans la copropriété",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297659634A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -21533,8 +21539,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-01",
@@ -21580,7 +21586,7 @@
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-01",
       "lastSeen": "2026-11-14",
@@ -21596,7 +21602,8 @@
         "Procédure en cours dans la copropriété",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-20"
     },
     {
       "id": "paruvendu-1296128240",
@@ -21633,8 +21640,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-01",
@@ -21682,8 +21689,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-01",
@@ -21729,7 +21736,7 @@
       "city": "Anglet",
       "postalCode": "64600",
       "distanceKm": 3.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-01",
       "lastSeen": "2026-11-14",
@@ -21750,7 +21757,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-20"
     },
     {
       "id": "paruvendu-1294420398",
@@ -21787,8 +21795,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-01",
@@ -21836,8 +21844,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-01",
@@ -21886,8 +21894,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-01",
@@ -21933,8 +21941,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-01",
@@ -21952,7 +21960,7 @@
       "source": "ParuVendu",
       "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1288079579A1KIVHAP000",
       "title": "Annonce vente appartement 3 pièces de 57m2 à Biarritz (64200) - ParuVendu.fr ref 992784570175",
-      "price": 322000,
+      "price": 295000,
       "surface": 57,
       "surfaceCarrez": null,
       "rooms": 3,
@@ -21983,12 +21991,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-01",
           "price": 322000
+        },
+        {
+          "date": "2026-11-20",
+          "price": 295000
         }
       ],
       "weaknesses": [
@@ -22033,8 +22045,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-01",
@@ -22088,8 +22100,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-01",
@@ -25737,8 +25749,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -25786,8 +25798,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -25835,8 +25847,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -25882,8 +25894,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -25931,8 +25943,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -25982,8 +25994,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -26032,8 +26044,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -26089,8 +26101,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -26139,8 +26151,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -26189,8 +26201,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -26245,8 +26257,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -26295,8 +26307,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -26343,8 +26355,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -26391,8 +26403,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -35816,6 +35828,103 @@
       ],
       "duplicates": [
         "fnaim.fr"
+      ]
+    },
+    {
+      "id": "paruvendu-1297670307",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297670307A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 72m2 à Bayonne (64100) - ParuVendu.fr ref 992792450765",
+      "price": 349990,
+      "surface": 72,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 129,
+      "ges": "C",
+      "gesKg": 27,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "3eme étage",
+      "elevator": null,
+      "charges": 1520,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "excellent",
+      "year": null,
+      "procedure": true,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
+      "priceHistory": [
+        {
+          "date": "2026-11-20",
+          "price": 349990
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1296416360",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296416360A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 80m2 à Bayonne (64100) - ParuVendu.fr ref 992791343120",
+      "price": 336000,
+      "surface": 80,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 158,
+      "ges": "A",
+      "gesKg": 4,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 1200,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": true,
+      "quartier": "Arrousets",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
+      "priceHistory": [
+        {
+          "date": "2026-11-20",
+          "price": 336000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }
   ]
