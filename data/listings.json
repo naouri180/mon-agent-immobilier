@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T16:16:25.050Z",
+  "updatedAt": "2026-11-20T06:18:23.259Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -763,8 +763,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -812,8 +812,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -861,8 +861,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -910,8 +910,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -959,8 +959,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1009,8 +1009,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1060,8 +1060,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1158,8 +1158,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1210,8 +1210,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1258,8 +1258,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1312,8 +1312,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1367,8 +1367,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10283,7 +10283,7 @@
       "city": "Saint-Vincent-de-Tyrosse",
       "postalCode": "40230",
       "distanceKm": 23,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-14",
@@ -10298,7 +10298,8 @@
         "Charges élevées",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-20"
     },
     {
       "id": "paruvendu-1295017962",
@@ -10335,8 +10336,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10393,8 +10394,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10449,8 +10450,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10515,8 +10516,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10564,8 +10565,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10621,8 +10622,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10670,8 +10671,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10727,8 +10728,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10784,8 +10785,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10841,8 +10842,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10897,8 +10898,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -10952,8 +10953,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -11057,7 +11058,7 @@
       "city": "Seignosse",
       "postalCode": "40510",
       "distanceKm": 23.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-14",
@@ -11080,7 +11081,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-20"
     },
     {
       "id": "paruvendu-1289767665",
@@ -34559,6 +34561,12 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297658955A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -35554,6 +35562,260 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1291932406",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291932406A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 78m2 à Biarritz (64200) - ParuVendu.fr ref 992787677330",
+      "price": 560000,
+      "surface": 78,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 141,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1963,
+      "taxeFonciere": null,
+      "exterior": "partement T3 rénové avec terrasse, parc arboré et prestations de standi Biarri",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
+      "priceHistory": [
+        {
+          "date": "2026-11-20",
+          "price": 560000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297659803",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297659803A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 46m2 à Boucau (64340) - ParuVendu.fr ref 992792440624",
+      "price": 189000,
+      "surface": 46,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 90,
+      "ges": "C",
+      "gesKg": 17,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": null,
+      "charges": 657,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Boucau",
+      "postalCode": "64340",
+      "distanceKm": 3.6,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
+      "priceHistory": [
+        {
+          "date": "2026-11-20",
+          "price": 189000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297654536",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297654536A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 84m2 à Ciboure (64500) - ParuVendu.fr ref 992792435847",
+      "price": 371000,
+      "surface": 84,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 269,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "2ème étage",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
+      "priceHistory": [
+        {
+          "date": "2026-11-20",
+          "price": 371000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297654535",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297654535A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 79m2 à Ciboure (64500) - ParuVendu.fr ref 992792435846",
+      "price": 367820,
+      "surface": 79,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 269,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "1er étage",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
+      "priceHistory": [
+        {
+          "date": "2026-11-20",
+          "price": 367820
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64600-696",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53254404/17-acheter-appartement-anglet-64600.htm",
+      "title": "Achat Appartement 2 pièce(s) 41 m² ANGLET 64600 220 000 € - fnaim.fr",
+      "price": 220000,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 128,
+      "ges": "A",
+      "gesKg": 4,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1140,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "excellent",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
+      "priceHistory": [
+        {
+          "date": "2026-11-20",
+          "price": 220000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53254403/17-acheter-appartement-anglet-64600.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     }
   ]
