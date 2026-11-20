@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T11:14:15.892Z",
+  "updatedAt": "2026-11-20T16:10:30.153Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -95,8 +95,8 @@
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -104,8 +104,7 @@
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0,
-      "lastCheckProblem": "accès refusé par le site"
+      "distanceKm": 0
     },
     {
       "id": "capifrance-117218",
@@ -199,8 +198,8 @@
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -208,8 +207,7 @@
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0,
-      "lastCheckProblem": "accès refusé par le site"
+      "distanceKm": 0
     },
     {
       "id": "foncia-00752272",
@@ -243,7 +241,7 @@
         "Charges élevées",
         "Rafraîchissement à prévoir"
       ],
-      "status": "active",
+      "status": "removed",
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
@@ -257,7 +255,8 @@
       ],
       "postalCode": "64100",
       "distanceKm": 0,
-      "lastCheckProblem": "accès refusé par le site"
+      "lastCheckProblem": "accès refusé par le site",
+      "removedOn": "2026-11-20"
     },
     {
       "id": "etreproprio-26275766",
@@ -354,8 +353,8 @@
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -367,8 +366,7 @@
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0,
-      "lastCheckProblem": "accès refusé par le site"
+      "distanceKm": 0
     },
     {
       "id": "fnaim-53014705",
@@ -26452,8 +26450,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -26498,7 +26496,7 @@
       "city": "Saint-Martin-de-Seignanx",
       "postalCode": "40390",
       "distanceKm": 9.1,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-07",
       "lastSeen": "2026-11-14",
@@ -26518,7 +26516,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-20"
     },
     {
       "id": "paruvendu-1297114332",
@@ -26612,8 +26611,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -26659,8 +26658,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -26708,8 +26707,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -26757,8 +26756,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -26910,8 +26909,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -27010,8 +27009,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-07",
@@ -30590,8 +30589,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -30638,8 +30637,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -30686,8 +30685,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -30741,8 +30740,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -30793,7 +30792,7 @@
       "city": "Saint-Martin-de-Seignanx",
       "postalCode": "40390",
       "distanceKm": 9.1,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-14",
       "lastSeen": "2026-11-14",
@@ -30815,7 +30814,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-20"
     },
     {
       "id": "fnaim-53121711",
@@ -30852,8 +30852,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -30902,8 +30902,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -30956,8 +30956,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -30991,7 +30991,7 @@
         "detail": null,
         "uncertain": true
       },
-      "floor": null,
+      "floor": "rez-de-chaussée",
       "elevator": true,
       "charges": 250,
       "taxeFonciere": null,
@@ -31006,8 +31006,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -31053,7 +31053,7 @@
       "city": "Capbreton",
       "postalCode": "40130",
       "distanceKm": 16.9,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-14",
       "lastSeen": "2026-11-14",
@@ -31075,7 +31075,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-20"
     },
     {
       "id": "paruvendu-1297428146",
@@ -31109,7 +31110,7 @@
       "city": "Capbreton",
       "postalCode": "40130",
       "distanceKm": 16.9,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-14",
       "lastSeen": "2026-11-14",
@@ -31132,7 +31133,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-20"
     },
     {
       "id": "paruvendu-1296416569",
@@ -31169,8 +31171,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -31219,8 +31221,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -31267,8 +31269,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -31315,8 +31317,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -31363,8 +31365,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -31412,8 +31414,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -31460,8 +31462,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -35923,6 +35925,56 @@
       ],
       "weaknesses": [
         "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297684875",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297684875A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 43m2 à Capbreton (40130) - ParuVendu.fr ref 992792464110",
+      "price": 295000,
+      "surface": 43,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - capbreton capbreton"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "nt 2 PIÈCES de 43m² + UN BALCON + PARKING - CAPBRETON Capbreton",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20",
+      "lastChecked": "2026-11-20",
+      "priceHistory": [
+        {
+          "date": "2026-11-20",
+          "price": 295000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
