@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T16:10:30.153Z",
+  "updatedAt": "2026-11-21T06:07:36.642Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -575,7 +575,13 @@
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ],
       "postalCode": "64100",
-      "distanceKm": 0
+      "distanceKm": 0,
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1295566028A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
+      ]
     },
     {
       "id": "paruvendu-1296548385",
@@ -1413,8 +1419,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1463,8 +1469,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1512,8 +1518,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1562,8 +1568,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1673,8 +1679,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1725,8 +1731,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1773,8 +1779,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9953,7 +9959,8 @@
       ],
       "altUrls": [
         "https://www.paruvendu.fr/immobilier/vente/appartement/1297228745A1KIVHAP000",
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1297591161A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297591161A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297696560A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -20093,6 +20100,12 @@
       "weaknesses": [
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297682696A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -31523,7 +31536,8 @@
         "Charges élevées",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00797274",
@@ -31572,7 +31586,8 @@
         "Charges élevées",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00848413",
@@ -31621,7 +31636,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00535169",
@@ -31670,7 +31686,8 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00762430",
@@ -31721,7 +31738,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00736731",
@@ -31770,7 +31788,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00662015",
@@ -31818,7 +31837,8 @@
       "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00828329",
@@ -31867,7 +31887,8 @@
         "Nature du parking non précisée",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00855579",
@@ -31919,7 +31940,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00828813",
@@ -31968,7 +31990,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00550328",
@@ -32017,7 +32040,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00789124",
@@ -32066,7 +32090,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00794913",
@@ -32118,7 +32143,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00794670",
@@ -32166,7 +32192,8 @@
       "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00632590",
@@ -32215,7 +32242,8 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00803688",
@@ -32264,7 +32292,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00794382",
@@ -32315,7 +32344,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00764790",
@@ -32363,7 +32393,8 @@
       "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00753228",
@@ -32412,7 +32443,8 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00849165",
@@ -32462,7 +32494,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00858861",
@@ -32509,7 +32542,8 @@
       ],
       "weaknesses": [
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00746562",
@@ -32559,7 +32593,8 @@
         "Parking non confirmé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "paruvendu-1297435065",
@@ -32593,7 +32628,7 @@
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-14",
       "lastSeen": "2026-11-14",
@@ -32617,7 +32652,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-21"
     },
     {
       "id": "paruvendu-1297454119",
@@ -35970,6 +36006,106 @@
         {
           "date": "2026-11-20",
           "price": 295000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64700-700",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52855415/17-acheter-appartement-hendaye-64700.htm",
+      "title": "Achat Appartement 4 pièce(s) 60 m² HENDAYE 64700 329 000 € - fnaim.fr",
+      "price": 329000,
+      "surface": 60,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 2,
+      "dpe": "E",
+      "dpeKwh": 307,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "1er étage",
+      "elevator": true,
+      "charges": 569,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
+      "priceHistory": [
+        {
+          "date": "2026-11-21",
+          "price": 329000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40150-701",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53255021/17-acheter-appartement-soorts-hossegor-40150.htm",
+      "title": "Achat Appartement 3 pièce(s) 60 m² SOORTS HOSSEGOR 40150 629 000 € - fnaim.fr",
+      "price": 629000,
+      "surface": 60,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 63,
+      "ges": "A",
+      "gesKg": 2,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "rez de chaussée",
+      "elevator": true,
+      "charges": 1600,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Terrasse Balcon Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
+      "priceHistory": [
+        {
+          "date": "2026-11-21",
+          "price": 629000
         }
       ],
       "weaknesses": [
