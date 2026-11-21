@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T06:07:36.642Z",
+  "updatedAt": "2026-11-21T10:59:07.512Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -1831,8 +1831,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1930,8 +1930,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -1979,8 +1979,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2028,8 +2028,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2076,8 +2076,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2125,8 +2125,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2180,8 +2180,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -2227,8 +2227,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -13532,7 +13532,8 @@
       "altUrls": [
         "https://www.paruvendu.fr/immobilier/vente/appartement/1297094040A1KIVHAP000",
         "https://www.paruvendu.fr/immobilier/vente/appartement/1294003259A1KIVHAP000",
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1297500143A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297500143A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297708549A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -29543,6 +29544,12 @@
       "weaknesses": [
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297708553A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -30877,6 +30884,12 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.fnaim.fr/annonce-immobiliere/53121711/17-acheter-appartement-pyrenees-atlantiques-.htm"
+      ],
+      "duplicates": [
+        "fnaim.fr"
       ]
     },
     {
@@ -31524,8 +31537,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -31536,8 +31549,7 @@
         "Charges élevées",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00797274",
@@ -31574,8 +31586,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -31586,8 +31598,7 @@
         "Charges élevées",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00848413",
@@ -31624,8 +31635,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -31636,8 +31647,7 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00535169",
@@ -31674,8 +31684,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -31686,8 +31696,7 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00762430",
@@ -31724,8 +31733,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -31738,8 +31747,7 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00736731",
@@ -31776,8 +31784,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -31788,8 +31796,7 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00662015",
@@ -31826,8 +31833,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -31837,15 +31844,14 @@
       "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00828329",
       "source": "Foncia",
       "url": "https://fr.foncia.com/achat/biarritz-64200/appartement/00828329.htm",
       "title": "Appartement 3 pièces T3 F3 68 m² à vendre - 450000 € - Biarritz (64200)",
-      "price": 450000,
+      "price": 390000,
       "surface": 68,
       "surfaceCarrez": null,
       "rooms": 3,
@@ -31875,20 +31881,23 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
           "price": 450000
+        },
+        {
+          "date": "2026-11-21",
+          "price": 390000
         }
       ],
       "weaknesses": [
         "Nature du parking non précisée",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00855579",
@@ -31926,8 +31935,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -31940,8 +31949,7 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00828813",
@@ -31978,8 +31986,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -31990,8 +31998,7 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00550328",
@@ -32028,8 +32035,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -32040,8 +32047,7 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00789124",
@@ -32078,8 +32084,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -32090,8 +32096,7 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00794913",
@@ -32129,8 +32134,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -32143,8 +32148,7 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00794670",
@@ -32181,8 +32185,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -32192,8 +32196,7 @@
       "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00632590",
@@ -32230,8 +32233,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -32242,8 +32245,7 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00803688",
@@ -32280,8 +32282,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -32292,8 +32294,7 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00794382",
@@ -32331,8 +32332,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -32344,8 +32345,7 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00764790",
@@ -32382,8 +32382,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -32393,8 +32393,7 @@
       "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00753228",
@@ -32431,8 +32430,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -32443,8 +32442,7 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00849165",
@@ -32481,8 +32479,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -32494,8 +32492,7 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00858861",
@@ -32532,8 +32529,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -32542,8 +32539,7 @@
       ],
       "weaknesses": [
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "foncia-00746562",
@@ -32581,8 +32577,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-14",
-      "lastChecked": "2026-11-14",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
       "priceHistory": [
         {
           "date": "2026-11-14",
@@ -32593,8 +32589,7 @@
         "Parking non confirmé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "accès refusé par le site"
+      ]
     },
     {
       "id": "paruvendu-1297435065",
@@ -36110,6 +36105,306 @@
       ],
       "weaknesses": [
         "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "foncia-00867484",
+      "source": "Foncia",
+      "url": "https://fr.foncia.com/achat/saint-jean-de-luz-64500/appartement/00867484.htm",
+      "title": "Appartement 3 pièces T3 F3 68 m² à vendre - 420000 € - Saint-jean-de-luz (64500)",
+      "price": 420000,
+      "surface": 68,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 95,
+      "ges": "C",
+      "gesKg": 18,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "une place de parking et une cave complètent le bien"
+      },
+      "floor": "Rez-de-chaussée",
+      "elevator": null,
+      "charges": 1884,
+      "taxeFonciere": null,
+      "exterior": "spacieuse donne sur une terrasse sans vis-à-vis, avec une cuisine ouverte à a",
+      "condition": "inconnu",
+      "year": 2014,
+      "procedure": false,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
+      "priceHistory": [
+        {
+          "date": "2026-11-21",
+          "price": 420000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297703617",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297703617A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 54m2 à Bayonne (64100) - ParuVendu.fr ref 992792480418",
+      "price": 188000,
+      "surface": 54,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 236,
+      "ges": "B",
+      "gesKg": 9,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 1520,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "travaux",
+      "year": null,
+      "procedure": true,
+      "quartier": "Saint-Esprit",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
+      "priceHistory": [
+        {
+          "date": "2026-11-21",
+          "price": 188000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Procédure en cours dans la copropriété",
+        "Charges élevées",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297700289",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297700289A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 53m2 à Anglet (64600) - ParuVendu.fr ref 992792477445",
+      "price": 467000,
+      "surface": 53,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "C",
+      "dpeKwh": 74,
+      "ges": "C",
+      "gesKg": 14,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "'exception avec 44 m² de terrasse, aux portes Anglet",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
+      "priceHistory": [
+        {
+          "date": "2026-11-21",
+          "price": 467000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297700635",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297700635A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 69m2 à Biarritz (64200) - ParuVendu.fr ref 992792477689",
+      "price": 557000,
+      "surface": 69,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "garage",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "neuf",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
+      "priceHistory": [
+        {
+          "date": "2026-11-21",
+          "price": 557000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297715747",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297715747A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Soorts hossegor (40150) - ParuVendu.fr ref 992792492024",
+      "price": 329000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": 45,
+      "ges": "A",
+      "gesKg": 3,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "rts-Hossegor : 2 pièces, jardin Soorts hossegor",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
+      "priceHistory": [
+        {
+          "date": "2026-11-21",
+          "price": 329000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297715880",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297715880A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 51m2 à Soorts hossegor (40150) - ParuVendu.fr ref 992792492154",
+      "price": 392000,
+      "surface": 51,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 45,
+      "ges": "A",
+      "gesKg": 3,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "rts-Hossegor : 3 pièces, terrasse Soorts hossegor",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21",
+      "lastChecked": "2026-11-21",
+      "priceHistory": [
+        {
+          "date": "2026-11-21",
+          "price": 392000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
