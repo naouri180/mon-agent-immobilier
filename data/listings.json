@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T06:08:39.039Z",
+  "updatedAt": "2026-11-22T10:57:47.367Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -3533,8 +3533,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3587,7 +3587,7 @@
       "city": "Boucau",
       "postalCode": "64340",
       "distanceKm": 3.6,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-16",
@@ -3602,7 +3602,8 @@
         "Parking non confirmé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-22"
     },
     {
       "id": "paruvendu-1295988839",
@@ -3639,8 +3640,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3691,7 +3692,7 @@
       "city": "Boucau",
       "postalCode": "64340",
       "distanceKm": 3.6,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-16",
@@ -3707,7 +3708,8 @@
         "Procédure en cours dans la copropriété",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-22"
     },
     {
       "id": "paruvendu-1287692042",
@@ -3745,8 +3747,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3800,8 +3802,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3902,8 +3904,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -3951,8 +3953,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -12262,8 +12264,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -22889,8 +22891,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-11-02",
@@ -22939,8 +22941,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-11-02",
@@ -26239,7 +26241,8 @@
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ],
       "altUrls": [
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1297424544A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297424544A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297757476A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -27286,8 +27289,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-08",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-11-08",
@@ -27331,7 +27334,7 @@
       "city": "Ascain",
       "postalCode": "64310",
       "distanceKm": 20.2,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-08",
       "lastSeen": "2026-11-15",
@@ -27351,7 +27354,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-22"
     },
     {
       "id": "paruvendu-1293655378",
@@ -27389,8 +27393,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-08",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-11-08",
@@ -27439,8 +27443,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-08",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-11-08",
@@ -27488,8 +27492,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-08",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-11-08",
@@ -27536,8 +27540,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-08",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-11-08",
@@ -30730,7 +30734,8 @@
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ],
       "altUrls": [
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1297412138A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297412138A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297757422A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -32696,8 +32701,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-15",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-11-15",
@@ -32744,8 +32749,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-15",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-11-15",
@@ -32792,8 +32797,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-15",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-11-15",
@@ -32840,8 +32845,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-15",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-11-15",
@@ -32889,8 +32894,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-15",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-11-15",
@@ -32935,7 +32940,7 @@
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-15",
       "lastSeen": "2026-11-15",
@@ -32950,7 +32955,8 @@
         "Nature du parking non précisée",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-22"
     },
     {
       "id": "paruvendu-1290001056",
@@ -32988,8 +32994,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-15",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-11-15",
@@ -33037,8 +33043,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-15",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-11-15",
@@ -33083,7 +33089,7 @@
       "city": "Capbreton",
       "postalCode": "40130",
       "distanceKm": 16.9,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-15",
       "lastSeen": "2026-11-15",
@@ -33097,7 +33103,8 @@
       "weaknesses": [
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-22"
     },
     {
       "id": "paruvendu-1297454280",
@@ -33134,8 +33141,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-15",
-      "lastSeen": "2026-11-15",
-      "lastChecked": "2026-11-15",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
       "priceHistory": [
         {
           "date": "2026-11-15",
@@ -33180,7 +33187,7 @@
       "city": "Saint-Vincent-de-Tyrosse",
       "postalCode": "40230",
       "distanceKm": 23,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-15",
       "lastSeen": "2026-11-15",
@@ -33205,7 +33212,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-22"
     },
     {
       "id": "paruvendu-1297476627",
@@ -33239,7 +33247,7 @@
       "city": "Saint-Vincent-de-Tyrosse",
       "postalCode": "40230",
       "distanceKm": 23,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-15",
       "lastSeen": "2026-11-15",
@@ -33264,7 +33272,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-22"
     },
     {
       "id": "paruvendu-1297473006",
@@ -33298,7 +33307,7 @@
       "city": "Saint-Vincent-de-Tyrosse",
       "postalCode": "40230",
       "distanceKm": 23,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-15",
       "lastSeen": "2026-11-15",
@@ -33321,7 +33330,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-22"
     },
     {
       "id": "paruvendu-1297485701",
@@ -36468,6 +36478,12 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297757266A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -36518,6 +36534,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297757617A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -36774,6 +36796,404 @@
         "Nature du parking non précisée",
         "Charges élevées",
         "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297757043",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297757043A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 82m2 à Bayonne (64100) - ParuVendu.fr ref 992792528873",
+      "price": 364900,
+      "surface": 82,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - bayonne bayonne"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "4 PIÈCES de 82m² + UN BALCON + PARKING - BAYONNE Bayonne",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
+      "priceHistory": [
+        {
+          "date": "2026-11-22",
+          "price": 364900
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297757593",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297757593A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 44m2 à Anglet (64600) - ParuVendu.fr ref 992792529417",
+      "price": 277121,
+      "surface": 44,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - anglet anglet"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "2 PIÈCES de 44m² + UN BALCON + PARKING - ANGLET Anglet",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
+      "priceHistory": [
+        {
+          "date": "2026-11-22",
+          "price": 277121
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297757253",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297757253A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 62m2 à Anglet (64600) - ParuVendu.fr ref 992792529081",
+      "price": 398876,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - anglet anglet"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "3 PIÈCES de 62m² + UN BALCON + PARKING - ANGLET Anglet",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
+      "priceHistory": [
+        {
+          "date": "2026-11-22",
+          "price": 398876
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297754687",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297754687A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Anglet (64600) - ParuVendu.fr ref 992792526832",
+      "price": 315000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "t 2 PIÈCES de 45m² + UNE TERRASSE - ANGLET Anglet",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
+      "priceHistory": [
+        {
+          "date": "2026-11-22",
+          "price": 315000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297750253",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297750253A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 63m2 à Anglet (64600) - ParuVendu.fr ref 992792522541",
+      "price": 333900,
+      "surface": 63,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "B",
+      "dpeKwh": 7,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 300,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
+      "priceHistory": [
+        {
+          "date": "2026-11-22",
+          "price": 333900
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297757068",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297757068A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 65m2 à Capbreton (40130) - ParuVendu.fr ref 992792528897",
+      "price": 515000,
+      "surface": 65,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - capbreton capbreton"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
+      "priceHistory": [
+        {
+          "date": "2026-11-22",
+          "price": 515000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297755829",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297755829A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 64m2 à Soorts hossegor (40150) - ParuVendu.fr ref 992792527693",
+      "price": 445000,
+      "surface": 64,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - soorts-hossegor soorts hossegor"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "nt 3 PIÈCES de 64m² + UN JARDIN + PARKING - SOORTS-HOSSEGOR Soorts hossegor",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
+      "priceHistory": [
+        {
+          "date": "2026-11-22",
+          "price": 445000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297757510",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297757510A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 41m2 à Saint vincent de tyrosse (40230) - ParuVendu.fr ref 992792529334",
+      "price": 186000,
+      "surface": 41,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - saint-vincent-de-tyrosse saint vincent de tyrosse"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "2 PIÈCES de 41m² + UNE TERRASSE + PARKING - SAINT-VINCENT-DE-TYROSSE Saint v",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Vincent-de-Tyrosse",
+      "postalCode": "40230",
+      "distanceKm": 23,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastChecked": "2026-11-22",
+      "priceHistory": [
+        {
+          "date": "2026-11-22",
+          "price": 186000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
