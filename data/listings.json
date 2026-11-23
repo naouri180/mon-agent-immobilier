@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T11:17:00.969Z",
+  "updatedAt": "2026-11-23T16:20:55.241Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -4319,8 +4319,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4373,8 +4373,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4424,8 +4424,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4474,8 +4474,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4524,8 +4524,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4637,8 +4637,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4687,8 +4687,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4737,8 +4737,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4786,8 +4786,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4839,8 +4839,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4968,7 +4968,7 @@
       "source": "ParuVendu",
       "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1291206457A1KIVHAP000",
       "title": "Appartement de luxe à vendre à Guéthary (64210) | 829 000 € | 3 pièces | 74 m² - ParuVendu.fr ref 992787045476",
-      "price": 829000,
+      "price": 798000,
       "surface": 74,
       "surfaceCarrez": null,
       "rooms": 3,
@@ -4998,12 +4998,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-25",
           "price": 829000
+        },
+        {
+          "date": "2026-11-23",
+          "price": 798000
         }
       ],
       "weaknesses": [
@@ -5049,8 +5053,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5099,8 +5103,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5156,8 +5160,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5207,8 +5211,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5257,8 +5261,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -5306,8 +5310,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -14750,8 +14754,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14808,8 +14812,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15070,8 +15074,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15119,8 +15123,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15175,8 +15179,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15230,8 +15234,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15255,7 +15259,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/53188518/17-acheter-appartement-hendaye-64700.htm",
       "title": "Achat Appartement 3 pièce(s) 49 m² HENDAYE 64700 192 000 € - fnaim.fr",
-      "price": 175000,
+      "price": 145500,
       "surface": 49,
       "surfaceCarrez": null,
       "rooms": 3,
@@ -15266,10 +15270,9 @@
       "gesKg": 8,
       "dpeDerived": false,
       "parking": {
-        "count": 0,
-        "type": null,
-        "detail": null,
-        "uncertain": true
+        "count": 1,
+        "type": "box",
+        "detail": "parkings - garages"
       },
       "floor": "dernier étage",
       "elevator": true,
@@ -15277,7 +15280,7 @@
       "taxeFonciere": null,
       "exterior": "Terrasse : Non",
       "condition": "inconnu",
-      "year": null,
+      "year": 2010,
       "procedure": false,
       "quartier": null,
       "city": "Hendaye",
@@ -15286,8 +15289,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15296,6 +15299,10 @@
         {
           "date": "2026-11-11",
           "price": 175000
+        },
+        {
+          "date": "2026-11-23",
+          "price": 145500
         }
       ],
       "weaknesses": [
@@ -15336,7 +15343,7 @@
       "taxeFonciere": null,
       "exterior": "onnant sur une spacieuse terrasse d'environ 10 m2, situé en rez-de-chaussée su",
       "condition": "inconnu",
-      "year": null,
+      "year": 2010,
       "procedure": null,
       "quartier": null,
       "city": "Hendaye",
@@ -15345,8 +15352,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15403,8 +15410,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15459,8 +15466,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15509,8 +15516,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15557,8 +15564,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -15610,8 +15617,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -37516,6 +37523,104 @@
         {
           "date": "2026-11-23",
           "price": 355000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1294554020",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1294554020A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Ascain (64310) - ParuVendu.fr ref 992789839605",
+      "price": 252000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "D",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "une place de stationnement extérieur est incluse"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "neuf",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ascain",
+      "postalCode": "64310",
+      "distanceKm": 20.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
+      "priceHistory": [
+        {
+          "date": "2026-11-23",
+          "price": 252000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297796873",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297796873A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 69m2 à Bidart (64210) - ParuVendu.fr ref 992792562813",
+      "price": 435000,
+      "surface": 69,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - bidart bidart"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "t 3 PIÈCES de 69m² + UNE TERRASSE + PARKING - BIDART Bidart",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
+      "priceHistory": [
+        {
+          "date": "2026-11-23",
+          "price": 435000
         }
       ],
       "weaknesses": [
