@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T15:57:12.565Z",
+  "updatedAt": "2026-11-23T06:21:13.164Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -12278,7 +12278,8 @@
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ],
       "altUrls": [
-        "https://www.fnaim.fr/annonce-immobiliere/53161718/17-acheter-appartement-pyrenees-atlantiques-.htm"
+        "https://www.fnaim.fr/annonce-immobiliere/53161718/17-acheter-appartement-pyrenees-atlantiques-.htm",
+        "https://www.fnaim.fr/annonce-immobiliere/52661910/17-acheter-appartement-anglet-64600.htm"
       ],
       "duplicates": [
         "fnaim.fr"
@@ -14064,8 +14065,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14119,8 +14120,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14176,8 +14177,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14225,8 +14226,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14283,8 +14284,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14339,8 +14340,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14387,8 +14388,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14443,8 +14444,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14499,8 +14500,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14548,8 +14549,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14595,8 +14596,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14644,8 +14645,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14663,11 +14664,11 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/53180817/17-acheter-appartement-urrugne-64122.htm",
       "title": "Achat Appartement 2 pièce(s) 44 m² URRUGNE 64122 235 000 € - fnaim.fr",
-      "price": 235000,
+      "price": 130000,
       "surface": 44,
       "surfaceCarrez": null,
       "rooms": 2,
-      "bedrooms": null,
+      "bedrooms": 1,
       "dpe": "D",
       "dpeKwh": 183,
       "ges": "B",
@@ -14684,7 +14685,7 @@
       "taxeFonciere": null,
       "exterior": "ce T2 de 45 m² en rez-de-jardin est une véritable bulle de vie : un espace j",
       "condition": "inconnu",
-      "year": null,
+      "year": 2019,
       "procedure": false,
       "quartier": null,
       "city": "Urrugne",
@@ -14693,12 +14694,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
           "price": 235000
+        },
+        {
+          "date": "2026-11-23",
+          "price": 130000
         }
       ],
       "weaknesses": [
@@ -14850,8 +14855,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -14906,8 +14911,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -19359,7 +19364,7 @@
       "source": "ParuVendu",
       "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296762198A1KIVHAP000",
       "title": "Annonce vente appartement 2 pièces de 44m2 à Mouguerre (64990) - ParuVendu.fr ref 992791646507",
-      "price": 226000,
+      "price": 209000,
       "surface": 44,
       "surfaceCarrez": null,
       "rooms": 2,
@@ -19389,12 +19394,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-28",
           "price": 226000
+        },
+        {
+          "date": "2026-11-23",
+          "price": 209000
         }
       ],
       "weaknesses": [
@@ -19437,8 +19446,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-28",
@@ -19490,8 +19499,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-28",
@@ -19589,8 +19598,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-29",
@@ -22994,8 +23003,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -23043,8 +23052,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -23095,8 +23104,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -23145,8 +23154,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -23400,8 +23409,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -23450,8 +23459,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -23498,8 +23507,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -23548,8 +23557,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -23696,8 +23705,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -23746,8 +23755,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-03",
@@ -27586,7 +27595,7 @@
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-09",
       "lastSeen": "2026-11-16",
@@ -27601,7 +27610,8 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-23"
     },
     {
       "id": "paruvendu-1297198925",
@@ -37295,6 +37305,105 @@
       ],
       "weaknesses": [
         "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297758554",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297758554A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 73m2 à Bayonne (64100) - ParuVendu.fr ref 992792529817",
+      "price": 331900,
+      "surface": 73,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 108,
+      "ges": "A",
+      "gesKg": 3,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "box"
+      },
+      "floor": "rez-de-chaussée",
+      "elevator": true,
+      "charges": 1392,
+      "taxeFonciere": 1167,
+      "exterior": "Balcon / Terrasse",
+      "condition": "bon",
+      "year": 2006,
+      "procedure": true,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
+      "priceHistory": [
+        {
+          "date": "2026-11-23",
+          "price": 331900
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1295684044",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295684044A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 43m2 à Ascain (64310) - ParuVendu.fr ref 992790729463",
+      "price": 243000,
+      "surface": 43,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Ascain",
+      "postalCode": "64310",
+      "distanceKm": 20.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
+      "priceHistory": [
+        {
+          "date": "2026-11-23",
+          "price": 243000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }
