@@ -4194,5 +4194,17 @@
   "https://www.paruvendu.fr/immobilier/vente/appartement/1289587047A1KIVHAP000": {
     "reason": "commune non reconnue",
     "date": "2026-11-23"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297794238A1KIVHAP000": {
+    "reason": "surface 132 m² hors collecte",
+    "date": "2026-11-23"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297794283A1KIVHAP000": {
+    "reason": "surface 114 m² hors collecte",
+    "date": "2026-11-23"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297794307A1KIVHAP000": {
+    "reason": "surface 115 m² hors collecte",
+    "date": "2026-11-23"
   }
 }

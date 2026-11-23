@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T06:21:13.164Z",
+  "updatedAt": "2026-11-23T11:17:00.969Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -4055,7 +4055,7 @@
       "city": "Mouguerre",
       "postalCode": "64990",
       "distanceKm": 5.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-17",
@@ -4069,7 +4069,8 @@
       "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-23"
     },
     {
       "id": "paruvendu-1295846086",
@@ -4163,8 +4164,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -4212,8 +4213,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-17",
-      "lastChecked": "2026-11-17",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -9812,7 +9813,8 @@
       "altUrls": [
         "https://www.paruvendu.fr/immobilier/vente/appartement/1296753947A1KIVHAP000",
         "https://www.paruvendu.fr/immobilier/vente/appartement/1296781197A1KIVHAP000",
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1297722473A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297722473A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297790337A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -27648,8 +27650,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-09",
@@ -27698,8 +27700,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-09",
@@ -27749,8 +27751,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-09",
@@ -27799,8 +27801,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-09",
@@ -27849,8 +27851,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-09",
@@ -27947,8 +27949,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-09",
@@ -27994,8 +27996,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-09",
@@ -28012,7 +28014,7 @@
       "source": "ParuVendu",
       "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297217355A1KIVHAP000",
       "title": "Annonce bien rare dans villa remarquable avec parc, parking, grenier, vente 2/3 pièces de particulier Pyrénées-Atlantiques - ParuVendu.fr ref WI178165327",
-      "price": 390000,
+      "price": 380000,
       "surface": 71,
       "surfaceCarrez": null,
       "rooms": 3,
@@ -28042,12 +28044,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-09",
           "price": 390000
+        },
+        {
+          "date": "2026-11-23",
+          "price": 380000
         }
       ],
       "weaknesses": [
@@ -28092,8 +28098,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-09",
@@ -28294,8 +28300,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-09",
@@ -33377,7 +33383,7 @@
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-16",
       "lastSeen": "2026-11-16",
@@ -33392,7 +33398,8 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-23"
     },
     {
       "id": "paruvendu-1297485579",
@@ -33426,7 +33433,7 @@
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-16",
       "lastSeen": "2026-11-16",
@@ -33441,7 +33448,8 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-23"
     },
     {
       "id": "paruvendu-1297489165",
@@ -33475,7 +33483,7 @@
       "city": "Biarritz",
       "postalCode": "64200",
       "distanceKm": 6.8,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-16",
       "lastSeen": "2026-11-16",
@@ -33490,7 +33498,8 @@
         "Nature du parking non précisée",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-23"
     },
     {
       "id": "paruvendu-1297485100",
@@ -33525,7 +33534,7 @@
       "city": "Biarritz",
       "postalCode": "64200",
       "distanceKm": 6.8,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-16",
       "lastSeen": "2026-11-16",
@@ -33541,7 +33550,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-23"
     },
     {
       "id": "paruvendu-1297499871",
@@ -33575,7 +33585,7 @@
       "city": "Arbonne",
       "postalCode": "64210",
       "distanceKm": 9.1,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-16",
       "lastSeen": "2026-11-16",
@@ -33596,7 +33606,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-23"
     },
     {
       "id": "paruvendu-1297500197",
@@ -33630,7 +33641,7 @@
       "city": "Saint-Vincent-de-Tyrosse",
       "postalCode": "40230",
       "distanceKm": 23,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-16",
       "lastSeen": "2026-11-16",
@@ -33645,7 +33656,8 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-23"
     },
     {
       "id": "paruvendu-1297500123",
@@ -33679,7 +33691,7 @@
       "city": "Saint-Vincent-de-Tyrosse",
       "postalCode": "40230",
       "distanceKm": 23,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-16",
       "lastSeen": "2026-11-16",
@@ -33694,7 +33706,8 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-23"
     },
     {
       "id": "paruvendu-1297500127",
@@ -33728,7 +33741,7 @@
       "city": "Saint-Vincent-de-Tyrosse",
       "postalCode": "40230",
       "distanceKm": 23,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-16",
       "lastSeen": "2026-11-16",
@@ -33743,7 +33756,8 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-23"
     },
     {
       "id": "fnaim-40510-654",
@@ -33781,8 +33795,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-16",
@@ -33832,8 +33846,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-16",
@@ -33883,8 +33897,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-16",
@@ -33933,8 +33947,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-16",
@@ -33982,8 +33996,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-16",
-      "lastChecked": "2026-11-16",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "priceHistory": [
         {
           "date": "2026-11-16",
@@ -34028,7 +34042,7 @@
       "city": "Capbreton",
       "postalCode": "40130",
       "distanceKm": 16.9,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-16",
       "lastSeen": "2026-11-16",
@@ -34044,7 +34058,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-23"
     },
     {
       "id": "paruvendu-1297505506",
@@ -34078,7 +34093,7 @@
       "city": "Capbreton",
       "postalCode": "40130",
       "distanceKm": 16.9,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-16",
       "lastSeen": "2026-11-16",
@@ -34094,7 +34109,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-23"
     },
     {
       "id": "paruvendu-1297504194",
@@ -34129,7 +34145,7 @@
       "city": "Seignosse",
       "postalCode": "40510",
       "distanceKm": 23.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-16",
       "lastSeen": "2026-11-16",
@@ -34145,7 +34161,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-23"
     },
     {
       "id": "paruvendu-1292750588",
@@ -34179,7 +34196,7 @@
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-16",
       "lastSeen": "2026-11-16",
@@ -34193,7 +34210,8 @@
       "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-23"
     },
     {
       "id": "paruvendu-1297515080",
@@ -37402,6 +37420,106 @@
       ],
       "weaknesses": [
         "Parking non confirmé",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1293683900",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293683900A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Bayonne (64100) - ParuVendu.fr ref 992789182513",
+      "price": 165000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 203,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 740,
+      "taxeFonciere": null,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
+      "priceHistory": [
+        {
+          "date": "2026-11-23",
+          "price": 165000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297789005",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297789005A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 45m2 à Bidart (64210) - ParuVendu.fr ref 992792556020",
+      "price": 355000,
+      "surface": 45,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - bidart bidart"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "t 2 PIÈCES de 45m² + UNE TERRASSE + PARKING - BIDART Bidart",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "lastChecked": "2026-11-23",
+      "priceHistory": [
+        {
+          "date": "2026-11-23",
+          "price": 355000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
