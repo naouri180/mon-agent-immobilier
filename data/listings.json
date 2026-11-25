@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T11:06:28.216Z",
+  "updatedAt": "2026-11-24T23:54:49.479Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -6052,8 +6052,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6102,8 +6102,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6152,8 +6152,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6201,8 +6201,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6253,8 +6253,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6307,7 +6307,7 @@
       "city": "Ciboure",
       "postalCode": "64500",
       "distanceKm": 19.7,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-18",
@@ -6322,7 +6322,8 @@
         "Parking non confirmé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-25"
     },
     {
       "id": "paruvendu-1293109797",
@@ -6360,8 +6361,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6411,8 +6412,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6658,7 +6659,7 @@
       "city": "Hendaye",
       "postalCode": "64700",
       "distanceKm": 28.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-18",
@@ -6674,7 +6675,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-25"
     },
     {
       "id": "paruvendu-1296560127",
@@ -6711,8 +6713,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6810,8 +6812,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6860,8 +6862,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -6907,7 +6909,7 @@
       "city": "Hendaye",
       "postalCode": "64700",
       "distanceKm": 28.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-18",
@@ -6922,7 +6924,8 @@
         "Parking non confirmé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-25"
     },
     {
       "id": "paruvendu-1296310791",
@@ -6960,8 +6963,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7013,8 +7016,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7062,8 +7065,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7116,8 +7119,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7211,7 +7214,7 @@
       "city": "Hendaye",
       "postalCode": "64700",
       "distanceKm": 28.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-18",
@@ -7226,7 +7229,8 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-25"
     },
     {
       "id": "paruvendu-1295162705",
@@ -7263,8 +7267,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7312,8 +7316,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7361,8 +7365,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7409,8 +7413,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7457,8 +7461,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7505,8 +7509,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -16756,7 +16760,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "lastCheckProblem": "délai dépassé"
     },
     {
       "id": "fnaim-40130-322",
@@ -16793,8 +16798,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16844,8 +16849,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16899,8 +16904,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16954,8 +16959,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16981,7 +16986,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/53058105/17-acheter-appartement-capbreton-40130.htm",
       "title": "Achat Appartement 3 pièce(s) 53 m² CAPBRETON 40130 349 000 € - fnaim.fr",
-      "price": 349000,
+      "price": 345000,
       "surface": 53,
       "surfaceCarrez": null,
       "rooms": 3,
@@ -17012,12 +17017,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-26",
           "price": 349000
+        },
+        {
+          "date": "2026-11-25",
+          "price": 345000
         }
       ],
       "weaknesses": [
@@ -38345,6 +38354,255 @@
       "weaknesses": [
         "Nature du parking non précisée",
         "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297363772",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297363772A1KIVHAP000",
+      "title": "Appartement de luxe à vendre à Biarritz (64200) | 784 800 € | 3 pièces | 79 m² - ParuVendu.fr ref 992792175130",
+      "price": 784800,
+      "surface": 79,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - biarritz biarritz"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "ement 3 PIÈCES de 79m² + TERRASSE + PARKING - BIARRITZ Biarritz",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 784800
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297844364",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297844364A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 85m2 à Biarritz (64200) - ParuVendu.fr ref 992792604319",
+      "price": 490000,
+      "surface": 85,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 170,
+      "ges": "C",
+      "gesKg": 28,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 2932,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Biarritz",
+      "postalCode": "64200",
+      "distanceKm": 6.8,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 490000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Charges élevées",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297856141",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297856141A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 70m2 à Bidart (64210) - ParuVendu.fr ref 992792614359",
+      "price": 430000,
+      "surface": 70,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 172,
+      "ges": "C",
+      "gesKg": 28,
+      "dpeDerived": false,
+      "parking": {
+        "count": 2,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": "1er étage",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bidart",
+      "postalCode": "64210",
+      "distanceKm": 11.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 430000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297363776",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297363776A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 42m2 à Capbreton (40130) - ParuVendu.fr ref 992792175134",
+      "price": 250200,
+      "surface": 42,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - capbreton capbreton"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "ement 2 PIÈCES de 42m² + BALCON + PARKING - CAPBRETON Capbreton",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 250200
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297363777",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297363777A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 62m2 à Capbreton (40130) - ParuVendu.fr ref 992792175135",
+      "price": 312300,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - capbreton capbreton"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "ement 3 PIÈCES de 62m² + BALCON + PARKING - CAPBRETON Capbreton",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 312300
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
