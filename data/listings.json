@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T23:54:49.479Z",
+  "updatedAt": "2026-11-25T15:38:51.172Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -577,7 +577,8 @@
       "postalCode": "64100",
       "distanceKm": 0,
       "altUrls": [
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1295566028A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1295566028A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297873034A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -16742,8 +16743,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -16760,8 +16761,7 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ],
-      "lastCheckProblem": "délai dépassé"
+      ]
     },
     {
       "id": "fnaim-40130-322",
@@ -17070,8 +17070,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17119,8 +17119,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17169,8 +17169,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17219,8 +17219,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17268,8 +17268,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17317,8 +17317,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17365,8 +17365,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17414,8 +17414,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17464,8 +17464,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17514,8 +17514,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -17563,8 +17563,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-26",
@@ -20460,8 +20460,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -20606,7 +20606,7 @@
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-11-18",
@@ -20631,7 +20631,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-25"
     },
     {
       "id": "paruvendu-1296842240",
@@ -20720,8 +20721,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -20770,8 +20771,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-10-30",
@@ -24032,10 +24033,10 @@
       "surfaceCarrez": null,
       "rooms": 3,
       "bedrooms": 2,
-      "dpe": null,
-      "dpeKwh": null,
-      "ges": null,
-      "gesKg": null,
+      "dpe": "B",
+      "dpeKwh": 59,
+      "ges": "B",
+      "gesKg": 10,
       "dpeDerived": false,
       "parking": {
         "count": 1,
@@ -24057,8 +24058,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-11-04",
@@ -24163,8 +24164,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-11-04",
@@ -24374,8 +24375,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-11-04",
@@ -24420,7 +24421,7 @@
       "city": "Bardos",
       "postalCode": "64520",
       "distanceKm": 22,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-04",
       "lastSeen": "2026-11-18",
@@ -24443,7 +24444,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-25"
     },
     {
       "id": "paruvendu-1297030325",
@@ -24581,8 +24583,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-11-05",
@@ -24630,8 +24632,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-11-05",
@@ -24680,8 +24682,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-11-05",
@@ -24729,8 +24731,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-11-05",
@@ -24777,8 +24779,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-11-05",
@@ -24827,8 +24829,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-11-05",
@@ -24875,8 +24877,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-11-05",
@@ -24901,7 +24903,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/53179291/17-acheter-appartement-hendaye-64700.htm",
       "title": "Achat Appartement 2 pièce(s) 50 m² HENDAYE 64700 260 000 € - fnaim.fr",
-      "price": 249000,
+      "price": 145500,
       "surface": 50,
       "surfaceCarrez": null,
       "rooms": 2,
@@ -24916,13 +24918,13 @@
         "type": "souterrain",
         "detail": "parking"
       },
-      "floor": null,
+      "floor": "dernier étage",
       "elevator": true,
       "charges": null,
       "taxeFonciere": null,
       "exterior": "une chambre et une belle terrasse couverte exposée Sud, lumineuse toute l'anné",
       "condition": "inconnu",
-      "year": null,
+      "year": 2010,
       "procedure": false,
       "quartier": null,
       "city": "Hendaye",
@@ -24931,8 +24933,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-11-05",
@@ -24941,6 +24943,10 @@
         {
           "date": "2026-11-12",
           "price": 249000
+        },
+        {
+          "date": "2026-11-25",
+          "price": 145500
         }
       ],
       "weaknesses": [
@@ -24982,7 +24988,7 @@
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-05",
       "lastSeen": "2026-11-18",
@@ -24998,7 +25004,8 @@
         "Procédure en cours dans la copropriété",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-25"
     },
     {
       "id": "paruvendu-1297045695",
@@ -25035,8 +25042,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
       "priceHistory": [
         {
           "date": "2026-11-05",
@@ -34911,6 +34918,12 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297889027A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -38604,6 +38617,299 @@
       "weaknesses": [
         "Nature du parking non précisée",
         "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297861413",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297861413A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 84m2 à Bayonne (64100) - ParuVendu.fr ref 992792619130",
+      "price": 450000,
+      "surface": 84,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 135,
+      "ges": "C",
+      "gesKg": 28,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "dernier étage",
+      "elevator": null,
+      "charges": 1200,
+      "taxeFonciere": null,
+      "exterior": "RÉNOVÉ DE 84,72 M² AVEC BALCON, DRESSING ET DEUX CAVES Bayonne",
+      "condition": "travaux",
+      "year": null,
+      "procedure": null,
+      "quartier": "Arènes",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 450000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297873263",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297873263A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 40m2 à Bayonne (64100) - ParuVendu.fr ref 992792630429",
+      "price": 177000,
+      "surface": 40,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "A",
+      "dpeKwh": 12,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": 480,
+      "taxeFonciere": null,
+      "exterior": "rtement Appartement avec terrasse, à deux pas du centre-ville de Bayonne Bayon",
+      "condition": "inconnu",
+      "year": 2017,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 177000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297863772",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297863772A1KIVHAP000",
+      "title": "Annonce vente appartement 2 pièces de 57m2 à Bayonne (64100) - ParuVendu.fr ref 992792621276",
+      "price": 245000,
+      "surface": 57,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": null,
+      "dpe": "D",
+      "dpeKwh": 198,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "un box pour plus de confort"
+      },
+      "floor": "2ème et dernier étage",
+      "elevator": true,
+      "charges": 1440,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": 2010,
+      "procedure": true,
+      "quartier": "Arrousets",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 245000
+        }
+      ],
+      "weaknesses": [
+        "Procédure en cours dans la copropriété",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297860437",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297860437A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 62m2 à Capbreton (40130) - ParuVendu.fr ref 992792618214",
+      "price": 336590,
+      "surface": 62,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": 50,
+      "ges": "A",
+      "gesKg": 5,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Capbreton",
+      "postalCode": "40130",
+      "distanceKm": 16.9,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 336590
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-52835625",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52835625/17-acheter-appartement-pyrenees-atlantiques-64.htm",
+      "title": "Achat Appartement 4 pièce(s) 69 m² 330 000 € - fnaim.fr",
+      "price": 330000,
+      "surface": 69,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "C",
+      "dpeKwh": 165,
+      "ges": "C",
+      "gesKg": 12,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": "3eme étage",
+      "elevator": true,
+      "charges": 100,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "travaux",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Hendaye",
+      "postalCode": "64700",
+      "distanceKm": 28.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 330000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-40510-755",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52997883/17-acheter-appartement-seignosse-40510.htm",
+      "title": "Achat Appartement 3 pièce(s) 44 m² SEIGNOSSE 40510 280 000 € - fnaim.fr",
+      "price": 280000,
+      "surface": 44,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 176,
+      "ges": "B",
+      "gesKg": 6,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 1152,
+      "taxeFonciere": null,
+      "exterior": "e sur une exceptionnelle terrasse d'angle de 45 m2 exposée nord-ouest",
+      "condition": "travaux",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Seignosse",
+      "postalCode": "40510",
+      "distanceKm": 23.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "lastChecked": "2026-11-25",
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 280000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }

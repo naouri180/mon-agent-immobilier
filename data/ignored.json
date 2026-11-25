@@ -125,7 +125,7 @@
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1288370768A1KIVHAP000": {
     "reason": "surface 36 m² hors collecte",
-    "date": "2026-10-25"
+    "date": "2026-11-25"
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1296158266A1KIVHAP000": {
     "reason": "surface 37 m² hors collecte",
@@ -4357,6 +4357,54 @@
   },
   "https://www.fnaim.fr/annonce-immobiliere/53259199/17-acheter-appartement-soorts-hossegor-40150.htm": {
     "reason": "surface 29 m² hors collecte",
+    "date": "2026-11-25"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297873032A1KIVHAP000": {
+    "reason": "surface 31 m² hors collecte",
+    "date": "2026-11-25"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297860435A1KIVHAP000": {
+    "reason": "surface 134 m² hors collecte",
+    "date": "2026-11-25"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297863299A1KIVHAP000": {
+    "reason": "surface 24 m² hors collecte",
+    "date": "2026-11-25"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1293550124A1KIVHAP000": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-25"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1296481104A1KIVHAP000": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-25"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297069400A1KIVHAP000": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-25"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297873352A1KIVHAP000": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-25"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297887984A1KIVHAP000": {
+    "reason": "surface 131 m² hors collecte",
+    "date": "2026-11-25"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297887964A1KIVHAP000": {
+    "reason": "surface 96 m² hors collecte",
+    "date": "2026-11-25"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297887961A1KIVHAP000": {
+    "reason": "surface 86 m² hors collecte",
+    "date": "2026-11-25"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297863433A1KIVHAP000": {
+    "reason": "surface 24 m² hors collecte",
+    "date": "2026-11-25"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297863470A1KIVHAP000": {
+    "reason": "surface 22 m² hors collecte",
     "date": "2026-11-25"
   }
 }
