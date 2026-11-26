@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T15:38:51.172Z",
+  "updatedAt": "2026-11-26T15:20:21.136Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -41,8 +41,8 @@
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "publishedOrUpdated": "2026-10-24",
       "priceHistory": [
         {
@@ -404,8 +404,8 @@
       "verified": true,
       "seed": true,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -448,8 +448,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -497,8 +497,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -560,8 +560,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -578,7 +578,8 @@
       "distanceKm": 0,
       "altUrls": [
         "https://www.paruvendu.fr/immobilier/vente/appartement/1295566028A1KIVHAP000",
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1297873034A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297873034A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297913847A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -617,8 +618,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -665,8 +666,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7607,8 +7608,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7657,7 +7658,7 @@
       "city": "Ustaritz",
       "postalCode": "64480",
       "distanceKm": 10.8,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-19",
@@ -7671,7 +7672,8 @@
       "weaknesses": [
         "Procédure en cours dans la copropriété",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-26"
     },
     {
       "id": "paruvendu-1296451767",
@@ -7810,8 +7812,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -7858,8 +7860,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -29254,7 +29256,7 @@
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-18",
@@ -29268,7 +29270,8 @@
       "weaknesses": [
         "Procédure en cours dans la copropriété",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-26"
     },
     {
       "id": "paruvendu-1297277942",
@@ -29306,8 +29309,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "priceHistory": [
         {
           "date": "2026-11-11",
@@ -29357,8 +29360,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "priceHistory": [
         {
           "date": "2026-11-11",
@@ -29567,8 +29570,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "priceHistory": [
         {
           "date": "2026-11-11",
@@ -29612,7 +29615,7 @@
       "city": "Biarritz",
       "postalCode": "64200",
       "distanceKm": 6.8,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-18",
@@ -29632,7 +29635,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-26"
     },
     {
       "id": "paruvendu-1297313540",
@@ -29782,7 +29786,7 @@
       "city": "Biarritz",
       "postalCode": "64200",
       "distanceKm": 6.8,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-12",
       "lastSeen": "2026-11-18",
@@ -29807,7 +29811,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-26"
     },
     {
       "id": "paruvendu-1297342813",
@@ -29844,8 +29849,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "priceHistory": [
         {
           "date": "2026-11-12",
@@ -30020,8 +30025,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "priceHistory": [
         {
           "date": "2026-11-12",
@@ -30069,8 +30074,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "priceHistory": [
         {
           "date": "2026-11-12",
@@ -34596,7 +34601,7 @@
       "city": "Saint-Martin-de-Seignanx",
       "postalCode": "40390",
       "distanceKm": 9.1,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
@@ -34611,7 +34616,8 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-26"
     },
     {
       "id": "paruvendu-1297568891",
@@ -34645,7 +34651,7 @@
       "city": "Capbreton",
       "postalCode": "40130",
       "distanceKm": 16.9,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
@@ -34661,7 +34667,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-26"
     },
     {
       "id": "paruvendu-1297591310",
@@ -34695,7 +34702,7 @@
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
@@ -34716,7 +34723,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-26"
     },
     {
       "id": "paruvendu-1296359260",
@@ -34753,8 +34761,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "priceHistory": [
         {
           "date": "2026-11-18",
@@ -34771,7 +34779,7 @@
       "source": "ParuVendu",
       "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297586169A1KIVHAP000",
       "title": "Appartement de luxe à vendre à Biarritz (64200) | 650 000 € | 3 pièces | 81 m² - ParuVendu.fr ref 992792374722",
-      "price": 650000,
+      "price": 645000,
       "surface": 81,
       "surfaceCarrez": null,
       "rooms": 3,
@@ -34801,12 +34809,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "priceHistory": [
         {
           "date": "2026-11-18",
           "price": 650000
+        },
+        {
+          "date": "2026-11-26",
+          "price": 645000
         }
       ],
       "weaknesses": [
@@ -34857,8 +34869,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "priceHistory": [
         {
           "date": "2026-11-18",
@@ -34902,7 +34914,7 @@
       "city": "Urrugne",
       "postalCode": "64122",
       "distanceKm": 23.2,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
@@ -34924,7 +34936,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-26"
     },
     {
       "id": "paruvendu-1297591392",
@@ -34958,7 +34971,7 @@
       "city": "Capbreton",
       "postalCode": "40130",
       "distanceKm": 16.9,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
@@ -34974,7 +34987,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-26"
     },
     {
       "id": "paruvendu-1297586052",
@@ -35012,8 +35026,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
       "priceHistory": [
         {
           "date": "2026-11-18",
@@ -35060,7 +35074,7 @@
       "city": "Saint-Vincent-de-Tyrosse",
       "postalCode": "40230",
       "distanceKm": 23,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
@@ -35075,7 +35089,8 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-26"
     },
     {
       "id": "paruvendu-1297612413",
@@ -38910,6 +38925,299 @@
       "weaknesses": [
         "Nature du parking non précisée",
         "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297925663",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297925663A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 61m2 à Bayonne (64100) - ParuVendu.fr ref 992792676756",
+      "price": 289900,
+      "surface": 61,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "A",
+      "dpeKwh": null,
+      "ges": null,
+      "gesKg": null,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking - bayonne bayonne"
+      },
+      "floor": null,
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "3 PIÈCES de 61m² + UN BALCON + PARKING - BAYONNE Bayonne",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
+      "priceHistory": [
+        {
+          "date": "2026-11-26",
+          "price": 289900
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297884205",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297884205A1KIVHAP000",
+      "title": "Annonce vente appartement 4 pièces de 79m2 à Bayonne (64100) - ParuVendu.fr ref 992792640084",
+      "price": 415000,
+      "surface": 79,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "B",
+      "dpeKwh": 54,
+      "ges": "B",
+      "gesKg": 10,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "souterrain",
+        "detail": "parking"
+      },
+      "floor": "4e étage",
+      "elevator": true,
+      "charges": 2160,
+      "taxeFonciere": null,
+      "exterior": "Balcon / Terrasse",
+      "condition": "excellent",
+      "year": 2015,
+      "procedure": null,
+      "quartier": null,
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
+      "priceHistory": [
+        {
+          "date": "2026-11-26",
+          "price": 415000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297928140",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297928140A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 60m2 à Urrugne (64122) - ParuVendu.fr ref 992792678664",
+      "price": 230000,
+      "surface": 60,
+      "surfaceCarrez": 61,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 279,
+      "ges": "E",
+      "gesKg": 61,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "dernier étage",
+      "elevator": false,
+      "charges": 852,
+      "taxeFonciere": 862,
+      "exterior": null,
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Urrugne",
+      "postalCode": "64122",
+      "distanceKm": 23.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
+      "priceHistory": [
+        {
+          "date": "2026-11-26",
+          "price": 230000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1297905553",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1297905553A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 71m2 à Saint martin de seignanx (40390) - ParuVendu.fr ref 992792658933",
+      "price": 299000,
+      "surface": 71,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "F",
+      "dpeKwh": 362,
+      "ges": "C",
+      "gesKg": 13,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": "1er étage",
+      "elevator": null,
+      "charges": 237,
+      "taxeFonciere": 850,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Saint-Martin-de-Seignanx",
+      "postalCode": "40390",
+      "distanceKm": 9.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
+      "priceHistory": [
+        {
+          "date": "2026-11-26",
+          "price": 299000
+        }
+      ],
+      "weaknesses": [
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64600-760",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53159319/17-acheter-appartement-anglet-64600.htm",
+      "title": "Achat Appartement 3 pièce(s) 60 m² ANGLET 64600 280 000 € - fnaim.fr",
+      "price": 280000,
+      "surface": 60,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "C",
+      "dpeKwh": 114,
+      "ges": "D",
+      "gesKg": 21,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "2 chambres Balcon Ascenseur Parking / Garage",
+      "condition": "excellent",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
+      "priceHistory": [
+        {
+          "date": "2026-11-26",
+          "price": 280000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-53262001",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53262001/17-acheter-appartement-pyrenees-atlantiques-64.htm",
+      "title": "Achat Appartement 4 pièce(s) 71 m² 298 000 € - fnaim.fr",
+      "price": 298000,
+      "surface": 71,
+      "surfaceCarrez": null,
+      "rooms": 4,
+      "bedrooms": 3,
+      "dpe": "G",
+      "dpeKwh": 429,
+      "ges": "C",
+      "gesKg": 17,
+      "dpeDerived": false,
+      "parking": {
+        "count": 0,
+        "type": null,
+        "detail": null,
+        "uncertain": true
+      },
+      "floor": "dernier étage",
+      "elevator": true,
+      "charges": 150,
+      "taxeFonciere": null,
+      "exterior": "Terrasse : Non",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Ciboure",
+      "postalCode": "64500",
+      "distanceKm": 19.7,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26",
+      "lastChecked": "2026-11-26",
+      "priceHistory": [
+        {
+          "date": "2026-11-26",
+          "price": 298000
+        }
+      ],
+      "weaknesses": [
+        "Parking non confirmé",
+        "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
       ]
     }

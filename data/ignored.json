@@ -257,7 +257,7 @@
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1295125312A1KIVHAP000": {
     "reason": "surface 37 m² hors collecte",
-    "date": "2026-10-25"
+    "date": "2026-11-26"
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1296485044A1KIVHAP000": {
     "reason": "surface 34 m² hors collecte",
@@ -1329,7 +1329,7 @@
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1295389970A1KIVHAP000": {
     "reason": "surface 35 m² hors collecte",
-    "date": "2026-10-27"
+    "date": "2026-11-26"
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1296706765A1KIVHAP000": {
     "reason": "surface 90 m² hors collecte",
@@ -4406,5 +4406,45 @@
   "https://www.paruvendu.fr/immobilier/vente/appartement/1297863470A1KIVHAP000": {
     "reason": "surface 22 m² hors collecte",
     "date": "2026-11-25"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297932474A1KIVHAP000": {
+    "reason": "surface 107 m² hors collecte",
+    "date": "2026-11-26"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297914944A1KIVHAP000": {
+    "reason": "surface 126 m² hors collecte",
+    "date": "2026-11-26"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297915459A1KIVHAP000": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-26"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297915338A1KIVHAP000": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-26"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297915000A1KIVHAP000": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-26"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297914851A1KIVHAP000": {
+    "reason": "commune non reconnue",
+    "date": "2026-11-26"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297913986A1KIVHAP000": {
+    "reason": "déjà vendu / sous compromis",
+    "date": "2026-11-26"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297934331A1KIVHAP000": {
+    "reason": "surface 27 m² hors collecte",
+    "date": "2026-11-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53261845/17-acheter-appartement-urrugne-64122.htm": {
+    "reason": "surface 33 m² hors collecte",
+    "date": "2026-11-26"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53262165/17-acheter-appartement-urrugne-64122.htm": {
+    "reason": "surface 33 m² hors collecte",
+    "date": "2026-11-26"
   }
 }
