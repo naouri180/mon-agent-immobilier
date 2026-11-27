@@ -1429,7 +1429,7 @@
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1293268638A1KIVHAP000": {
     "reason": "surface 86 m² hors collecte",
-    "date": "2026-10-29"
+    "date": "2026-11-28"
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1296807001A1KIVHAP000": {
     "reason": "surface 93 m² hors collecte",
@@ -1437,7 +1437,7 @@
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1296359295A1KIVHAP000": {
     "reason": "surface 33 m² hors collecte",
-    "date": "2026-10-29"
+    "date": "2026-11-28"
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1294666140A1KIVHAP000": {
     "reason": "surface 89.44 m² hors collecte",
@@ -1457,11 +1457,11 @@
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1296802886A1KIVHAP000": {
     "reason": "surface 16 m² hors collecte",
-    "date": "2026-10-29"
+    "date": "2026-11-28"
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1288079482A1KIVHAP000": {
     "reason": "surface 92 m² hors collecte",
-    "date": "2026-10-29"
+    "date": "2026-11-28"
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1296822303A1KIVHAP000": {
     "reason": "surface 21 m² hors collecte",
@@ -4462,5 +4462,37 @@
   "https://www.fnaim.fr/annonce-immobiliere/53263253/17-acheter-appartement-bayonne-64100.htm": {
     "reason": "surface 34 m² hors collecte",
     "date": "2026-11-27"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297969646A1KIVHAP000": {
+    "reason": "surface 36 m² hors collecte",
+    "date": "2026-11-28"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297984785A1KIVHAP000": {
+    "reason": "surface 185 m² hors collecte",
+    "date": "2026-11-28"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297969654A1KIVHAP000": {
+    "reason": "surface 21 m² hors collecte",
+    "date": "2026-11-28"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297988582A1KIVHAP000": {
+    "reason": "surface 132 m² hors collecte",
+    "date": "2026-11-28"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297988628A1KIVHAP000": {
+    "reason": "surface 114 m² hors collecte",
+    "date": "2026-11-28"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297988653A1KIVHAP000": {
+    "reason": "surface 115 m² hors collecte",
+    "date": "2026-11-28"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297986827A1KIVHAP000": {
+    "reason": "surface 110 m² hors collecte",
+    "date": "2026-11-28"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297986828A1KIVHAP000": {
+    "reason": "surface 115 m² hors collecte",
+    "date": "2026-11-28"
   }
 }
