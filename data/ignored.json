@@ -1345,7 +1345,7 @@
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1295654713A1KIVHAP000": {
     "reason": "surface 36 m² hors collecte",
-    "date": "2026-10-28"
+    "date": "2026-11-27"
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1296754254A1KIVHAP000": {
     "reason": "surface 89 m² hors collecte",
@@ -1353,7 +1353,7 @@
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1293678203A1KIVHAP000": {
     "reason": "surface 39 m² hors collecte",
-    "date": "2026-10-28"
+    "date": "2026-11-27"
   },
   "https://www.fnaim.fr/annonce-immobiliere/52998078/17-acheter-appartement-anglet-64600.htm": {
     "reason": "surface 87 m² hors collecte",
@@ -1369,15 +1369,15 @@
   },
   "https://www.fnaim.fr/annonce-immobiliere/52247999/17-acheter-appartement-urrugne-64122.htm": {
     "reason": "surface 128 m² hors collecte",
-    "date": "2026-10-28"
+    "date": "2026-11-27"
   },
   "https://www.fnaim.fr/annonce-immobiliere/52103744/17-acheter-appartement-soorts-hossegor-40150.htm": {
     "reason": "surface 93 m² hors collecte",
-    "date": "2026-10-28"
+    "date": "2026-11-27"
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1296321165A1KIVHAP000": {
     "reason": "surface 90 m² hors collecte",
-    "date": "2026-10-28"
+    "date": "2026-11-27"
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1294636784A1KIVHAP000": {
     "reason": "surface 21 m² hors collecte",
@@ -1385,7 +1385,7 @@
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1295728548A1KIVHAP000": {
     "reason": "surface 88 m² hors collecte",
-    "date": "2026-10-28"
+    "date": "2026-11-27"
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1296320678A1KIVHAP000": {
     "reason": "surface 15 m² hors collecte",
@@ -1393,19 +1393,19 @@
   },
   "https://www.fnaim.fr/annonce-immobiliere/53226450/17-acheter-appartement-anglet-64600.htm": {
     "reason": "surface 38 m² hors collecte",
-    "date": "2026-10-28"
+    "date": "2026-11-27"
   },
   "https://www.fnaim.fr/annonce-immobiliere/53226320/17-acheter-appartement-pyrenees-atlantiques-64.htm": {
     "reason": "surface 18 m² hors collecte",
-    "date": "2026-10-28"
+    "date": "2026-11-27"
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1293679173A1KIVHAP000": {
     "reason": "surface 28 m² hors collecte",
-    "date": "2026-10-28"
+    "date": "2026-11-27"
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1284392451A1KIVHAP000": {
     "reason": "surface 32 m² hors collecte",
-    "date": "2026-10-28"
+    "date": "2026-11-27"
   },
   "https://www.paruvendu.fr/immobilier/vente/appartement/1295018219A1KIVHAP000": {
     "reason": "surface 99 m² hors collecte",
@@ -4446,5 +4446,21 @@
   "https://www.fnaim.fr/annonce-immobiliere/53262165/17-acheter-appartement-urrugne-64122.htm": {
     "reason": "surface 33 m² hors collecte",
     "date": "2026-11-26"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297956267A1KIVHAP000": {
+    "reason": "surface 29 m² hors collecte",
+    "date": "2026-11-27"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297969641A1KIVHAP000": {
+    "reason": "surface 88 m² hors collecte",
+    "date": "2026-11-27"
+  },
+  "https://www.paruvendu.fr/immobilier/vente/appartement/1297973528A1KIVHAP000": {
+    "reason": "surface 90 m² hors collecte",
+    "date": "2026-11-27"
+  },
+  "https://www.fnaim.fr/annonce-immobiliere/53263253/17-acheter-appartement-bayonne-64100.htm": {
+    "reason": "surface 34 m² hors collecte",
+    "date": "2026-11-27"
   }
 }
