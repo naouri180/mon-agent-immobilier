@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T23:28:52.133Z",
+  "updatedAt": "2026-11-28T14:15:05.533Z",
   "listings": [
     {
       "id": "paruvendu-1295247715",
@@ -104,7 +104,8 @@
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0
+      "distanceKm": 0,
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "capifrance-117218",
@@ -207,7 +208,8 @@
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0
+      "distanceKm": 0,
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "foncia-00752272",
@@ -366,7 +368,8 @@
         }
       ],
       "postalCode": "64100",
-      "distanceKm": 0
+      "distanceKm": 0,
+      "lastCheckProblem": "accès refusé par le site"
     },
     {
       "id": "fnaim-53014705",
@@ -769,8 +772,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-20",
-      "lastChecked": "2026-11-20",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-10-25",
@@ -13089,6 +13092,12 @@
       "weaknesses": [
         "Nature du parking non précisée",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1298005478A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -19461,6 +19470,12 @@
       "weaknesses": [
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1298005263A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -20974,6 +20989,12 @@
         "Nature du parking non précisée",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ],
+      "altUrls": [
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1298023978A1KIVHAP000"
+      ],
+      "duplicates": [
+        "paruvendu.fr"
       ]
     },
     {
@@ -25644,8 +25665,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -25694,8 +25715,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -25745,8 +25766,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -30143,8 +30164,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-13",
@@ -30192,8 +30213,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-13",
@@ -30240,8 +30261,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-13",
@@ -30291,8 +30312,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-13",
@@ -30342,8 +30363,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-13",
@@ -30362,7 +30383,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/53244921/17-acheter-appartement-anglet-64600.htm",
       "title": "Achat Appartement 3 pièce(s) 60 m² ANGLET 64600 272 500 € - fnaim.fr",
-      "price": 272500,
+      "price": 123100,
       "surface": 60,
       "surfaceCarrez": null,
       "rooms": 3,
@@ -30392,12 +30413,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-13",
           "price": 272500
+        },
+        {
+          "date": "2026-11-28",
+          "price": 123100
         }
       ],
       "weaknesses": [
@@ -30442,8 +30467,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-13",
@@ -30498,8 +30523,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-13",
@@ -30550,7 +30575,7 @@
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-13",
       "lastSeen": "2026-11-19",
@@ -30571,7 +30596,8 @@
       ],
       "duplicates": [
         "paruvendu.fr"
-      ]
+      ],
+      "removedOn": "2026-11-28"
     },
     {
       "id": "paruvendu-1297383130",
@@ -30608,8 +30634,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-13",
@@ -35145,7 +35171,7 @@
       "city": "Bayonne",
       "postalCode": "64100",
       "distanceKm": 0,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-19",
       "lastSeen": "2026-11-19",
@@ -35159,7 +35185,8 @@
       "weaknesses": [
         "Charges élevées",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-28"
     },
     {
       "id": "paruvendu-1297606372",
@@ -35196,8 +35223,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-19",
@@ -35245,8 +35272,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-19",
@@ -35295,8 +35322,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-19",
@@ -35344,8 +35371,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-19",
@@ -35393,8 +35420,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-19",
@@ -35418,7 +35445,7 @@
       "source": "FNAIM",
       "url": "https://www.fnaim.fr/annonce-immobiliere/53187790/17-acheter-appartement-hendaye-64700.htm",
       "title": "Achat Appartement 3 pièce(s) 64 m² HENDAYE 64700 299 000 € - fnaim.fr",
-      "price": 299000,
+      "price": 145500,
       "surface": 64,
       "surfaceCarrez": null,
       "rooms": 3,
@@ -35439,7 +35466,7 @@
       "taxeFonciere": null,
       "exterior": "Terrasse : Non",
       "condition": "inconnu",
-      "year": null,
+      "year": 2010,
       "procedure": false,
       "quartier": null,
       "city": "Hendaye",
@@ -35448,12 +35475,16 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-19",
           "price": 299000
+        },
+        {
+          "date": "2026-11-28",
+          "price": 145500
         }
       ],
       "weaknesses": [
@@ -35496,8 +35527,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-19",
@@ -35544,8 +35575,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-19",
@@ -35592,8 +35623,8 @@
       "status": "active",
       "verified": false,
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-19",
-      "lastChecked": "2026-11-19",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "priceHistory": [
         {
           "date": "2026-11-19",
@@ -35637,7 +35668,7 @@
       "city": "Biarritz",
       "postalCode": "64200",
       "distanceKm": 6.8,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-19",
       "lastSeen": "2026-11-19",
@@ -35652,7 +35683,8 @@
         "Nature du parking non précisée",
         "Prix au m² élevé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-28"
     },
     {
       "id": "paruvendu-1297628184",
@@ -35686,7 +35718,7 @@
       "city": "Soorts-Hossegor",
       "postalCode": "40150",
       "distanceKm": 20.1,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-19",
       "lastSeen": "2026-11-19",
@@ -35702,7 +35734,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-28"
     },
     {
       "id": "paruvendu-1297644080",
@@ -35737,7 +35770,7 @@
       "city": "Anglet",
       "postalCode": "64600",
       "distanceKm": 3.4,
-      "status": "active",
+      "status": "removed",
       "verified": false,
       "firstSeen": "2026-11-19",
       "lastSeen": "2026-11-19",
@@ -35753,7 +35786,8 @@
         "Prix au m² élevé",
         "État non précisé",
         "Fiche lue automatiquement : à vérifier sur l’annonce"
-      ]
+      ],
+      "removedOn": "2026-11-28"
     },
     {
       "id": "paruvendu-1291932406",
@@ -36564,7 +36598,9 @@
       "altUrls": [
         "https://www.paruvendu.fr/immobilier/vente/appartement/1297797164A1KIVHAP000",
         "https://www.paruvendu.fr/immobilier/vente/appartement/1297973745A1KIVHAP000",
-        "https://www.paruvendu.fr/immobilier/vente/appartement/1297973716A1KIVHAP000"
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1297973716A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1298010877A1KIVHAP000",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1298010878A1KIVHAP000"
       ],
       "duplicates": [
         "paruvendu.fr"
@@ -39597,6 +39633,250 @@
         {
           "date": "2026-11-28",
           "price": 304450
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1298021984",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1298021984A1KIVHAP000",
+      "title": "Annonce appartement au coeur du quartier saint esprit, vente 3 pièces de particulier Pyrénées-Atlantiques - ParuVendu.fr ref WI178241087",
+      "price": 275000,
+      "surface": 67,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "B",
+      "dpeKwh": 90,
+      "ges": "B",
+      "gesKg": 10,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "box",
+        "detail": "parking"
+      },
+      "floor": "2ème étage sur 4",
+      "elevator": true,
+      "charges": 2026,
+      "taxeFonciere": 2026,
+      "exterior": "Balcon / Terrasse",
+      "condition": "bon",
+      "year": 2017,
+      "procedure": false,
+      "quartier": "Saint-Esprit",
+      "city": "Bayonne",
+      "postalCode": "64100",
+      "distanceKm": 0,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-28",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
+      "priceHistory": [
+        {
+          "date": "2026-11-28",
+          "price": 275000
+        }
+      ],
+      "weaknesses": [
+        "Charges élevées",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1298005192",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1298005192A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 48m2 à Saint jean de luz (64500) - ParuVendu.fr ref 992792748963",
+      "price": 215000,
+      "surface": 48,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "D",
+      "dpeKwh": 221,
+      "ges": "B",
+      "gesKg": 8,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": "Rez-de-chaussée",
+      "elevator": null,
+      "charges": 1500,
+      "taxeFonciere": 550,
+      "exterior": "Balcon / Terrasse",
+      "condition": "inconnu",
+      "year": 1995,
+      "procedure": false,
+      "quartier": null,
+      "city": "Saint-Jean-de-Luz",
+      "postalCode": "64500",
+      "distanceKm": 19.2,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-28",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
+      "priceHistory": [
+        {
+          "date": "2026-11-28",
+          "price": 215000
+        }
+      ],
+      "weaknesses": [
+        "Charges élevées",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "paruvendu-1298024973",
+      "source": "ParuVendu",
+      "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1298024973A1KIVHAP000",
+      "title": "Annonce vente appartement 3 pièces de 52m2 à Soorts hossegor (40150) - ParuVendu.fr ref 992792763175",
+      "price": 392000,
+      "surface": 52,
+      "surfaceCarrez": null,
+      "rooms": 3,
+      "bedrooms": 2,
+      "dpe": "B",
+      "dpeKwh": 35,
+      "ges": "B",
+      "gesKg": 2,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking soorts hossegor"
+      },
+      "floor": "1er étage",
+      "elevator": null,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "t T3 de 52m² avec 8m² de balcon et parking Soorts hossegor",
+      "condition": "neuf",
+      "year": null,
+      "procedure": null,
+      "quartier": null,
+      "city": "Soorts-Hossegor",
+      "postalCode": "40150",
+      "distanceKm": 20.1,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-28",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
+      "priceHistory": [
+        {
+          "date": "2026-11-28",
+          "price": 392000
+        }
+      ],
+      "weaknesses": [
+        "Nature du parking non précisée",
+        "Prix au m² élevé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64600-772",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/53265201/17-acheter-appartement-anglet-64600.htm",
+      "title": "Achat Appartement 2 pièce(s) 47 m² ANGLET 64600 260 000 € - fnaim.fr",
+      "price": 260000,
+      "surface": 47,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 191,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "exterieur",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": null,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Terrasse Ascenseur Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Anglet",
+      "postalCode": "64600",
+      "distanceKm": 3.4,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-28",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
+      "priceHistory": [
+        {
+          "date": "2026-11-28",
+          "price": 260000
+        }
+      ],
+      "weaknesses": [
+        "Prix au m² élevé",
+        "État non précisé",
+        "Fiche lue automatiquement : à vérifier sur l’annonce"
+      ]
+    },
+    {
+      "id": "fnaim-64340-773",
+      "source": "FNAIM",
+      "url": "https://www.fnaim.fr/annonce-immobiliere/52734540/17-acheter-appartement-boucau-64340.htm",
+      "title": "Achat Appartement 2 pièce(s) 40 m² BOUCAU 64340 185 000 € - fnaim.fr",
+      "price": 185000,
+      "surface": 40,
+      "surfaceCarrez": null,
+      "rooms": 2,
+      "bedrooms": 1,
+      "dpe": "D",
+      "dpeKwh": 242,
+      "ges": "B",
+      "gesKg": 7,
+      "dpeDerived": false,
+      "parking": {
+        "count": 1,
+        "type": "inconnu",
+        "detail": "parking"
+      },
+      "floor": null,
+      "elevator": true,
+      "charges": 640,
+      "taxeFonciere": null,
+      "exterior": "1 chambre Terrasse Parking / Garage",
+      "condition": "inconnu",
+      "year": null,
+      "procedure": false,
+      "quartier": null,
+      "city": "Boucau",
+      "postalCode": "64340",
+      "distanceKm": 3.6,
+      "status": "active",
+      "verified": false,
+      "firstSeen": "2026-11-28",
+      "lastSeen": "2026-11-28",
+      "lastChecked": "2026-11-28",
+      "priceHistory": [
+        {
+          "date": "2026-11-28",
+          "price": 185000
         }
       ],
       "weaknesses": [
